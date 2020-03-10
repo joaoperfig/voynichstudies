@@ -220,3 +220,813 @@ Regnum Plantae[3] :
                 subphylum Spermatophytina, id est plantae quae semina gerunt
                     infraphylum Gymnospermae
                     infraphylum Angiospermae
+
+Tellus (planeta)
+Jump to navigation
+Jump to search
+
+Vide etiam paginam discretivam: Terra
+Tellus, Terra Signum Telluris Telluris hemisphaera orientalis
+Repertum
+Reperta a 	-
+Reperta anno 	nota antiquis
+Proprietates orbitales
+Intervallum a sole (ua) 	1 ua
+Axis semimaior 	149 597 887 km
+Perihelion 	147 098 074 km
+Aphelion 	152 097 701 km
+Eccentricitas 	0.016 710 22
+Periodus orbitalis 	365.256 96 diebus
+Inclinatio orbitalis 	0.000 05° (epochi 2000)
+Satellites 	1
+Satellitis nomen 	Luna
+Proprietates physicales
+Media diametrus 	12 745.591 km
+Area 	510 065 284.702 km2
+Massa 	5.9736 × 1024 kg
+Densitas 	5.515 g/cm3
+Gravitas 	9.8 m/s2
+Celeritas fugitiva 	11.186 km/s
+Periodus rotationis 	23 h 56 min
+Inclinatio axialis 	23.44°
+Albedo 	0.367
+Temperatura 	
+min 	med 	max
+200 K 	288 K 	330 K
+Proprietates atmosphericae
+Pressio atmosphaerica 	101.325 kPa
+Nitrogenium 	78.01%
+Oxygenium 	20.95 %
+Argon 	0.93 %
+Carbonii dioxidum 	0.04%
+
+Tellus (-ūris, f.), seu Terra, est tertius planeta a Sole stella sua, densissimus planeta, quintus a maximo ex octo systematis Solaris planetis, et maximus ex quattuor Systematis Solaris planetis terrestribus. Ea aliquando appellatur Mundus, planeta Caeruleus,[1] Tellus/Terra Mater, et adeo in variis linguis ipso nomine Latino Terra.
+
+Domus millionum specierum, homine non excepto, Tellus nunc est solus universi locus ubi vitam esse scimus. Planeta abhinc annorum 4.54 milia millionum formatus est, et in eius superficie abhinc milia millionum annorum apparuit vita. Biosphaera Telluris atmosphaeram aliosque abioticos planetae status magnopere mutavit, auctum organismorum aerobiorum et formationem tabulati ozoniferi sinens, quod, una cum magnetico Telluris campo, noxiam Solis radiationem occludit, vitam super terram exsistere sinens. Geophysicae Telluris proprietates, et geologica planetae historia et orbis, vitam hoc aevo persistere siverunt. Planeta vitam sustenturus ire putatur tantum 500 milliones annorum.
+Apex Montis Chimborazi in Aequatoria est locus in superficie Telluris, qui maxime a media parte distat.[2]
+
+Sicut omnes planetae, Tellus vi et gravitate formam globi habet; cum autem circum axem suum rotetur, in polis aliquatenus plana est. Inde circumscriptio lineae aequinoctialis 40 075.004 chiliometrorum longa 134.336 chiliometra longior est circumscriptione polari (39  940.638 km), quae sunt 0.34 centesimae. (Diametri ergo sunt 12 756.270 km, sive 12 713.500 km.) Telluris autem forma non exacte est ellipsoidica: ea, geoides nominata, nonnullis locis ±100 metra a forma ellipsoidae differt. Cum Tellus globus non sit, qui altissimus sit mons Telluris, dici non potest, nam altitudinem maximam super maris aequor Mons Everest (in iugo montium Himalaia) tenet; maxime autem a medio Telluris distat apex montis igniferi Chimborazi (in Aequatoria), fundamentum et summum montis Maunae Keae (in Havaiis) maxime distant.
+
+Signa Telluri Medio Aevo data sunt ♁ et ⊕ {\displaystyle \oplus } {\displaystyle \oplus }.
+Index
+
+    1 Quomodo Tellus structa est
+    2 Atmosphaera
+    3 Temperatura
+    4 Unde aqua in Tellurem venit
+    5 Motus cosmici
+    6 Luna
+        6.1 Rotatio
+    7 Aestus
+    8 De vita deque caelo
+        8.1 Origo vitae
+        8.2 Zonae
+            8.2.1 Zonae polares
+            8.2.2 Zonae temperatae
+            8.2.3 Zonae subtropicae
+            8.2.4 Zona tropica
+        8.3 De temporibus anni
+        8.4 Quod homo efficit
+    9 Nexus interni
+    10 Notae
+    11 Bibliographia
+    12 Nexus externi
+
+Quomodo Tellus structa est
+
+Tellus est maxima in numero planetarum saxis structorum nostri systematis solaris. Ceteri autem planetae ita structi sunt minores, (velut Mercurius, Venus, Mars, vel Planetoides); planetae maiores (sicut Iuppiter) in primis e gas constant.
+
+Tellus orta est abhinc annorum circa 4550 milliones, et veterrimi Telluris lapides, zircon, 4385 milliones annorum habent. Intra 100 milliones annorum tot meteoritae in Tellurem cadebant elementaque radiantia tantum calorem efficiebant, ut Tellus recens maxima e parte liquesceret. (Fortasse etiam alter planeta Martis magnitudine cum Tellure collidens hoc effecit simulque Lunam genuit.) In Tellure, liquida elementa vi et gravitate dirempta sunt ut gravissima, praecipue ferrum, medium locum tenerent, leviora autem, praecipue oxygenium, silicium, aluminium, sphaeram extremam fingerent. Quibus ex elementis mineralia silicium continentia orta sunt, quae corticem Telluris fingunt. Cum Tellus in primis e ferro, niccolo, silicio, oxygenio, aluminio exstet, densitas Telluris est maior, nempe 5.515 g/cm³.
+
+Sicut plerique planetarum Telluris similium maiorumque satellitum Telluris ipsius superficies duas in partis seu hemisphaeria divisa est: hemisphaerium terrarum atque hemisphaerium aquarum. In hoc aevo, maria 70.7 centesimae superficiei tegunt. Terrae (29.3%) in primis septem continentes faciunt: Asiam (maiorem) et Europam (melius in unam coniungendas, scilicet in Eurasiam), Africam, Americam Septentrionalem, Americam Meridionalem, Antarcticam, Australiam. Minores terrae positione non continentes, sed insulae vocantur. Maria sunt: tres oceani (Pacificus, Atlanticus, Indicus), et complura maria minora, sicut Mare Internum et Oceanus Arcticus. In fossa Mariana oceanus est altissimus, 11 034 metrorum infra maris aequor.
+
+Mensurae seismicae Tellurem tribus e sphaeris constare patefecerunt: e Telluris nucleo, amictu, cortice. Hae sphaerae planis discontinuitatis seismicis in vices terminantur. Cortex parsque superior amictus lithosphaeram faciunt. Inter 50 ac 100 chiliometra crassa est divisaque in laminas tectonicas, et magnas et parvas. Laminae maiores plerumque continentes aequiperant praeter laminam Pacificam. Hae laminae in saxis partim liquefactis amictus superioris, in asthenosphaera 100 ad 150 chiliometra crassa, moventur. Nuclei Telluris pars exterior liquida est calore plus quam 4000 K, pars interior vi et gravitate firma est.
+Atmosphaera
+
+Atmosphaera Telluris circiter 600 chiliometra altitudinis est. Massa atmosphaerae 5.13×1018 chiliogrammata est, id est decima centesima millesima pars massae Telluris. Pressio aëris in aequoris altitudine 1013 hPa est, densitas aëris 1.293 kg/m3. In aequoris altitudine aër in primis e 78 centesimis nitrogenii, 21 centesimis oxygenii, 1 centesimo argonis exstat. Vapor aquae (0%-5%) etiam in aëre est et tempestates efficit. Praeterea multa et alia gasa minima quidem parte aëri insunt, quae tamen caelo maioris momenti sint, e.g. carbonii dioxidum vel methanum.
+
+Cum atmosphaera Telluris lucis Solis partem caeruleam brevius undatam quinquiens magis dispergat quam partem rubram longius undatam, caelum nobis caeruleum videtur. Aequor autem marium atque oceanorum e spatio cosmico caeruleum videtur, cum aqua ipsa lucem rubram magis absorbat. Inde Tellus etiam planeta caeruleus vocatur.
+Temperatura
+
+Status energeticus Telluris maxima e parte de insolatione (de copia radiorum Solis) deque reflexione vel superficiei vel atmosphaerae, ergo de statu radiationis, dependit. Cetera enim tantum 0.02 centesimas efficiunt; etiam periodus Solis macularum plus efficit.
+
+Fere 0.013 centesimae e radionucleoidibus in Tellure dissolventibus oriuntur, 0.007 centesimae homo efficit materiem fossilem urens vel nuclea atomorum findens, 0.002 centesimae ex attritu aestuum fiunt.
+
+Albedo Telluris plus minusve 0.367 est, cuius maiorem partem nubes excitant. Inde temperatura universa est effectiva? 246 K (id est, -27 graduum Celsianorum). Medius autem calor humi est 288 K (+15 graduum Celsianorum) effectus tepidarii causa, quod imprimis vapor aquae ac dioxidum carbonii efficiunt. Extremae temperaturae umquam in Tellure mensae sunt hae: -89.6 gradus Celsiani (21 Iulii 1983 in statione Vostok nominata in terra Antarctica) et +53 gradus Celsiani in Valle Mortis in Civitatibus Foederatis).
+
+Calore medio 15 graduum Celsianorum soni velocitas in aequoris altitudine est circiter 340 m/s.
+Unde aqua in Tellurem venit
+
+Unde aqua in Tellurem venerit, praecipue autem, cur plus aquae in Tellure sit quam in ceteris planetis Telluris similibus, adhuc non satis liquet. Pars aquae e magmate evaporavisse et inde e medio Telluris orta esse putatur. Quod tamen tantam copiam aquae explanare nequit. Aliae partes e stellis crinitis, ex obiectis ultra Neptunum revolventibus, ex asteroidibus in Tellurem ceciderint. Isotoporum ratio deuterii pro protio (D/H ratio) in maribus mensa magis aequat ei in chondritis carbonicis inventae (quae reliquiae asteroidum in Tellurem casorum sciuntur), sed minus ei in stellis crinitis vel obiectis ultra Neptunum revolventibus exploratae.
+Motus cosmici
+Rationes intervallorum planetarum interiorum.
+Rationes intervallorum Tellus/Luna, Venus, Mercurius, Sol. Solis magnitudo hic normam respicit.
+Tellus/Luna 	Venus 	Mercurius 	Sol (normam respiciens)
+
+Tellus, una cum systemate Solare, est in Via Lactea galaxia sita, se circa 28 000 annorum lucis a media galaxia movens. Ea nunc est circa viginta annos lucis supra planum aequatoriale in spirali Orionis bracchio.
+
+Medium spatium mediae Telluris ac medii Solis circiter 149 597 870 km est. Quod spatium primo unitatem astronomicam (ua) definiebat, qua unitate astronomi in primis ad intervalla intra systema solare metienda utuntur.
+
+Locus orbitae Telluris, qui Soli proximus est, perihelium vocatur et 0.983 ua a Sole distat, locus remotissimus aphelium vocatus 1.017 ua distat. Orbita Telluris igitur ellipsis est excentritatis 0.0167. Spatium inter Solem et Tellurem autem non constat, sed altero quoque anno 10 cm augetur.
+
+Revolutio Telluris circum Solem nunc 365 d 6 h 9 min 9.54 s durat, quae periodus annus sideralis vocatur. Orbita Telluris linea ecliptica appellatur, planities autem, in qua orbita iacet, planities ecliptica.
+Luna
+
+Circa Tellurem movetur Luna, cuius ratio massarum ac Telluris tanta est, ut Tellus et Luna nonnumquam systema binorum planetarum vocetur pro planeta ac satellite. Ratio massarum modo in systemate Plutonis et Charontis maior est.
+Tellus de Luna visa
+
+Quod Luna tanta est, declinatio lineae eclipticae valde stabilis est, ut condiciones vitae in Tellure bene maneant.
+
+Rationes magnitudinum et spatii inter Tellurem Lunamque.
+
+Rationes magnitudinum et spatii verae inter Tellurem et Lunam.
+Tellus 	Luna
+Rotatio
+
+Tellus in 23 horis 56 minutis 4.09 secundis circum axim suum rotatur, quod tempus dies sideralis vocatur. Cum autem Telluris orbita circulum non sit, locus Solis die subsequenti non idem est atque die proximo. Spatium temporis inter summos soles, id est inter meridies subsequentis inde paulum longius est die siderali: id spatium dies solaris dicitur qui positione 24 horas continet.
+Tellus ut rotans visa
+
+Cum axis rotationis Telluris (hoc in aevo) 23.44° a linea ecliptica declinet, utraque hemisphaera (septentrionalis ac meridionalis) diversis orbitae locis diverse illustratur, unde tempora anni caelum suum efficientia oriuntur.
+Aestus
+
+Luna in Tellure non solum in maribus, sed etiam in terris (circa semimetrum) et in Telluris amictu aestus efficit, qui rotationem Telluris circum se ipsam paulatim frenant, ut dies circiter 20 µs per annum longiores fiant. Ex energia rotationis calor fit, impulsus rotationis a Tellure in Lunam transfertur, ut Lunae orbita altero quoque anno 4 centimetra a Tellure removeatur. Mensurae spatii inter Lunam et Tellurem instrumento laserico factae ex anno 1995 hoc effectum iam diu suspicatum demonstraverunt.
+
+Alia argumenta haec sunt: in curalii fossilibus anuli crescendi inveniuntur, qui omni die unum vestigium relinquebant. Item annorum singulorum vestigia inveniuntur. Inde numerum dierum anni pristini linquunt et annus constans ex illo numero aevo geologico auctus esse habetur.
+
+Etiam Solis defectiones litteris mandatae demonstrant diem longiorem factum esse, nam si dies aequus mansisset, defectiones aliis locis visae essent.
+
+Olim Tellus et Luna rotationem coniunctam habeant, Tellus quoque Lunae unam atque eandem partem praebeat, dies futurus quadraginta septem dies hodiernos contineat, nisi antea Sol se expandens hoc systema disturbet.
+De vita deque caelo
+Origo vitae
+
+Adhuc sola in Tellure vita probatur. Tamen vita iam paucis annis post frequentissimos asteroidum casus in Telluris primordiis coepisse videtur. In saxeis sedimentis adhuc ante 3850 milliones annorum genitis, quae in regione Isua (in Groenlandia) inventa sunt, rationes isotoporum carbonii (C-12 / C-13) a norma discrepant, forsan vitae causa. In saxis ante 3500 milliones annorum genitis Warrawoonae (in Australia) nonnulli viri docti cyanobacteria fossilia inventa esse existimant. Certa autem sunt bacteria fossilia e formatione Gunflint (in Ontario / Canada) ante 1900 milliones annorum genita.
+
+Evolutio et chemica et biologica cum historia caelorum arte coniuncta est, nam vita quidem de condicionibus datis dependit, sed ipsa Tellurem mutat. In primis photosynthesis satorum atmosphaerae oxygenium dabat, ut nunc atmosphaera res oxydans sit. Etiam Telluris albedo satis terras tegentibus mutata est.
+
+Vetustiores sententias de Telluris vitaeque origine legere potes (e. g.):
+
+    in libro Genesis nominato (capitibus 1 et 2), et in psalmo 104 (enumeratione Graeca 103),
+    in Ovidii Metamorphoseon libro I (versis 5–88).
+
+Zonae
+
+Tellus hodie non in quinque, ut e.g. apud Ovidium legimus, sed in septem zonas dividitur:
+
+    in duas zonas frigidas sive polares (a polis ad circulos polares / 66.56° latitudinis)
+    in duas zonas temperatas (inter 66.56° et 40°)
+    in duas zonas subtropicas (inter 40° et 23.44° i.e. circulos Solis vertentis (et aestivum et brumalem)
+    in zonamque tropicam (inter circulos Solis vertentis).
+
+Zonae polares
+
+Zona polaris borealis arctis vocatur, maiore e parte mare est. Zona polaris australis antarctis vocatur, maxima e parte continens Antarctica est. Propria harum zonarum sunt multa nix vel glacies, frigus, sed etiam dies vel nox semestris. Videntur etiam aurorae boreales.
+Zonae temperatae
+
+Zonae temperatae a circulis polaribus ad 40° latitudinis patent. In zonis temperatis tempora anni (ver, aestas, autumnus, hiemps) manifeste dignoscuntur, et spatium diei noctisque in cursu anni valde variatur. Arbores imprimis sunt coniferae vel frondeae, quae frondem autumno amittunt.
+Zonae subtropicae
+
+Hae inter 40° latitudinis et circulum solstitialem (Cancri) vel circulum brumalem (Capricorni) sitae sunt. Spatium diei noctisque paulum tantum variatur. Hae regiones dignoscuntur: aridae, hieme umidae, aestate umidae, semper umidae. In aliis regionibus, e.g. circum mare Internum, multa et varia genera satorum crescunt, in aliis parca, in desertis sicut Sahara nulla.
+Zona tropica
+
+Haec zona ab utraque parte circuli aequinoctialis ad circulos solstitialem et brumalem spectat. In zona tropica, et dies et noctes semper duodecim horas manent. Sol autem partim per meridiem, partim medium per caelum, partim per septentrionalem cursum diei facit, unde verbum tropicae ortum est (Graece: τρόπος 'versio').
+
+Dignoscuntur regiones tropicae semper umidae et aliquotiens umidae. Illis non sunt tempora anni; his autem tempus aridum et tempus pluviosum. Proprii eis sunt campi ampli, ubi herbae graminaque varia crescunt. Qui campi in Africa savanna, in America Meridionali pantanal, vocantur. Illis regionibus semper umidis etiam propriae sunt silvae incaeduae, quae etiam silvae pluviales tropicae vocantur, quaeque generibus et arborum et florum et bestiarum abundant.
+De temporibus anni
+
+Cum axis Telluris ad lineam eclipticam 23.44° inclinatus sit, tempora anni sunt varia, in primis in zonis temperatis. Haec enim inclinatio efficit, ut dies vere ac aestate longiores sint noctibus et tum terrae mariaque plus radiorum solis accipiant. Dies praecipui sunt:
+
+21 Decembris: Solstitium (brumale). Sol in tropico Capricorni (brumali) iter per caeli verticem facit. In hemisphaera septentrionali, dies brevissimus adest et hiems incipit; in hemisphaera australi, dies longissimus est et aestas incipit. In polo arctico media nox adest; in polo australi meridies.
+
+20 Martii: Aequinoctium (vernale). Ubique terrarum dies et nox duodecim horas manent. In septentrionibus ver incipit; in austro autumnus. Sol in linea aequinoctiali per caeli verticem iter diei facit.
+
+21 Iunii: Solstitium (aestivum). Sol in circulo Cancri (solstitiali aestivo) iter per caeli verticem facit, diem longissimum et aestatem incipiens in septentrionalibus, diem brevissimum et hiemem incipiens in australi.
+
+22 Septembris: Aequinoctium (autumnale). Sol in linea aequinoctiali iter per caeli verticem facit. In septentrionibus incipit autumnus, in austro ver.
+Quod homo efficit
+
+Homines priores erant pauci, et venationibus collectionibusque vescebantur. Rebus novis neolithicis factis agricultura et pecuaria coepere (in "luna dimidia frugifera" in millennio undecimo, in Sina millennio octavo, et in terra nunc Mexicana millennio sexto a.C.n.). Inde segetes plantaeque sata naturalia depulere. Inductione industriarum (a saeculo undevicensimo) non solum areae amplissimae mutatae sunt, sed etiam pollutio aquarum, humorum, aeris crevit. [Gasa sicut carbonii dioxidum Tellurem calefacere itaque caelum mundanum mutare videntur. Numerus autem hominum crescere nondum desiit. Anno 1920 1800 millionesdubsig hominum Tellurem incolebant ; anno 2005 6400 milliones ; anno 2050 plures quam 9000 milliones fore divinantur. Homo iam effecturus est, ut paene totidem genera bestiarum satorumque exstinguantur atque in fine aevi cretacei exstincta sunt.
+Tellus interdiu
+	
+Tellus noctu
+
+Africa
+Jump to navigation
+Jump to search
+Haec pagina continentem explicat. Si aliud quaeris quod etiam "Africa" appellatur, vide Africa (discretiva).
+Geographica Africae tabula fines politicas anno 2011 exhibet.
+
+Afrĭca (-ae, f.) est continens in orbis terrarum quadrante plerumque orientali et australi, omnium magnitudine numeroque civium alter, Asia tantum superante. Circa 30.2 milliones chiliometrorum quadratorum (11.7 milliones milium quadratorum) habens, inter quae insulae adiacentes, 6 centesimas superficiei Telluris et 20.4 centesimas areae terrestris contegit.[1] Continens, circa 1.0 billiones hominum in 65 terris publicis habens (anno 2009), circa 14.72 centesimas hominum orbis terrarum sustinet.
+Regiones Africanae:      Africa Septentrionalis      Africa Occidentalis      Africa Media      Africa Orientalis      Africa Austrina
+
+Africa a Mari Mediterraneo ad septentriones, Canali Suesiensi Marique Rubro secundum Paeninsulam Sinaiticam ad boreorientalem, Oceano Indico ad meridio-orientem, et Oceano Atlantico ad occidentem cingitur. Continens Madagascariam et varios archipelagos comprehendit et 54 civitates suarum iurum agnitas (pagos) habet, cum duabus civitatibus partim agnitis.
+Tabula Africae anni 1890, cum multae plagae suae coloniae civitatum Europaearum essent.
+
+Africa, praecipue media Africa Orientalis, late inter communitate scientifica origo putatur hominum et cladi Hominidarum, ut archaeologicum primarum Hominidarum et eorum maiorum inventum monstrat, cum posterioribus populis qui abhinc annorum circa septem milliones vixerunt—inter quos Sahelanthropus tchadensis, Australopithecus africanus, A. afarensis, Homo erectus, H. habilis, et H. ergaster—primo Homine sapiente (homine hodierno) in Aethiopia ex tempore abhinc circa annorum 200 000 invento.
+Allegoria Africae.
+Animalia Africana.
+
+Africa, aequatorem varicans, multas regiones climaticas complectitur; quae est sola continens quae a zona temperata septentrionali ad zonam temperatam australem patet.[2] Exspectata auctus oeconomici velocitas Africana fuit circa 5.0 centesimae anno 2010 et 5.5 centesimae anno 2011.[3]
+
+Civitas Africana numero incolarum prima est Nigeria. Continentis deserta latissima sunt Sahara. Africae mons altissimus est Kilimandiarus (5895 m), et secundus Mons Nyssaeus (5199 m), utrique enim in Africa Orientali siti. Mons Atlas (4165 m) in Africa Septentrionali patet.
+Index
+
+    1 Etymologia
+    2 Fluvii maiores
+    3 Plantae
+    4 Civitates Africae
+    5 Selectae gentes Africanae
+    6 Notae
+    7 Bibliographia
+    8 Nexus interni
+
+Etymologia
+Cairus est caput Aegypti et maxima urbs in Africa.
+Necropolis Gizensis Aegyptae una ex septem miraculis mundi et situs UNESCO Hereditatis Mundi.
+
+Afri antiquitus erat nomen Carthaginiensibus adhibitum qui in Africa Septentrionali in terra nunc Tunisia habitabant. Eorum nomen usitate cum verbo Punico afar 'pulvis' conectitur, sed coniectura anno 1981[4] adfirmavit id ex vocabulo Berberico ifri vel ifran 'caverna', 'cavernae' deduci, ad homines qui in cavernis habitabant spectante.[5] Verba Africa et Ifri vel Afer[5] sunt nomen Banu Ifran ex Algeria et Tripolitania tribus Yafran (populi Berberensis) deductum.[6]
+
+In dicione Romana, Karthago caput Provinciae Africanae facta est, quod litoralem hodiernae Libyae partem comprehendit.[7] Suffixum Latinum -ica aliquando terram designat (e.g., in Celtica ex Celtibus, nomine a Iulio Caesare usurpato). Ifriqiya, posterius regnum Musulmanum (nunc Tunisia), etiam formam nominis conservavit. 
+
+Nomen proprium
+Jump to navigation
+Jump to search
+Statua Ambiani in palatio Iustitiae sita, cuius in basi nomen proprium Ciceronis inscriptum est.
+
+Nomen proprium est nomen substantivum, quo homo privatus a ceteris dinoscitur hominibus, aut res aliqua a ceteris membris eiusdem generis distinguitur. Cum igitur nomine proprio singularis a singulari individuumque ab individuo dinoscatur, nomine appellativo res ad eandem categoriam pertinentes ex mundo colliguntur. Aegaeum mare dictio est, quae ex nomine proprio (Aegaeum) et nomine appellativo (mare) constat. Aegaeum hic ad certum mare refertur, mare autem certam indicat categoriam, quae a ceteris categoriis, sicut lacu aut monte, distingui debet, si quidem intellectum mundi capere volumus.
+Index
+
+    1 De usu nominum propriorum
+    2 De scriptione nominum propriorum
+    3 Notae
+    4 Nexus interni
+    5 Bibliographia
+
+De usu nominum propriorum
+
+Singuli homines omnium gentium et nationum nomine proprio a ceteris dinoscuntur, quae quidem distinctio variis rationibus fieri solet, prout moribus cuiusque populi convenit. Sunt gentes, quarum homines uno tantum nomine cognoscuntur. Apud Romanos antiquos multiplicia nominum genera erant. In exemplo est Lucius Cornelius Scipio Barbatus, cuius nomen plenum hisce partibus constat: Lucius (praenomen) Cornelius (gentilicium) Scipio (cognomen) Barbatus (agnomen).
+
+Etiam varia loca et tempora quae in publicis et privatis rebus gerendis conspicua sunt, proprio nomine appellari solent. Itaque fluvii lacus maria regiones vici urbes silvae valles colles montes suo quaeque nomine notantur (nomina topographica). Nec solum his, nam temporibus notabilibus, sicut feriis et certis diebus mensis, suum cuique nomen proprium dari solet.
+
+Interdum nomen proprium appellativi loco adhibetur, cum certa alicuius personae proprietas ad alium quempiam transfertur: si quis enim ingenio par fere Alberto Einstein esse videatur, nihil obstet, quin "Einstein est" dicatur. Neque hic ille dicitur vir, qui anno 1921 praemium Nobelianum physicae accepit, sed potius ad ingenium eiusdem hominis refertur.[1] Ex appellativo contra nomen proprium fit, cum aliqua res aut vis per personificationem profertur, sicut Mens Fides Virtus Concordia.[2]
+De scriptione nominum propriorum
+
+Nomina propria in scriptione alphabetica littera grandi incipiunt ita ut in nominibus personalibus omnes totius nominis partes sua quaeque prima grandi littera notentur (sicut Marcus Porcius Cato Uticensis); in toponymis autem ipse locus non pars nominis est sed potius nomen appellativum nomini loci adtributum. Itaque hoc modo scribitur:[3] Caspium mare[4] (Plinius, Curtius Rufus), Hiberus fluvius (Plinius), Fucinus lacus (Suetonius), Samos insula (Servius), Vescia urbs (Livius), Gaditana civitas (Cicero), Erycus mons (Cicero), et cetera nomina propria.
+
+Etiam nomina temporum notabilium prima littera grandi scribi solent, ut fit in mensium nominibus notandis: November et November mensis (Plinius, Columella), December et December mensis (Suetonius), etc. Dies certi mensuales (qui sunt Kalendae Nonae Idus) a plurimis editoribus prima littera grandi notantur. 
+
+Mare Mediterraneum
+(Redirectum de Mediterraneum mare)
+Jump to navigation
+Jump to search
+Tabula geographica maris interni aevo Romano Antiquo.
+Topographia terrarum circum mare internum.
+Tabula geographica maris interni.
+
+Mare Mediterraneum,[1][2][3] seu Mare Interclusum,[3] est mare inter Europam (ad septentriones), Africam (ad meridiem) et Asiam (ad orientem) situm, cuius area circiter 2 500 000 km² est. Herculeo freto cum Oceano Atlantico iungitur.
+Index
+
+    1 Geographia antiqua
+    2 Geographia nova
+    3 Oceanographia et biologia
+    4 Historia
+    5 Nexus interni
+    6 Notae
+    7 Bibliographia
+    8 Nexus externi
+
+Geographia antiqua
+
+Mare Mediterraneum per omnia tempora humana variis nominibus notum est. A Graecis thalassa (θάλασσα) et post inventionem Oceani Atlantici Entos Thalassa appellabatur.
+
+Apud Romanos mare nostrum[4] et internum mare[5] vocabatur. Id tamen notandum est, mare nostrum stricto sensu solum mare circum Italiam situm significasse. Haec pars etiam mare infernum, pars orientalis mare superum vocata sunt. Romani mare Mediterraneum in quasdam partes dividere solebant, quae hae sunt:
+
+    Hadriaticum mare
+    Aegaeum mare
+    Balearicum mare: inter insulas Baleares et Hispaniam
+    Creticum mare
+    Mare Ibericum: inter insulas Baleares et fretum Gaditanum
+    Ionium mare
+    Myrtoum mare: inter Peloponnesum et Cyclades
+    Mare Tyrrhenum: inter Italiam et insulas occidentales situm
+    Sinus Gallicus: qui hodie Golfe du Lion Francice vocatur
+
+Saeculo septimo, Isidorus Hispalensis primam mentionem maris Mediterranei in Etymologiis sive originibus fecit; illo autem tempore, nondum erat nomen verum.
+Geographia nova
+
+Societas Hydrographica Internationalis anno 1953 in libello Limits of oceans and seas oceanum et maria in varias partes digessit. Mare Mediterraneum ita dividitur:
+
+    Divisiones principales: duo labra maritima, quorum finis est linea inter Promontorium Lilibaeum (Sicilia) et Promontorium Bon (Tunesia).
+        Labrum occidentale
+        Labrum orientale
+    Subdivisiones:
+        Gaditanum Fretum sive Fretum Herculeum sive ostium Oceani
+        (Anglice Alboran Sea): inter Fretum Herculeum et lineam Promontorium Felis (Cabo de Gata, Hispania) et Promontorium Fegalo (Algeria) iungens.
+        Balearicum Mare
+        Mare Ligusticum[6]
+        Mare Tyrrhenicum
+        Mare Ionium
+        Mare Hadriaticum sive Mare Hadria
+        Mare Aegaeum
+        Mare Levantinum
+
+Quidam Propontem etiam partem Maris Mediterranei esse putant. Fossa navigabilis apud Clysma ab hominibus facta illum Mari Erythraeo iungit.
+
+Inter insulas maiores sunt:
+
+    ad orientem: Cyprus, Creta, Rhodus
+    medium: Sardinia, Corsica, Sicilia, Melita
+    ad occidentem: Insulae Baliares Capraria, Maiorica, Minorica
+
+Sunt in Mari Aegeo multae insulae minores.
+
+Civitates hodiernae huic mari attingens:
+
+    Europa (ab occidente ad orientem): Hispania, Francia, Monoecus, Italia, Melita, Slovenia, Croatia, Bosnia et Herzegovina , Mons Niger, Albania, Graecia
+    Asia (ab septentrionibus ad meridiem): Turcia, Syria, Cyprus, Libanus, Israël, Palaestina
+    Africa (ab oriente ad occidentem): Aegyptus, Libya, Tunesia, Algeria, Marocum
+
+Oceanographia et biologia
+
+Salinitas aquae Maris Mediterranei maior salinitate oceani est 3.8 centesimae. Aqua non salina ex fluviis et Mari Scytico? in Mare Mediterraneum fluit, sed per summam evaporationis aqua salina per Fretum Herculeum influit. Aestus parvi sunt quia Fretum Herculeum angustum est. Maxima profunditas 5015 metra est in Sumpa Calypsos apud Graeciam.
+Historia
+Coloniae Graecae (rubrae), Punicae (flavae), et Romae antiquae (canae) circa saeculum 6 a.C.n. Mare antiquitate fontes cibi et commercii ac rectas negotii, communicationis, colonizationis, bellique vias praebuit.
+Proelium Lepanthinum (1571) fuit victoria Foederis Sancti Europaei contra Imperium Ottomanicum Turcorum.
+
+Graeci et Phoenices colonias in totam Maris Mediterranei regionem deduxerunt, quarum colonia maximi momenti erat Carthago, anno 814 a.C.n. condita. Post ruinam regni Alexandri Magni et proelia inter successores, Aegyptus Ptolemaea et Carthaginenses in totum mare dominabantur. Tribus bellis Punicis Romani Carthaginem et occidentem maris partem vicerunt. Anno 31 a.C.n., Octavianus Augustus Marcum Antonium Cleopatramque vicit. Postea, trescentos annos Romani toti mari imperabant, donec Vandali saeculis quarto et quinto maximum partis occidentalis maris novum imperium maritimum constituerent; parti autem orientali Imperium Romanum Orientale iam imperabatur. 
+Imperium Romanum
+Jump to navigation
+Jump to search
+Wikidata-logo.svg Imperium Romanum
+Res apud Vicidata repertae:
+Imperium Romanum: insigne
+Imperium Romanum: vexillum
+Territoria finitima: Arsacidae
+Locus: 42°0′0″N 14°0′0″E
+Caput: Roma, Constantinopolis mediaevalis
+
+Gestio
+
+Populus
+
+Tabula aut despectus
+
+Imperium Romanum (Koine et Graece Medievale Βασιλεία τῶν Ῥωμαίων) fuit res publica antiqua, cuius caput erat Roma, olim maxima mundi occidentalis urbs, et quae tempore maximae suae potestatis a Britannia usque ad Mesopotamiam extendebatur. Ab Augusto Caesare imperium Romanum sic institutum est, ut specie vetus Res Publica Romana (509 a.C.n.–27 a.C.n.) redintegrata videretur, re vera autem ab uno principe solo gubernaretur.
+
+Imperium Romanum initium cepit anno 27 a.C.n. et tamquam totius orbis terrarum vel saltem eius orbis terrarum partis, quam totius mundi instar esse antiqui existimaverunt, dominatum obtinuit usque ad Discrimen tertii saeculi (235–284/285), quae aetas etiam principum militum vocatur.
+
+Continuatio huius rei publicae ad Antiquitatem posteriorem pertinet: Ab imperatoribus Diocletiano (284–305) et Constantino I (306–337) funditus reformata aetate migrationum populorum et gentium Europae, quo tempore in duas partes divisa est, ubi ad occidentem solem vergebat, interiit (476), ubi ad orientem solem spectabat, per medium quod dicitur aevum remansit (vide Imperium Romanum Orientale).
+
+Imperium in provincias divisum erat. In iis maximi momenti erant urbes imperii, quae quadam autonomia circumscripta gaudentes a civibus administrabantur et vectigalia exigebant. Quod multa officia publica ad urbes delegata erant, imperio parvus magistratuum numerus suffecit.
+
+Mercatura, artes, cultura florebant; etsi linguae religionesque locales permanserunt, partes imperii occidentales "latinizatae," partes orientales magis cultura Graeca imbutae sunt. Lingua Latina toto impero publica facta est (orientalibus in partibus una cum lingua Graeca). Quod per saecula, etiam imperio dilapso, multum ad Europam formandam attulit: lingua Latina usque ad Barocum eruditorum lingua permansit; in Ecclesia Catholica Romana lingua Latina usque ad hunc diem est lingua publica; sunt linguae Romanicae, progenies linguae Latinae, sed etiam aliae linguae necnon sermo scientiarum plurima ex lingua Latina acceperunt; ius Romanum iuribus civitatum Europae plurimum attulit.
+Index
+
+    1 Historia
+    2 Res Publica restituta
+        2.1 Caesar Augustus
+        2.2 Principes Iulii et Claudii
+        2.3 Principes Flavii et Antonini
+        2.4 Principes milites
+        2.5 Correctiones Diocletiani et Constantini
+        2.6 Exitum imperii occidentalis
+    3 Oeconomia
+    4 Nexus interni
+        4.1 De imperio ipso
+        4.2 De temporibus anterioribus et posterioribus
+        4.3 De rebus variis
+    5 Notae
+    6 Bibliographia
+    7 Nexus externi
+
+Historia
+Searchtool.svg Si plus cognoscere vis, vide Romanae pugnae
+Res Publica restituta
+
+In nonnullis linguis novis, titulus imperatoris nominat solum unum, qui magnum regnum gubernat, sed res publica Romana multos habuerat imperatores ante Octavianum, qui ad tempus et eodem tempore imperio usi sunt: Imperium habuerunt consules et praetores, quorum in provinciis copiae fuerunt, simul cum aliis. Vergilius poeta Iovem ipsum Romanis "imperium sine fine" promittentem facit. Octavianus non imperator, sed princeps vocari voluit, quod est nomen sine imperio, in senatu "primus inter pares." Hoc imprimis speciei rei publicae restitutae debebatur; simul autem vis "imperatoris" tituli mutabatur, cum Augustus re vera primus munere imperatoris singuli ac perennis functus est.
+Caesar Augustus
+Augustus loricatus: statua in villa ad Gallinas reperta (hodie in Museis Vaticanis).
+
+Octavius, divite sed non nobilissime gente anno 63 a.C.n. orto, quod a Gaio Iulio Caesare in filium adoptatus est, heres Caesaris factus est et nomen Octaviani sumpsit, post mortem Caesaris atque hoc nomen.
+
+Bello civili post Caesarem interfectum exorto Marcum Antonium, pristinum Triumviratus collegam, qui una cum Cleopatra regina Aegypti rerum potiri imminebat, apud Actium anno 31 a.C.n. devicit. Scripsit ipse postea in rebus gestis, quas multis in locis imperii Romani inscribi iussit, se "rem publicam a dominatione factionis oppressam in libertatem vindicavi(sse)".
+
+Anno 27 a.C.n. imperia, quibus inter bellum civilem solus rexerat, formaliter deposuit, postea autem sibi tribuniciam potestatem et summum imperium legionum provinciarum ad limitem sitarum tempore certo deferri fecit, quod et in posterum erat imperii fundamentum (vide Principatus Romanus).
+
+Auctoritas principis multis ex honoribus et civilibus et militaribus aucta est, inter quas pluries honore consulis (annis usque ad 27 a.C.n.) et pontificis maximi (anno 13 a.C.n. aut 12 a.C.n.). Ter triumphans etiam imperator appellatus est. Tribunus plebis, etsi tribunicia potestate gaudebat, non fuit, quia in patriciam gentem adoptatus erat (Iulii erant stirps Veneris ipsae!). Anno 27 a.C.n. senatus ei nomen Augusti detulit, quod in disputando, an Romulus appellaretur, sententia praevaluit "ut Augustus potius vocaretur, non tantum novo sed etiam ampliore cognomine, quod loca quoque religiosa et in quibus augurato quid consecratur augusta dicantur . . . , sicut etiam Ennius docet scribens: Augusto augurio postquam incluta condita Roma est."[1] Una cum nomine etiam clipeus virtutis traditus est, in quo Augusti fortitudo, clementia, iustitia, pietas erga deos patriamque celebratae sunt. Anno 8 a.C.n. senatui placuit, posthac mensem Sextilem Augustum vocari; anno 2 a.C.n. denique pater patriae appellatus est.
+
+Octavianus certe divitissimus erat Romanorum; copiis quin uteretur, ut plebi acceptus esset, non dubitavit. Inter alia pro populo multos ludos edidit. Praeterea numerosa opera publica exstrui iussit, sicut Forum Augustum cum templo Martis Ultoris et templum Apollinis in Palatio.
+
+Augustus etiam religionem moresque Romanos restituere conatus est, quia "moribus antiquis stat res Romana virisque."[2] Matrimonio procreationique favit (uxorem liberisque carentibus vestigal imposuit) et nimis in veneralibus indulgere nobilibus vetavit. Romae quinquaginta tres templa refecit et ritus eorum neglectos restauravit. Se ipsum vindicem rei publicae restituroremque pacis in monumentis (Ara Pacis Augustae), statuis (Augustus loricatus), nummis, litteris celebrari fecit.
+
+Quidam poetarum inter maximos linguae Latinae Augusto principe et ab eodem adiuti opera sua scripserunt, in quibus Vergilius, Horatius et Ovidius, qui ultimus quidem a principe in exilium missus est, propter "duo crimina, carmen et error", ut Ovidius ipse scripsit.[3]
+
+Augustus multas leges ad officia emendenda intulit. Patricios corruptos ex officiis amovit et honores sollertibus equitibus detulit (ut Pontio Pilato), et in locum publicanorum saepe corruptorum magistratus substituit, qui vectigalia exigerent. Senatum bellis civilibus ac proscriptionibus valde mutatum Augustus favoribus in suas partes traxit.
+
+Exercitus diminuit; Aegyptum in provinciam redegit, regiones in Alpibus, Hispania septentrionali et in Balcania sitae expugnavit; a conatu, ut Germaniam transrhenanam in provinciam redigeret, clade Variana accepta discessit; cum Parthis foedere controversias composuit. Defendere magis quam occupare sors facta est militum Romanorum Augusto regnante.
+Principes Iulii et Claudii
+Tiberius in solio collocatus Germanicum victorem salutat, sic dictus "Grand Camée de France", Bibliotheca Nationalis Francica, Parisiis.
+
+Successor Augusti, Tiberius (14–37), dux efficax et administrator fuit. Inito Augustus filiastrum ac posterum filium adoptivum, quem uxor eius Livia in matrimonium apportaverat, a muneribus maximi momenti exclusit, ut Tiberius denique se in Rhodum quasi in exsilium contulerit. Marcello filio sororis, Agrippa, Gaio Lucioque nepotibus mortuis tamen successor designatus est. Extremo sui principatus tempore ad villam suam Capreanam recedit, imperium praefecto praetorio Lucio Aelio Seiano tradens. Ut Tacitus narrat, forsitan autem magis invidiam quorundam quam veritatem sequens, Tiberius ultimis vitae annis, postquam Seianus criminis laesae maiestatis accusatus cecidit, nimis crudeliter se praebuit.
+
+Filius fratris Tiberii Gaius, appellatus Caligula (37–41), fuit successor, qui initio bene erat amatus, quod vectigalia minuit, ludos circenses edidit, senatores ex exsilio revocavit, sed mox sese tyrannum ostendit. Sie fontes antiqui vera tradunt, senatores interfecit, ut uxores possessionesque caperet, amicos pueritiae gubernatores nominavit, se sicut Iovem venerari iussit, equo suo Incitato honorem consulis dare voluit. Denique a coniuratoribus necatus est.
+
+Caligula necato, nonnulli rem publicam restaurare voluerunt, sed praetoriani senatum imperatorem novum accipere impulerunt, Claudium (41–51), qui antea ob vitia corporis, quae perfacili cognitio versabantur, praeteritus erat. Post coniurationem tyrannumque occisum unicus candidatus legitimus fuit. Historici antiqui eum hominem occultum, imperii vix capacem fuisse tradunt, qui se litteris dedidit. Contra studia hodierna saepe bonos regiminis sui eventus demonstrant, imprimis quod limites tutos reddidit et Britanniam imperio adiunxit. Agrippina uxor eum veneno interfecit, ut Nero filius (54–68) rerum potiretur.
+
+Similiter ac Caligula etiam Nero initio Romanis bonam spem dedit. Primis quinque annis regiminis eius, qui nomine "quinquennio Neronis" noti[4] quique a scriptoribus aequalibus "aurea aetas" laudibus celebrati sunt, animus Neronis adulescentis a Seneca philososopho flectus est. Annis sequentibus historici eum modo tyrannorum rexisse tradunt: Matrem interfecit; coniuratione Pisonis patefacta Seneca, Lucanus, Petronius mortem sibi conscicere coacti sunt; fama eum auctorem magni incendii Romae esse voluit,quod ei usui fuit cum ad urbem renovandam tum ad Domum Auream aedificandam. Crimen incendii Christianis supposuit et primam persecutionem Christianorum Romanam incitavit, qua etiam Petrus crucifictus esse traditur. Denique seditiones contra eum ortae sunt. Roma ab inimicis capta fugiens se interfecit.
+
+Mors Neronis bellum civile effecit, quo milites Romani per ordinem quattuor imperatores designaverunt, Galbam, Othonem, Vitellium et Vespasianum, quam ob rem annus 69 "Annus Quattuor Imperatorum" appellatur. Hoc speciem rei publicae redarguit: re vera imperium exercitu obtentum est.
+Imperium Romanum annis: rubrum: 133 a.C.n.; aurantium 44 a.C.n. (res publica postrema, terrae a Pompeio et Iulio Caesare captae); flavum: 14 p.C.n. (captae ab Octaviano Augusto); viride: 117 p.C.n. (captae a imperatoribus posteris)
+Principes Flavii et Antonini
+
+Historici Vespasianum (69–79) Neronis maxime dissimilem fuisse demonstrant: virum rusticum, festivum, imperatorem iustum. Dux exercitus in oriente primum bellum Iudaicum gessit, cum imperator declaratus est. Eo regnante filius eius Titus seditionem Iudeaorum oppressit. Etiam in Germanos severe animadvertit, ut limitem Rheni firmaret, et Parthos cohibuit, exercitum in novum ordinem adduxit, fiscum replevit. Novos senatores e terris extra Italiam sitis et duces fideles designavit. Cum sit humili loco natus, auctoritatem magno opere Colossei augere studuit. Denique novam domum regnatricem constitutit: Flaviam. Post Vespasiani mortem filius eius Titus imperator factus est. Quamquam regnum eius breve fuit (79–81), bona apud Romanos recordatione comprehensus est, ad quam laudem celere auxilium liberalitasque post urbes a Vesuvii eruptione deletas magni interfuit. Successor autem et frater eius Domitianus in fontibus tyrannus demonstratur. Germanos quidem pluries vicit limitemque a Rheno usque ad Danuvium munitionibus confirmavit, ut apud milites plebemque admodum acceptus esset, tamen crudelitate et modo dominandi (inter alia se "dominum et deum" appellari iussit) senatui offensus anno 96 interfectus est.
+
+Senatus Nervae (96-98) imperium dedit, qui honoratum Germaniae gubernatorem, Traianum (98-117), adoptavit; sic domus regnatrix Antonina facta est. Traianus primus imperator fuit, qui extra Italiam (nempe in Hispania) natus est. Dux eminens fuit, qui nonnullas provincias novas cepit: Daciam, Armeniam, Arabiam, Mesopotamiam. Eo regnante fines imperii maximum ambitum obtinuerunt, ut ab Arabia et Aegypto usque ad Scotiam et ab Mauretania usque ad Daciam pertinerent. Propter facultatem administrandi consiliaque prudentia unus ex optimis imperatoribus aestimatur. Etiam varia instituta auxilii communis creavit, inter quae distributio cibi pro pueris pauperibus.
+
+Cum Traianus anno 117 inopinatus mortuus est, cognatus eius Hadrianus (117-138) successit. Secundo bello Iudaico pluribus locis (Cyrenaica, Cyprus, Babylonia) iam anno 115 orto commotus copias Romanas ex Armenia et Mesopotamia retraxit. Administrationem emendavit, vias munitionesque plures exstruxit, inter alias clarum Murum Hadriani in Britannia situm. Assidue per imperium Romanum peregrinabat, culturam Graecam amabat. Quamvis seditione Barchochebae (132-135) flagrante, tamen imperium in flore fuit.
+Statua Marci Aurelii, Museum Capitolii, Romae.
+
+Post eum imperium recepit Antoninus Pius (138-161), cuius regnum tranquillissimum optima aetas Imperii dicitur. Successor eius Marcus Aurelius (161-180) in variis orbis terrarum regionibus cum hostibus bellare debuit, qui iam in fines imperii progredebantur. in oriente Parthos vicit, in provinciis septentrionalibus (Noricum, Pannonia) Marcomannos et Quados vix repellere potuit. Cum demum superior factus est, medio in bello Vindobonae anno 180 mortuus est. His diebus saepe "philosophus in throno imperatorum" dicitur, quod stoicismum secutus est; excerpta quaedam collegit, quae nomine "Ad se ipsum" vel "Meditationes" lingua Graeca conscripta extant.
+
+Rerum gestarum scriptores hos quinque imperatores (Nervam, Traianum, Hadrianum, Antoninum Pium et Marcum Aurelium) "bonos" appellant. Filium autem et successorem Commodum (180–192) sic appellari vix potest. Commodo mortuo (vel, id quod veri simile est, interfecto) praetoriani de salute rei publicae desperati auctionem habuerunt ipsius imperii. Mox legiones etiam potestatem capere volebant, et coepit bellum civile rem Romanam vastaturum.
+Principes milites
+Searchtool.svg Si plus cognoscere vis, vide Discrimen Tertii Saeculi
+
+Bello civile perfecto imperium cepit Septimius Severus (193–211), dux Libycus exercitus Danuvii. Maxima parte regni sua pugnas in limites imperii exardescentes extinguere debebat. Senatui non fidebat, quam ob rem senatoribus honores militares ademit. Etiam praetorianis non fidebat, et custodiam praetorianam dissolvit. Constante stipendio instituto et disciplina relaxata fidem exercitus confirmavit—militibus permisit nuberi, et agros locaque in castra extra urbem dedit. Militibus etiam nonnulla pensa administrationis commisit, inter alia vectigalium exactio. Haec emendationes tamen nationem infirmiorem non fortiorem fecerunt, et quinque eius successores interfecti sunt quamquam exercitu placabatur. Caracalla, successor Severi, iura civium Romanum hominibus liberis omnium provinciarum anno 212 dedit. Regnum generis Severorum anno 235, Alexandro Severo interfecto.
+Ruinae Valli Hadriani in Anglia septentrionali.
+
+Exercitus nunc se putabat vicarium populi Romani et fontem et originem imperii. A 235 ad 284 milites circa viginti imperatores designaverunt qui Romam cepi potuerunt et circa triginta qui non ceperunt urbem. Modo unus ex his morte naturale obiit - ceteri sunt interfecti. Propter instabilitatem regni oeconomia Romana dilapsa est: magistratus summa tributa ad exercitus sustinendos postulabant, et agricolae pauperes servos in latifundiis vel fures fiebant. Interea terras derelictas Germani Rhenum et Danuvium transeuntes capiebant; Sassanidae limites orientales imperii fregerunt; et Palmyra se rempublicam sui potentem declaravit. Anarchia et desuetudo viarum commercium sisterunt. Pecunia pretium vel potius valorem perdidit (nummi anni 270 unam partem ex centum argenti habebant), et homines permutatione mercium uti coeperunt. Magistratus nunc non pecuniam sed merces exigebant, e.g. cibum vel arma. Paupertate etiam eruditio cultus ludi festaque minuebantur. Aureliano imperatore Romae, quae multis annis ultra moenia saeculo quarto a.C.n extensa erat, nova moenia structa sunt—indicium infirmitatis imperii.
+Inscriptio Latina et Punica ad theatrum Leptis Magnae in Africa Romana (hodierna Libya).
+Correctiones Diocletiani et Constantini
+
+Decade septima III saeculi salus oeconomica militarisque imperii convalescebat. Stabilitatem politicam retulit Diocletianus, (284–305). Se aestimans omnia officia explere solum non posse Maximilianum etiam dabit imperium ut provincias occidentales regnat. Mox uterque imperator (augustus) adiutorem (Caesarem) recepit. Regnum quattuor Caesarum a Diocletiano institutum ex Graeca tetrarchia appellatur. Anno 305 Diocletianus se abdicavit imperiumque Caesari suo dedit, sed translatio imperii tranquilla non fuit, et coorta est bellum civile. Fuit victor Constantinus, qui anno 312 occidentalem annoque 324 partem imperii cepit.
+
+Regnis Diocletiani et Constantini imperium mutata est. Exercitus est amplificatus divisusque in partes duas: limitaneos, qui fines defendebant, et comitatenses, exercitum agilem castrensem. Stabilitas communis revenit, sed cum ea instituta nova administrationis segnia et corrupta, et plures agricolae pauperes servi fiebant. Etiam religio imperii mutabatur: religio Christiana fiebat popularior, et Constantinus moriens Christianus factus est, et omnes imperatores sequentes Christiani erant, prater Iulianum Apostatam, ultimum paganum imperatorem. Anno 392 Theodosius I religionem publicam Christianam dixit, et omnes aliae vetatae sunt.
+Urna cineraria liberti Tiberii Claudii Chryseri et binarum mulierum, probabiliter eius uxoris et filiae.
+Hominem damnatum pardus aggreditur in arena. Opus tessellatum ex Tunisia, saeculo tertio.
+Exitum imperii occidentalis
+Searchtool.svg Si plus cognoscere vis, vide Antiquitas Posterior#Orbis Romanus ab Discrimine Tertii Saeculi usque ad finem Imperii
+
+Anno 330, Constantinus caput imperii ad Byzantium transtulit antiquam coloniam Graecam, quam Constantinopolim nominatam tamquam Romam alteram iterum condidit. Anno 395, imperium tandem divisum est in partes ad occidentem et ad orientem solem vergentes, cuius Mediolanum et postea Ravenna illic capita erant, hic Constantinopolis. Imperium autem occidentale mox interiit. Multae enim gentes Germanicae in fines imperii invaserunt. Anno 410, Visigothi Romam ceperunt, ut quae urbs octingentos annos incolumis steterat, ea diriperetur. Eodem anno Honorius Augustus (qui ab anno 395 ad annum 423 regnavit) Britanniam praesidiis privavit, ita ut mox illa provincia a Saxonibus occuparetur. Postea imperio vix ulla victoria fuit, licet anno 451 Romani cum quibusdam gentibus Germanicis foederatis incursionem Hunnorum ducisque eius populi Attilae in Galliam factam repellerent. Post quattuor autem annos Vandali, qui in Africa Septentrionali consederant, Romam ipsam exspoliaverunt. Denique anno 476 imperium Romanum perditum est, cum dux ex populo Germanorum natus Odoacer Romulus Augustus principe regno depulso regem Italiae se declaravit.
+
+In partibus orientalibus saeculum quintum tranquillius fuit: Hunni quidem Gothique regiones Europaeas vastaverunt, sed Asia, Aegyptus, et Syria intactae manserunt. Imperium Romanum Orientale, postea Byzantinum appellatum, Occidentali mille annis supervixit.
+
+In medio quod dicitur aevo, sane Sacrum Imperium restitutum est, quod postea Sacrum Imperium Romanum et saeculis quinto decimo et sexto decimo Sacrum Imperium Romanum nationis Germanicae nominatum anno denique 1806 extinctum est.
+Oeconomia
+Europa
+Jump to navigation
+Jump to search
+Haec pagina continentem Europam explicat. Si aliud quaeris quod etiam "Europa" appellatur, vide Europa (discretiva).
+Europa
+Europe orthographic Caucasus Urals boundary.svg
+Area 	10 180 000 km2
+Numerus incolarum 	738 200 000 (2010)
+Spissitudo incolarum 	72.5/km2
+Nomen incolarum 	Europaeus
+
+
+Zona temporalis 	UTC ad UTC+6
+Dominium interretiale 	.eu (Unio Europaea)
+
+Europa,[1] notio ex aevo classico superstes, est continens quae occidentalissimam Eurasiae regionem comprehendit. Plerumque ab Asia dividitur ad orientem a divisionibus siccitatis montium Uralium et Caucasi, Rhymni, marium Caspii et Ponti, atque viarum aquaticarum quae maria Pontum et Aegaeum adligant.[2] Finitur Europa ab Oceano Arctico et aliis aquae corporibus ad septentriones, Oceano Atlantico ad occidentem, Mari Mediterraneo ad meridiem, et Ponto viisque aquaticis conectis ad meridio-orientem. Fines autem omnis Europae sunt aliquantulum libidinosi, quia vocabulum praecipue graphicum physicum elementa culturae et rerum civilium accommodare potest. Andreas Kaplan definit Europam continentem plurimas culturas diversas coniungentem minimum inter semetipsas distantes.[3]
+
+Superficies Europaea minimo proxima continentis terrae spatio est, quae 10 180 000 chiliometrorum quadratorum comprehendit; haec area terrae aequor duarum centesimarum continet. Australiae est unicae continentium maior, sed de populatione est tertia a maximo, Asiam et Africam sequens, populo circa 710 000 000, undecim centesimae numeri civium omnis orbis terrarum.
+
+Europa, praesertim Graecia antiqua, est natalis culturae Occidentalis locus[4], quae magni momenti erat in rebus orbis terrarum post saeculum quintum decimum, praecipue post initium colonialismi. Inter saecula sextum decimum et vicensimum, civitates Europaeae Americas, plurimum Africae, Oceaniam, et magnas Asiae regiones varia tempora moderatae sunt. Ambo bella orbis terrarum Europam vehementius dixerunt, deminutionem Europae Occidentalis in rebus orbis terrarum ante medium saeculum vicensimum magnopere efficientia, cum Civitates Foederatae et Unio Sovietica auctoritatem habere coepissent.[5] Per Bellum Frigidum, Europa secundum velum ferreum inter NATO in occidente et Foedus Varsoviae in oriente divisa est. Integratio Europaea conformationem consilii Europae et unionis Europaeae in Europa occidentali promovit, quorum ambo ad orientem expandebantur post casum unionis Sovieticae anno 1991.
+Index
+
+    1 Etymologia
+    2 Definitiones antiquae
+        2.1 Pinacotheca tabularum
+    3 Geographica
+        3.1 Clima
+        3.2 Flora
+        3.3 Fauna
+    4 Politica et topographica
+        4.1 Civitates
+        4.2 Urbes maximae
+    5 Historia
+    6 Nexus interni
+    7 Notae
+    8 Bibliographia
+    9 Nexus externi
+
+Etymologia
+Europa et taurus in vasi Graeco. Museum Tarquiniorum urbis, circiter 480 a.C.n..
+
+Europa in mythologia Graeca fuit filia Agenoris, Phoenicum regis, quam Iuppiter, qui formam tauri candidi acceperat, in Cretam insulam abduxit, ubi ea Minoem, Rhadamanthum, et Sarpedonem paruit. Apud Homerum, Europa (Εὐρώπη) fuit regina Cretensis, non autem notio geographica.
+
+Etymologia vocabuli Europa incerta est. Duae opiniones saepissime proferuntur:
+
+    Sunt qui verbum Europa a Semitico Ereb (occidens, vesper) derivatum esse velint. In stela Assyrica inscriptio est, quae inter Ereb, terram solis dormientis, et Assou, terram solis surgentis, distinguit. Haec duo verba dedissent originem verborum Europa et Asia sensu geographico.[6] In hymno in Apollinem (hymnorum Homericorum), qui circa annum 700 a.C.n. compositus est, Europa litus occidentale Maris Aegaei significat.
+    Secundum etymologiam mere Graecam verbum Europa ex duobus verbis Graecis compositum est, εὐρύς (latus) et ὤψ (visus, oculus). Vocabulum feminam cui sunt oculi magni significat, imprimis certam reginam mythologicam ab Iove raptam.
+
+Qualiscumque origo nominis est, verbum Εὐρώπη primo saeculo sexto a.C.n. a geographis Graecis sicut Anaximandro et Hecataeo sensu geographico adhibitum est.
+Definitiones antiquae
+
+Usus nominis Europae se gradatim per historiam evolvebatur.[7][8] Herodotus, historicus Graecus, antiquitate mentionem fecit orbem terrarum divisum esse ab hominibus ignotis in partes tres, Europam, Asiam, et Libyam (Africam), quarum fines fuisse Nilum et Phasem, quamquam etiam dixit nonnullos habuisse Flumen Tanaem, contra Phasem, finem Europae et Asiae.[9] Oriens Europae confinium saeculo primo a Strabone geographo ad Tanaem definitum est.[10] Flavius Iosephus et Liber Iubilaeorum continentes dixerunt fuisse terras a Noa, viro biblico, filiis tribus datas; Europa definita est regio, quae a Columnis Herculis prope Fretum Gaditanum patet, eam ab Africa Septentrionali, ad Tanaem, eam ab Asia separans.[11]
+Pinacotheca tabularum
+
+    Charta T et O ex 1472 divisionem orbis terrarum in tres continentes monstrat.
+
+    Tabula orbis terrarum Herodoti refecta
+
+    Europa tempore primae expeditionis sacrae anno 1000.
+
+    Europa regina - Tabula ex libro Cosmographia Sebastiani Münster (1570) - Insulae Britannicae et Scandinavia ab Europa propria excluduntur.
+
+    Tabula Europae ab Abrahamo Ortelio anno 1595 facta.
+
+    Varii limites inter Europam et Asiam variis temporibus positi
+
+Geographica
+
+    Continentes finitimi: America, Africa (trans mare), Asia (coniunctione terrestri)
+    Incolae: 733 000 000 (aestimatione)[12]
+    Centesimae areae: 7 centesimae totius terrae
+    Mons maximus: Mons Elbrus (5642 m)
+    Area: 10 176 246/km²
+    Densitas: 69.7/km²
+    Paeninsulae: Paeninsula Balcanica, Italia, Iberia, Scandinavia, Dania
+    Insula maxima: Magna Britannia
+
+Clima
+Superficialis Fluminis Sinus temperatura in occidentali Oceani Atlantici septentrionalis parte; sinistra infra Florida et Cuba.
+
+Continens maxima ex parte in zona temperata sita est. Clima Europae comparatum ad regiones eiusdem latitudinis geographicae propter vim Fluminis Sinus admodum calidum est. Exempli gratia annua temperatura media Burdigalae urbis est 12.8 °C, cum illa Halifaxiae, quae urbs paene eadem in latitudine iacet, solum est 6.3 °C.
+
+Magnis in partibus Europae occidentalis hiemes sunt mites, aestates subfrigidae. In regionibus, quae a mari, quod temperaturas exaequat, late distant, temperaturae anni temporum magis differunt. Maximis in partibus Europae orientalis mari distante clima continentale praevalet, ut hiemes sint gelidae, aestates calidae.
+
+Rotatione telluris et vi deflectente cum ea coniuncta venti plerumque ab occidente spirant, quare in regionibus litoralibus Europae occidentalis, ubi venti ab Oceano Atlantico adveniunt, paene totum per annum pluviae fiunt. In Europa orientali mediaque copia praecipitationis est minor vi maris deficiente.
+
+Etiam montes ad copiam praecipitationis aliquid ponderis habent. Partes Alpium boreo-occidentalium inter regiones Europae maximae praecipitionis numerantur, cum valles alpinae centrales comparate siccae sunt. Alpes in hac re imbres prohibent.
+
+In regionibus prope mare Mediterraneum clima Mediterraneum praevalet, ut aestates sint calidae et siccae, hiemes mites et umidae. Aestate venti plerumque ex septentrionibus spirant, hieme venti ex occidente saepe pluvias apportant. In Europa septentrionali clima polare praevalet, in Europa austro-orientali ad Volgam flumen autem clima continentale. Ita fit, ut Lapponia adhuc nive tecta sit, cum Sicilia aestu vexatur, in Shetlandia pluere non desinit, cum Andalusia pluribus annis praecipitatione caret.
+Flora
+Vegetatio Europae secundum Wolfgangum Frey et Rainerium Lösch.
+Regiones biogeographicae Europae.
+
+Vegetatio Europae secundum clima fere in quattuor zonas dividitur: arcticam, borealem, temperatam, mediterraneam. Usu miliorum annorum vegetatio originalis in zonis temperatis mediterranisque paene exstincta est. In Europa septentrionali in tundra arcticta non sunt nisi frutices, muscus et lichenes. A meridie in Scandinavia et in Russia septentrionali sequitur taiga, quae in solis uliginosis suis imprimis piceas et pinos nutrit. In zona temperata inter Oceanum Atlanticum et Carpates naturaliter (si homo non interpellasset) silvae fagis plenae crescerent, in plagis calidioribus etiam quercus et carpini. A regione, in qua fagus diffusa est, in orientem versa, fere a Vistula et Tyra usque ad Urales meridianos, sunt (vel olim erant) silvae quercuum roburum, tiliae cordatae, pinorum et, ubi zona in taigam transit, picearum. Versus meridiem prae Pontum Euxinum regio sequitur, in qua naturaliter vegetatio tesqualis praevaleret.
+
+Etiam regiones circa mare Mediterraneum initio late silvis tectae erant. Ibi vegetatio naturaliter (sine hominis interpellatione) ex plantis sclerophyllis constaret, imprimis quercibus semperviridibus (praecipue quercu ilice), in plagis maxime meridianis calidissimisque etiam multis oleis, pistaciis et piceis. Interpellatione hominis hodie imprimis Phrygana aut Garigue praevalet. In plagis frigidioribus etiam varia genera quercuum, quae aestate virent, inveniuntur, ut Quercus pubescens. In mediis et altioribus montium stratis vegetatio originalis melius conservata est quam infra. In saltibus montanis praeter fagum etiam varia genera abietum et pinorum crescunt, in montibus magis septentrionalibus etiam picea et larix. Supra zonam, qua silva crescere potest, suffrutices, herba alpina et vepres inveniuntur.
+
+His diebus maxima Europae pars in agriculturam versa est, etiam e silvis reliquis enixe fructus capitur. Plagae ab hominibus minus commutatae imprimis in montibus exstant.
+Fauna
+Canis lupus
+
+Magna Carnivora sicut ursi, lupi aut lynces adhuc in Europa septententrionali orientalique maiore numero vivunt. In extremis septentrionibus et in Europa orientali tarandri et alces admodum numerosi sunt. Bison bonasus exstinctus ex hortis zoologicis in Europa orientali rursus in libertatem missus est. Cervus, capreolus et aper plurimis in regionibus Europae inveniuntur. Animal Europae proprium est rupicapra, quae extra montes Europaeaos non nisi in Asia Minore et in Asiaticis Caucasi partibus diffusa est. In Alpibus, Pyrenaeis et in Caucaso varia ibicum genera vivunt. Saiga tatarica adhuc medio aevo usque in Ucrainam diffusa erat, hodie in Europa tantum ad Volgam flumen prope ostium invenitur.
+
+Multa genera iam ante saecula exstincta sunt (Bos primigenius, equus ferus). Etiam copia avium rapacium sicut Aquila chrysaetos, Haliaeetus albicilla, et Gyps fulvus valde deminuta est.
+
+Solum in Europa meridionali et orientali propter clima calidum sunt plura genera lacertarum, serpentium et testudinum. Ad litora vivunt phocae. In maribus septentrionalibus cetacea notissima sunt orcae et Phocoenidae, in mari Mediterraneo Delphinidae. Notissimi pisces marini sunt Clupeidae et varia genera thunnorum.
+Politica et topographica
+
+Historia
+Ggantija, Melitae.
+Constantinus Magnus cum exemplari Constantinopoleos urbis
+Domina Vincae, fictilia neolithica ex Serbia.
+Stonehenge, Anglia
+Discus caelestis Nebra ex Germania aetatis Aeneae.
+
+Reliquiae generis hominis in Sierra de Atapuerca in Hispania repertae usque ad 1.2 miliones annorum repetunt.[14] Inventae in Georgia etiam antiquiores ad 1.8 miliones annorum datata Homo georgicus appellantur. In Europa ab Alpibus in septentriones versus sic dictus Homo heidelbergensis circiter ante 600 000 annorum primas sedes collocavit. Ante 40 000 annorum demum Homo sapiens in Europam pervenit, ubi paulatim Hominem neanderthalensem demovit. A neolithico et chalcolithico in Europa longus progressus in rebus culturae et oeconomiae coepit, initio in regionibus circa mare Mediterraneum sitis, deinde etiam in septentrionibus et in oriente.
+
+Praecipue cultura Graeca, imperium Romanum, et religio Christiana ad Europam formandam plurimum contulerunt. Antiquitate imperium Romanum Europam meridianam una cum aliis regionibus circa mare Mediterraneum sitis in unum coniunxit. Christiani, quamvis pluribus persecutionibus vexati, hoc in imperio religionem suam celeriter diffundere potuerunt.
+
+Antiquitate posteriore religio Christiana primum a Constantino I imperatore permissa (Edictum Mediolanense) et Theodosio I imperante religio publica facta est – quod usque ad hunc diem aliquid momenti habet. Cum Imperium Romanum in occidente corruisset, in oriente usque ad annum 1453 processit (vide: Imperium Romanum Orientale). Multitudo gentium Europam occidentalem invaserunt (vide Migrationes Europaeae populorum et gentium), inter quas Angli, Saxones, Franci, Gothi, et alii, quae nova regna condiderunt, ex quibus nationes futurae (Anglia, Francia, Hispania) ortae sunt.
+
+Medio aevo ineunte Carolus Magnus imperium occidentale renovavit, quo facto diuturnae controversiae cum Imperio Romano Orientali ortae sunt. Contraria inter societates occidentalem et orientalem inter alia ad Schisma anni 1054 duxerunt. Missionarii religionem Christianam a medio aevo inenunte in Europa septentrionali orientalique disseminaverunt, ut tota Europa medio aevo exeunte Christiana facta sit. In Europa Occidentali a saeculo undecimo contentiones inter imperatorem et papam de principatu saeviebant. Tempore renascentiae litterarum occidens Latinus „scientiam antiquorum“ repperit, qua re quidam progressus culturalis effectus est. Reformatione saeculo sexto decimo ecclesia occidentis in partes Catholicam et Evangelicam scissa est, unde bella de vera religione orta sunt. Ab anno 1618 usque ad annum 1648, bellum tricennale magnam Europae partem devastavit.
+
+A saeculo quinto decimo civitates Europaeae (imprimis Hispania, Portugallia, Russia, Nederlandia, Francia, et Britannia Maior) imperia coloniis fulta condiderunt, quibus cunctis in continentibus potentiam exercebant divitiasque sibi paraverunt. Europa continens est, qui ad alias continentes maximam vim habuit (puta per religionem Christianam, colonias, servitutem, commercium et culturam).
+Res novae Francicae: Impetus in Bastillam, die 14 Iulii 1789.
+
+Saeculo duodevicensimo, Illuminismo commutatio rerum praeparata est, quae ad tolerantiam, observantiam iurum humanorum, aequalitatem ante legem et libertatem pertinuerunt, non autem sine maximis tumultibus. In Francia anno 1789, rebus novis cives regnum everterunt et ipsi rerum potiti sunt. Mox Napoleo imperator Franciae factus magnam Europae partem occupavit, postquam autem anno 1812 plurimis militibus amissis e Russia eiectus est, anno 1814 devictus et in exsilium missus est.
+
+Civitates victores Consilio Vindobonensi ordinem, qui ante res novas Franciae fuerat, restituere conatae sunt, sed non nisi partim et ad tempus successerunt. Incrementum industriarum vitam multorum hominum valde commutavit. Quod multi operarii rebus necessariis carebant, saeculo undevicensimo motus communisticus natus est. Eodem saeculo a multis democratia desiderabatur, quae voluntas a regentibus non raro crudeliter opprimebatur, et nationalismus cum imperialismo grassabatur.
+
+Et primo bello mundano (1914–1918) et secundo (1939–1945) Europa magnis ex partibus devastata est. Fere 60 milliones hominum per hoc vitas amiserunt, quorum circiter sex milliones erant Iudaei, quos nazistae, sicut et homosexuales et Zingaros, exstirpare voluerunt, phylen puram appetentes.
+
+Secundo bello mundano confecto, bello frigido Europa velo ferreo, quod dicebatur, in duas partes politico-oeconomicas divisa erat: in civitates socialisticas sive communisticas in Europa Orientali, civitatesque capitalisticas in Europa Occidentali. Praeter has erant quaedam civitates neutrales. Perestroika et Glasnost demum in Unione Sovietica ab anno 1985 nova consilia incitavit, unde ab anno 1989 regimina communistica Europae Orientalis ceciderunt, Muro Berolinensi fracto et unione Sovietica pactoque Varsoviensi dissolutis.
+
+Saeculis recentibus civitates culturaeque Europae magis magisque coalescunt, quod novas societates (ut puta Unionem Europaeam), maiorem cooperationem oeconomicam et mutuam migrationem incolarum maturat. 
+
+Democratia
+Jump to navigation
+Jump to search
+Unam legis e paginis de
+civilitate
+disserentibus
+Formae administrationis
+Tituli ductorum
+Ideologiae
+Trias politica
+Factiones
+Comitia
+Vide etiam
+Civitas sui iuris · Rectio · Maiestas · Titulus
+Haec tabula statum democratiae (aut libertatis politicae) in orbe terrarum anno 2007 monstrat. Viridi colore: liberae, accurate civitates, quae democratiae liberae ab organizatione Domus Libertatis putantur. Flammeo colore: partim liberae. Rubro colore: non liberae. Fons: Domus Libertatis.
+
+Democratia[1] (-ae, fem.) (Graece: δημοκρατία, ex δῆμος 'populus' + κρατία 'imperium'[2]) est modus reipublicae regendae vel forma administrationis quo potestas gubernandi ex populo nascitur, aut recto referendo (democratia recta) aut per legatos a populo electos (democratia repraesentativa).[3] Nomen factum est medio saeculo quinto a.C.n. ad significanda systemata politica quae tum in aliquibus civitatibus Graecis exstabant, insigniter Athenis post tumultum popularem anno 508 a.C.n.[4] Quamquam nulla definitio democratiae ab omnibus accipitur,[5] aequalitas libertasque ut graves democratiae proprietates ex antiquo tempore agnoscuntur.[6] Haec principia poscunt omnes cives esse aequales ante legem et eis aeque esse aditus ad potestatem. Exempli gratia, in democratia repraesentativa, omne suffragium pondus idem habet, nullae angustiae pertinere possunt ad quemvis qui fieri legatus vult, et libertas civium a iuribus legitimis confirmatur quae ipsa a constitutione usitate proteguntur.[7][8]
+
+Hoc est principium democratiae: "Quod omnes tangit, ab omnibus comprobetur." 
+
+Philosophia (etymologice 'amor sapientiae', Graece φιλεῖν 'amare' + σοφία 'sapientia') est studium sapientiae vel veritatis, per investigationem principiorum cogitationis humanorumque factorum. Qui philosophiae se dedicant philosophi nominantur. "Philosophia individua dimittit; neque impressiones primas individuorum, sed notiones ab illis abstractas complectitur; atque hoc prorsus officium est atque opificium rationis."[1]
+
+Vocabulum philosophia a Pythagora fictum est, quia sapientiam privilegium divinum habebat, ipse autem sapiens (sophos) haberi nolebat. Amator sapientae (vel scientiae) igitur dici malebat.
+
+Philosophia hodierna multas definitiones habet, inter eas:
+
+    Criticum studium omnium humanarum quaestionum;
+    Rationale studium omnis sapientiae humanae;
+    Studium quaestionum, quibus responsa non sint absoluta.
+
+Partes speciales philosophiae sunt philosophia mentis, philosophia scientiarum, philosophia orationis, philosophia historiae, philosophia religionis, et cetera. 
+Deus
+Jump to navigation
+Jump to search
+Diagramma nominum Dei, ab Athanasio Kircher factum.
+
+Deus[1] est unus e congregatione deorum dearumque, vel, si sit solus deus, ens supremum, praecipue in religionibus monotheisticis. Religio imaginationes format deorum.
+
+Dei regnum praestabile (etiam saepe regnum deterrimum) exercunt. Saepe, dei adolentur ab catervis religionum et fere videntur praebere populationi? poenam (pro transgressionibus) vel praemium (pro servitio aut sacrificio). Christianorum Deus est generator terrae atque caeli.
+
+Doctrina Sancti Thomae dicit Deum esse "ipsum esse per se subsistens." Doctrina Sancti Anselmi dicit Deum esse "aliquid quo nihil maius cogitari possit."[2] 
+Religio Christiana
+(Redirectum de Christianitas)
+Jump to navigation
+Jump to search
+Unam legis e paginis de
+religione Christiana
+disserentibus
+StJohnsAshfield StainedGlass GoodShepherd Portrait.jpg
+Iesus • Christus
+Biblia
+Theologia
+Historia et mores
+Divisiones
+Vide etiam
+Ars Christiana
+Opus tessellatum Iesu Nazareni, Ravennae in basilica Sancti Apollinaris Novi.
+
+Religio Christiana, sive Christianismus vel Christianitas (ex Graeco Xριστός 'unctus'), est religio monotheistica,[1] deducta ex vita doctrinaque Iesu Nazareni ut in Novo Testamento oblatae sunt.[2] Christianitas in tribus ramis maioribus consistit: Catholicismo, Orthodoxia Orientali (quae se a Catholicismo in Schismate Orientali–Occidentali anno 1054 separavit), et Protestantismo (qui per Reformationem saeculi sexti decimi orsus est).[3] Amplius dividitur Protestantismus in greges minores, denominationes appellatos.
+
+Christiani Iesum fuisse et iam esse filium Dei, Deum hominem factum, et salvatorem hominum credunt. Christiani ergo Iesum Christum vel Messiam appellare solent.[4]
+
+Christifideles, Christiani usitate appellati,[5] credunt Iesum esse Messiam in Bibliis Hebraicis praedictum, partibus scripturae quae Christianitati Iudaismoque communes sunt, quas Christiani Vetus Testamentum nominant. Fons theologiae Christianae in primis Christianorum sententiis oecumenicis invenitur, quae postulationes ab adsectatoribus fidei Christianae plerumque acceptas comprehendunt. Hae fidei professiones dicunt Iesum crucifixum passum sepultumque fuisse, subrexisse ex morte, et omnes quoque qui in eum in remissionem peccatorum (salvationem) credant etiam subrecturos esse.[6] Praeterea contendunt Iesum corporeum in caelum ascendisse, ubi cum Deo Patre regnare. Plurimae denominationes monent Iesum iterum venturum esse ut omnes homines, vivos mortuosque, iudicet et suis adsectatoribus vitam aeternam concessurum esse. Habetur ipse exemplar integris vitae, ambo revelator naturaeque incarnatio Dei.[7] Christiani nuntium Iesu Christi nominant evangelium (Graece: ευαγγέλιον, 'nuntius bonus'); unde primas eius ministerii memorias scriptas hodieque exstantes appellant evangelia.
+Index
+
+    1 Fontes
+    2 Divisiones
+    3 Nexus interni
+    4 Notae
+    5 Bibliographia
+    6 Nexus
+
+Fontes
+
+Omnes Christiani agnoscunt verba et gesta Iesu Christi revelationem esse per excellentiam, sed etiam acta quae fecit Deus ante Incarnationem simili modo creduntur. Pro regula generali, Christiani profitentur revelationem publicam terminasse cum morte novissimi apostoli.
+
+Omnes Christiani accipiunt Scripturas Sacras tamquam revelationem Dei, sed variationes sunt in modo interpretandarum scripturarum, et in canone veteris testamenti.
+
+Variis in gradibus, Christiani agnoscunt auctoritatem Sacrae Traditionis, id est, quod semper, ubique, in omni loco et ab omnibus est creditum. Symbola Christiana, praesertim Symbolum Nicaenum coluntur ut expressiones orthodoxae fidei.
+
+Plerique Christiani recipiunt etiam auctoritatem Sacri Magisterii, quod ex Dei voluntate et institutione in ecclesia esse profitentur. Catholici christifideles credere tenentur "omnia et singula quae circa doctrinam de fide vel de moribus ab Ecclesiae magisterio definitive proponuntur, scilicet quae ad idem fidei depositum sancte custodiendum et fideliter exponendum requiruntur".[8]
+Divisiones
+Rami religionis Christiani principales secundum evolutionem historicam. Crassitudo linearum nihil valet.
+
+Quamvis Christus orans ad Patrem pro discipulis suis dixerit "Rogo pro eis qui credituri sunt per verbum eorum in me, ut omnes unum sint, sicut tu Pater in me, et ego in te, ut et ipsi in nobis unum sint; ut credat mundus quia tu me misisti" (Ioannes 17:21), hodie Christiani sunt divisi varias in partes. Ecclesiae Catholica et Orthodoxae dicunt se a primis diebus idem esse ad dogma, et unitae fuerunt per totum millennium primum, una ecclesia Christianorum quasi omnibus nota. Hae ecclesiae, cum Ecclesia Anglicana, aiunt se esse apostolicas, et volunt monstrare continuitatem cum apostolis tam in doctrina quam in munere episcopali. Ideo, Ecclesia Catholica apostolum Petrum confitetur esse primum papam, a Christo pastorem totius gregis constitutum.
+
+Iam in primis quidem saeculis, variae adstabant sectae quae dissentiebant quoad dogma, sicut Gnostici et Ariani. Quae hereses sanctorum et ecclesiae doctorum opera compressae sunt.
+Religio Christiana in mundo.
+
+Anno 1054, distinctiones quae iampridem inter ecclesias occidentalem orientalemque exsistebant mutuam excommunicationem inter Romanum Pontificem et Patriarcham Constantinopolitanum moverunt. Ideo ecclesia occidentalis et ecclesiae orientales, "orthodoxae" vocatae, mutuo separatae sunt et separatae ad hoc usque tempus sicut disiunctae ecclesiae manent. Catholica vero ecclesia orientales seiunctos censet schismaticos et gravi ecclesiali vitio laborantes.
+
+In Occidente vero, saeculo sexto decimo ineunte, Martinus Lutherus, monachus Augustinorum, ad reformationem ecclesiae se vocari sensit, quum opinatus esset veram Christi doctrinam ab Ecclesia Catholica esse derelictam. A Leone X Pontifice Maximo excommunicatus, novam condidit religionem, dein Lutheranam appellatam. Ex qua autem rebellione orta est non solum communitas Lutherana, sed, post eam, plurimae alterae communitates, nunc varia decem milia, quae communiter "Protestantes" vocantur.
+
+Hodie nonnulli Christiani quaerunt novam unitatem per viam "oecumenismi", sed divisiones adhuc manent.
+
+Itaque tres praecipuae divisiones Christianorum sunt: Ecclesia Catholica Romana, Ecclesiae Orthodoxae, et Protestantes. Ecclesia Anglicana se mediam viam inter Ecclesiam Catholicam et Protestantes ducit. 
+Apostolus
+Jump to navigation
+Jump to search
+Paulus ille Apostolus, pictus a Rembrandt Harmensz van Rijn
+
+Apostolus (Graece ἀπόστολος 'ille qui est dimissus'[1]) est nuntius vel legatus. Propositum talis dimittendi est nuntia proferre, et inde per verbum "nuntius" alia translatione solet.[1] Vox adhiberi potest in contextibus variis metaphorice potest, sed plerumque sectatoribus pristinis auctoris religionis quae momentorum sunt in dispergendo doctrinarum eius. 
+Apostoli
+Jump to navigation
+Jump to search
+Christi adventus ad cenam apostolorum (Luc. 24: 36-49). Maestà a Duccio facta, retrotabulum a tergo ostensum.
+
+Apostoli sunt duodecim viri ab Iesu Christo electi ex eius discipulis ut munus evangelii praedicandi et ecclesiae regendae haberent. Sanctus Petrus ab eo est electus in caput apostolorum. A plurimis Christianis considerantur etiam primi episcopi, et ab Catholicis Petrus primus papa dicitur. Arcte sociebantur Iesu, et discebant ab eo doctrinam eius, in parabolis datam multitudini, necnon eis explicatam. Hora mortis, Christo tradito, omnes discipuli ab eo discesserunt, sed post resurrectionem confirmavit fidem eorum, et deinde eos misit in mundum ad evangelizandas omnes gentes.
+De electione
+
+De electione apostolorum, Biblia Sacra dicunt:
+
+    [Christus] vocavit discipulos suos et elegit duodecim ex ipsis quos et apostolos nominavit Simonem quem cognominavit Petrum et Andream fratrem eius Iacobum et Iohannem, Philippum et Bartholomeum, Mattheum et Thomam, Iacobum Alphei et Simonem qui vocatur Zelotes, Iudam Iacobi et Iudam Scariotham qui fuit proditor. (Lucas 6:13–16)
+
+Matthias electus est ut locum teneret Iudae, et ergo vocatus apostolus. Paulus post resurrectionem Christi ab eo electus est in visione ut esset apostolus gentium, et etiam apostolus vocatur. Cum apostoli ab ipso Christo vocabantur, novi apostoli non sunt, sed opus eorum ab episcopis ab eis electis fit. 
+Scientia
+Jump to navigation
+Jump to search
+Disambig.svg
+	Haec est pagina discretiva alias paginas eiusdem fere nominis indicans.
+Arbor divisionis scientiarum, 1580
+
+Scientia est nomen substantivum a verbo temporali scire deductum, quod omnes varietates 'sciendi' comprehendit. Itaque constat scientiam vocabulum polysemum esse. Quin etiam in eodem orationis circuitu interdum invenitur, sicut hic:
+
+    Neque enim te fugit laudandarum artium omnium procreatricem quandam et quasi parentem eam quam philosophiam Graeci vocant ab hominibus doctissimis iudicari, in qua difficile est numerare quot viri quanta scientia quantaque in suis studiis varietate et copia fuerint qui non una aliqua in re separatim elaborarint, sed omnia quaecumque possent vel scientiae pervestigatione vel disserendi ratione comprenderint. (Cic. De orat. 1.9.4).
+
+Itaque scientia non solum 'scientiam' plerumque declarativam significat, sicut hic:
+
+    Maxime vero virtutum cognitio confirmat percipi et conprendi multa posse. in quibus solis inesse etiam scientiam dicimus, quam nos non conprehensionem modo rerum sed eam stabilem quoque et immutabilem esse censemus, itemque sapientiam artem vivendi, quae ipsa ex sese habeat constantiam (Cic. Luc. 23); aut scire istarum rerum nihil, aut, etiamsi maxime sciemus, nec meliores ob eam scientiam nec beatiores esse possumus (Cic. Rep. 1.32);
+
+sed etiam 'scientiam rationalem' designat, sicut hic:
+
+    Multi erant praeterea clari in philosophia et nobiles, a quibus omnibus una paene voce repelli oratorem a gubernaculis civitatum, excludi ab omni doctrina rerumque maiorum scientia ac tantum in iudicia et contiunculas tamquam in aliquod pistrinum detrudi et compingi videbam (Cic. De orat. 1.46); maximus ille medicorum et huius scientiae conditor feminis nec capillos defluere dixit nec pedes laborare (Sen. Ep. 95.20).
+Physica
+Jump to navigation
+Jump to search
+Exempla rerum physicarum.
+
+Physica (-ae, f.) (Graece φυσικός 'naturalis', a Graeco φύσις 'natura') est scientia naturalis quae in studio materiae[1] et eius motus per spatium tempusque implicatur, cum notionibus cognatis sicut energia et vis.[2] Latius descripta, physica est generalis rerum naturae explicatio praebita omnes ad causas intellegandas quibus universum se gerit.[3][4][5]
+
+Physica inter venerabiliores disciplinas academicas numeratur, fortasse etiam veterrimas (cum astronomia).[6] Per duo millennia autem, usque post res novas scientificas saeculi XVI physica fuit indiscreta pars philosophiae naturalis et historiae naturalis, una cum chemia, certis mathematicae ramis, et biologia. Tandem, saeculo decimo nono haec studia indiscreta in varias disciplinas hodiernas specializata sunt. Nihiliminus, usque hodie novae notiones in physica saepe fundamentales aliarum scientiarum machinationes explicant cum novas aperiunt rationes investigationis e.g. in mathematica et philosophia.
+
+Physica in saecula maxime prodest propter progressum in technologiis quae ex inventis theoreticis oriuntur. Exempli gratia, progressus in cognitione electromagnetismi et physicae nuclearis ad evolutionem novorum operum recte duxit, quae societates hodiernas multo mutavit, sicut televisio, computatra, apparatus domestici, et arma nuclearia. Progressus quoque in thermodynamica ad evolutionem industrializationis duxit, et progressus in mechanica evolutionem calculi excitavit.
+Index
+
+    1 De natura physicae
+    2 Historia physicae
+    3 Disciplinae physicae
+    4 Physici celebres
+    5 Quantitates physicae
+    6 Nexus interni
+    7 Notae
+
+De natura physicae
+Pendulum cuius positionem X, velocitatem V, et accelerationem A mechanica Newtoniana adamussim describit.
+
+Physicae propositum est invenire leges naturales quantitativas quae ad omnes res pariter spectant, adaeque tantum ad res vivas quantum ad res inanimas, ad distantias subnucleares circum 10-20 m quantum ad distantias intergalacticas circum 10+20 m. Ob universalem harum legum naturam, physica saepe elementarissima? inter varias disciplinas scientiasque naturales dicitur.
+
+Propterea quod physica fundamenta quantitativa dat biologiae, chemiae, astronomiae, et aliis disciplinis, fines inter eas et physicam saepe inclari sunt. Exempli gratia hodie sunt multae disciplinae quae ad physicam et aliam scientiam simul spectant sicut: cosmologia, astrophysica, biophysica, physica medica, physica chemica, et chemia physica. Saepe differentia inter disciplinas sola provenit ex causa quam investigatores corde habent: quaeruntne investigatores praecipue leges universales? Aut leges quae solae ad hanc disciplinam specialem spectant? Prius propositum physici habent; posterus biologi aut astronomi, et caeteri.
+
+Ob quantitativam legum physicarum naturam, omnes leges physicae insigne in forma mathematica concipiuntur. Mathematica et physica coniunctim diu ingressi sunt. Saepe physici e necessitate per argumenta dubia mathematicam novam commenti sunt, quam mathematici sero bene confirmaverunt. Exempli gratia, calculus infinitesimalis saeculo XVI excogitatus est, sed argumentum epsilon-delta, quod integrationem differentiationemque valide sustinuit, solum a Bernardo Bolzano anno 1817 creatum est. Etiam sunt exempla ubi ingressa mathematica scientiam physicam proferunt: inventio numeri imaginarii saeculo XVIII, e.g., effecit ut physici saeculo vicesimo mechanicam quanticam invenirent.
+
+Quod complurae eorum adiunctae proprietates e rerum constitutione proveniunt, physica elementa specialiter petit fundamentalia quae omnia materia constituent. Secundum theoriam canonicam omnes res ex duodecim particulis fermionicis fundamentalibus et duodecim particulis bosonicis fundamentalibus factae sunt. Particulae bosonicae serviunt ut vires inter particulas fermionicas transmittantur. Haec autem theoria incompleta est quia non includit vim gravitatis. Et sunt multa alia problemata physica usque hodie extantia quae manent resolvere, sicut problema mensurae quanticae, quae constat in incongruentia fundamentali inter theorias quanticas et relativisticas. Qua de causa ad haec problemata resolvenda hodie proponiuntur multae theoriae speculativae sicut theoria chordarum, et gravitas quantica.
+Historia physicae
+Isaacus Newtonus Eques (1643–1727).
+Albertus Einstein (1879–1955).
+Searchtool.svg Si plus cognoscere vis, vide Historia physicae
+
+Homines rerum naturae causas diu scire conati sunt. Praecipue quod caelestia praedici possent quaestitum est. Philosophia naturalis ex Graecia per aevum archaicum (650 a.C.n.–480 a.C.n.) orta est, cum Thales Milesius et alii philosophi praesocratici supernaturales, mythologicas, et religiosas rerum naturalium explanationes refutantes, declararent omni casui esse causam naturalis.[7] Notiones proposuerunt ratione et observatione confirmatas, et multae eorum coniecturarum in experimentis probatae sunt felices,[8] exempli gratia, atomismus.
+
+Multi philosophi theorias astrologiae et atomorum invenerunt: Leucippus atomos introduxit; Archimedes solutionem vectibus et aliis mechanicae physicae statisticaeque invenit. In medio aevo physici periclitationes egerunt; clarissimi fueunt Isaac Newton et Galileo Galilei et Iohannes Kepler. Saeculo XX Albertus Einstein physicam in faciem hodiernam flexit.
+Disciplinae physicae
+Albertus Einstein
+Jump to navigation
+Jump to search
+Wikidata-logo.svg Albertus Einstein
+Res apud Vicidata repertae:
+Albertus Einstein: imago
+Albertus Einstein: subscriptio
+Nativitas: 14 Martii 1879; Ulma
+Obitus: 18 Aprilis 1955; Princetonia
+Patria: Imperium Germanicum, no value, Helvetia, Imperium Austro-Hungaricum, Res Publica Vimariana, Civitates Foederatae Americae
+
+Officium
+
+Consociatio
+
+Familia
+
+Memoria
+Albertus Einstein
+
+Albertus Einstein (14 Martii 1879—18 Aprilis 1955) fuit philosophus naturae et rerum physicarum investigator anno 1921 praemio Nobeliano laureatus.
+Index
+
+    1 Annus mirabilis et opera eius
+    2 Vita
+    3 Opera
+    4 Notae
+    5 Bibliographia
+    6 Nexus externi
+    7 Nexus interni
+
+Annus mirabilis et opera eius
+Albertus Einstein et Nicolaus Bohr
+
+Einstein, unus ex physicis maximi momenti saeculi vicensimi, operibus de physica theoretica conscriptis nos rem naturam novo quodam modo intellegere docuit. Anno mirabili 1905, publicos fecit quattuor libellos.[1] Duo operis suis titulis De corporum moventium electrodynamica (Germanice Zur Elektrodynamik bewegter Körper) et Pendetne inertia corporis in sua energia? (Germanice "Ist die Trägheit eines Körpers von seinem Energiegehalt abhängig?")[2] fuerunt quibus generis humani totus spatii temporisque intellectus renovatus est, ex quo relativitatis specialis evolvit. Alius libellus fuit De motu particulae parvae in fluido statario suspensae quem theoria cinetica calorica molecularis requirit (Germanice "Über die von der molekularkinetischen Theorie der Wärme geforderte Bewegung von in ruhenden Flüssigkeiten suspendierten Teilchen"),[3] qui statuit existentia atomorum molecularumque. Suus libellus titulo De perspectiva heuristica circa productionem et transformationem lucis (Germanice "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt")[4] effectum photoelectricum explicavit, propter quam anno 1921 praemio Nobeliano laureatus est.
+
+Einstein multa alia magni momenti opera scientifica fecit. Anno 1915 Enstein provulgavit suum magnum opus relativitatis generalis quod theoriam gravitatis praesentat forma relativitatis congruente.[5]
+Vita
+Albertus et Elsa.
+Einstein civis Americanus anno 1940 fit.
+
+Albertus filius Arminii Einstein et uxoris eius Paulinae Ulmae in Virtembergia Iudaeus origine anno 1879 natus est.[6] Alberti familia Monachium anno 1880 migravit, quo loco pater et avunculus eius officinam condiderunt. Anno 1881 Alberti soror Maria nata est.
+
+Albertum puerum virum illustrissimum esse futurum nemo providit. Prima enim verba tres annos natus locutus est; tamen discipulus bonus erat. Anno 1884 viola canere didicit. Quattuor annis post in Gymnasio Luitpoldino litteris artibusque trivii institutus est.
+
+Annos 1896–1905 universitatem ETH in Helvetia astitit, ubi Milevam Marić cognovit quae in matrimonium duxit anno 1903. Anno 1905, edita dissertatione in Universitate Turiciana ad gradum doctoris rerum naturalium promotus est.
+
+Postea cursus academicus suus progressus est cum positiones Bernae, Pragae, Turici, et in Germania sumpsit. Anno 1919, divortium cum Mileva fecit, et Elsam Löwenthal in matrimonium duxit.
+
+Anno 1932, Einstein fascismi metu gliscentis commotus in Civitatibus Foederatis Americae consedit, neque umquam in Germaniam revertit, quia in patria eius die 30 Ianuarii 1933 Adolfus Hitler ad summam rerum accessit, et legibus novis inauditisque ferendis gentem Iudaeorum opprimere coepit. 

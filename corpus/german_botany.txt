@@ -114,3 +114,668 @@ Siehe auch
 
     Pflanzenwachstum
     Pflanzenphysiologie
+
+Physik
+Zur Navigation springen
+Zur Suche springen
+	Dieser Artikel beschreibt die Naturwissenschaft Physik. Zum Werk von Aristoteles siehe Physik (Aristoteles). Zum Musikalbum siehe Physik (Album).
+Verschiedene Beispiele physikalischer Phänomene
+
+Die Physik ist eine Naturwissenschaft, die grundlegende Phänomene der Natur untersucht. Um deren Eigenschaften und Verhalten anhand von quantitativen Modellen und Gesetzmäßigkeiten zu erklären, befasst sie sich insbesondere mit Materie und Energie und deren Wechselwirkungen in Raum und Zeit.
+
+Erklären bedeutet hier einordnen, vergleichen, allgemeineren Erscheinungen zuordnen oder aus allgemeiner gültigen Naturgesetzen folgern.[1] Dazu ist häufig die Bildung neuer geeigneter Begriffe nötig, teilweise auch solcher, die der unmittelbaren Anschauung nicht mehr zugänglich sind. Erklärungen in dem philosophischen Sinn, „warum“ die Natur sich so verhält, kann die Physik nicht leisten. Stattdessen setzt sie sich mit dem „wie“ auseinander. Zum Beispiel kann sie nicht erklären, warum Massen einander anziehen. Dieses Verhalten kann lediglich mit verschiedenen Modellen beschrieben werden. Newton tat dies, indem er annahm, dass zwischen Körpern eine Anziehungskraft herrscht. Eine ganz andere Vorstellung hatte Einstein, der die Gravitation damit erklärte, dass Materie die Raumzeit krümmt.
+
+Die Arbeitsweise der Physik besteht in einem Zusammenwirken experimenteller Methoden und theoretischer Modellbildung. Physikalische Theorien bewähren sich in der Anwendung auf Systeme der Natur, indem sie bei Kenntnis von deren Anfangszuständen Vorhersagen über spätere Zustände erlauben. Erkenntnisfortschritte ergeben sich durch das Wechselspiel von Beobachtung oder Experiment mit der Theorie. Eine neue oder weiterentwickelte Theorie kann bekannte Ergebnisse besser oder überhaupt erstmals erklären und darüber hinaus neue Experimente und Beobachtungen anregen, deren Ergebnisse dann die Theorie bestätigen oder ihr widersprechen. Unerwartete Beobachtungs- oder Versuchsergebnisse geben Anlass zur Theorieentwicklung in verschiedener Gestalt, von schrittweiser Verbesserung bis hin zur völligen Aufgabe einer lange Zeit akzeptierten Theorie.
+
+Erkenntnisse und Modelle der Physik werden intensiv in der Chemie, Geologie, Biologie, Medizin und den Ingenieurwissenschaften genutzt.
+Inhaltsverzeichnis
+
+    1 Geschichte von Begriff und Disziplin der Physik
+    2 Methodik
+        2.1 Experimentalphysik
+        2.2 Theoretische Physik
+        2.3 Weitere Aspekte
+            2.3.1 Mathematische Physik
+            2.3.2 Angewandte Physik
+            2.3.3 Simulation und Computerphysik
+    3 Theoriengebäude
+        3.1 Klassische Mechanik
+        3.2 Elektrodynamik und Optik
+        3.3 Thermodynamik
+        3.4 Relativitätstheorie
+        3.5 Quantenphysik
+    4 Themenbereiche der modernen Physik
+        4.1 Teilchenphysik
+        4.2 Hadronen- und Atomkernphysik
+        4.3 Atom- und Molekülphysik
+        4.4 Kondensierte Materie und Fluiddynamik
+        4.5 Astrophysik und Kosmologie
+        4.6 Interdisziplinäre Themenbereiche
+    5 Grenzen der physikalischen Erkenntnis
+    6 Beziehung zu anderen Wissenschaften
+    7 Physik in der Gesellschaft
+    8 Siehe auch
+    9 Literatur
+    10 Weblinks
+    11 Einzelnachweise
+
+Geschichte von Begriff und Disziplin der Physik
+→ Hauptartikel: Geschichte der Physik
+
+Die Disziplin der Physik in ihrer heutigen Gestalt hat ihre Ursprünge in der Philosophie, die sich seit der Antike im weitesten Sinne mit den Gründen und Ursachen aller Dinge befasst. Von Aristoteles bis ins beginnende 19. Jahrhundert wurde die Physik als das Teilgebiet der Philosophie verstanden, das sich als Naturlehre, Naturgeschichte, Chemie oder angewandte Mathematik mit den Gegebenheiten der Natur beschäftigt.[2] Gegenüber den rein philosophischen Erklärungsversuchen der Naturvorgänge spielte die Art von Erkenntnis, die durch systematische und genaue Beobachtung, also empirisch zu gewinnen ist, lange Zeit keine Rolle. Ab Mitte des 13. und im Laufe des 14. Jahrhunderts plädierten dann einzelne Philosophen und Naturforscher – meist ein und dieselbe Person wie etwa Roger Bacon – für ein größeres Gewicht der durch Beobachtung zu erlangenden Naturerkenntnis. Diese Tendenzen mündeten im 16. und 17. Jahrhundert, namentlich mit Galileo Galilei und Isaac Newton, in die Entwicklung einer Methodologie der physikalischen Erkenntnis, die vorrangig an empirischen und sogar experimentellen Standards orientiert ist und diesen vor überkommenen philosophischen Grundsätzen im Zweifelsfall sogar den Vorrang einräumt. Dieser Ansatz wurde zunächst als „experimentelle Philosophie“ bezeichnet und führte beim Verständnis vieler unterschiedlicher Naturvorgänge rasch zu bedeutenden Erfolgen. Dennoch dauerte es noch bis ins 19. Jahrhundert, dass er sich endgültig in der Physik durchsetzen konnte und sie damit als eigenständige Disziplin in ihrem heutigen Sinn etablierte.
+
+Hinsichtlich ihrer Methode, ihres Gegenstandsbereichs, ihrer wissenschaftssystematischen und institutionellen Verortung teilt sich die Physik im Wesentlichen in zwei große Gebiete auf. Die theoretische Physik beschäftigt sich vorwiegend mit formalen mathematischen Beschreibungen und den Naturgesetzen. Sie abstrahiert Vorgänge und Erscheinungen in der wirklichen Natur in Form eines Systems von Modellen, allgemeingültigen Theorien und Naturgesetzen sowie intuitiv gewählten Hypothesen. Bei der Formulierung von Theorien und Gesetzen bedient sie sich vielfach der Methoden der Mathematik und der Logik. Ziel ist, das Verhalten eines Systems theoretisch vorherzusagen, damit dies durch Vergleich mit den Vorgängen und Erscheinungen in der wirklichen Natur überprüft werden kann. Diese Überprüfung in Form reproduzierbarer Messungen an gezielt gestalteten physikalischen Experimenten oder durch Beobachtung natürlicher Phänomene ist das Gebiet der Experimentalphysik. Das Ergebnis der Überprüfung bestimmt über die Gültigkeit und Vorhersagekraft des Modells und der darin gewählten Begriffe, Hypothesen und Methoden.
+
+Die Physik steht in enger Verbindung zu den Ingenieurwissenschaften und den anderen Naturwissenschaften von der Astronomie und Chemie bis zur Biologie und den Geowissenschaften. Die Physik wird dabei häufig als grundlegende oder fundamentale Naturwissenschaft aufgefasst, die sich am stärksten mit den Grundprinzipien befasst, die die natürlichen Vorgänge bestimmen. Die Grenzziehung zu den anderen Naturwissenschaften hat sich historisch ergeben, wird jedoch insbesondere mit dem Aufkommen neuer Wissenschaftsdisziplinen immer schwieriger.
+
+In der heutigen Physik ist vor allem die durch Atom- und Molekülphysik und Quantenchemie markierte Grenze zur Chemie fließend. Zur Abgrenzung gegenüber der Biologie wurde die Physik oftmals als die Wissenschaft von der unbelebten im Gegensatz zur belebten Natur bezeichnet, womit jedoch eine Beschränkung impliziert wird, die so in der Physik nicht existiert. Die Ingenieurwissenschaften sind durch ihren engen Bezug zur praktischen technischen Anwendung von der Physik abgegrenzt, da in der Physik das Verständnis der grundlegenden Mechanismen im Vordergrund steht. Die Astronomie hat keine Möglichkeit, Laborexperimente durchzuführen, und ist daher allein auf Naturbeobachtung angewiesen, was hier zur Abgrenzung gegen die Physik herangezogen wird.
+Methodik
+
+Die Erkenntnisgewinnung in der Physik verläuft in enger Verzahnung von Experiment und Theorie, besteht also aus empirischer Datengewinnung und -auswertung und gleichzeitig dem Erstellen theoretischer Modelle zu ihrer Erklärung. Dennoch haben sich im Verlauf des 20. Jahrhunderts Spezialisierungen herausgebildet, die insbesondere die professionell betriebene Physik heute prägen. Demnach lassen sich grob Experimentalphysik und theoretische Physik voneinander unterscheiden.
+Experimentalphysik
+Multimeter für elektrische Messungen
+→ Hauptartikel: Experimentalphysik
+
+Während manche Naturwissenschaften wie etwa die Astronomie und die Meteorologie sich methodisch weitgehend auf Beobachtungen ihres Untersuchungsgegenstandes beschränken müssen, steht in der Physik das Experiment im Vordergrund. Die Experimentalphysik versucht durch Entwurf, Aufbau, Durchführung und Auswertung von Experimenten Gesetzmäßigkeiten aufzuspüren und mittels empirischer Modelle zu beschreiben. Sie versucht einerseits physikalisches Neuland zu betreten, andererseits überprüft sie von der theoretischen Physik gemachte Vorhersagen.
+
+Grundlage eines physikalischen Experimentes ist es, die Eigenschaften eines zuvor präparierten physikalischen Systems, zum Beispiel eines geworfenen Steins, eines eingeschlossenen Gasvolumens oder eines Teilchens bei einem Stoßprozess durch Messung in Zahlenform auszudrücken, etwa als Aufprallgeschwindigkeit, als resultierender Druck (bei gegebenen Randbedingungen) oder als Länge der beobachtbaren Teilchenspuren im Detektor.
+
+Konkret werden entweder nur die zeitunabhängigen (statischen) Eigenschaften eines Objektes gemessen oder es wird die zeitliche Entwicklung (Dynamik) des Systems untersucht, etwa indem Anfangs- und Endwerte einer Messgröße vor und nach dem Ablauf eines Vorgangs bestimmt werden oder indem kontinuierliche Zwischenwerte festgestellt werden.
+Theoretische Physik
+Die Lichtuhr, ein bekanntes Gedankenexperiment
+
+Die theoretische Physik sucht die empirischen Modelle der Experimentalphysik mathematisch auf bekannte Grundlagentheorien zurückzuführen oder, falls dies nicht möglich ist, Hypothesen für eine neue Theorie zu entwickeln, die dann experimentell überprüft werden können. Sie leitet weiterhin aus bereits bekannten Theorien empirisch überprüfbare Voraussagen ab.
+
+Bei der Entwicklung eines Modells wird grundsätzlich die Wirklichkeit idealisiert; man konzentriert sich zunächst nur auf ein vereinfachtes Bild, um dessen Aspekte zu überblicken und zu erforschen. Nachdem das Modell für diese Bedingungen ausgereift ist, wird es weiter verallgemeinert.
+
+Zur theoretischen Beschreibung eines physikalischen Systems benutzt man die Sprache der Mathematik. Seine Bestandteile werden dazu durch mathematische Objekte wie zum Beispiel Skalare oder Vektoren repräsentiert, die in durch Gleichungen festgelegten Beziehungen zueinander stehen. Aus bekannten Größen werden unbekannte errechnet und damit zum Beispiel das Ergebnis einer experimentellen Messung vorhergesagt. Diese auf Quantitäten konzentrierte Sichtweise unterscheidet die Physik maßgeblich von der Philosophie und hat zur Folge, dass nicht quantifizierbare Modelle, wie das Bewusstsein, nicht als Teil der Physik betrachtet werden.
+
+Das fundamentale Maß für den Erfolg einer naturwissenschaftlichen Theorie ist die Übereinstimmung mit Beobachtungen und Experimenten. Durch den Vergleich mit dem Experiment lassen sich der Gültigkeitsbereich und die Genauigkeit einer Theorie ermitteln; allerdings lässt sie sich niemals „beweisen“. Um eine Theorie zu widerlegen oder die Grenzen ihres Gültigkeitsbereiches zu zeigen, genügt im Prinzip ein einziges Experiment, sofern es sich als reproduzierbar erweist.
+
+Experimentalphysik und theoretische Physik stehen also in steter Wechselbeziehung zueinander. Es kann allerdings vorkommen, dass Ergebnisse der einen Disziplin der anderen vorauseilen: So sind derzeit viele Voraussagen der Stringtheorie nicht experimentell überprüfbar; andererseits sind viele teilweise sehr genau gemessene Werte aus dem Gebiet der Teilchenphysik zum heutigen Zeitpunkt (2009) durch die zugehörige Theorie, die Quantenchromodynamik, nicht berechenbar.
+Weitere Aspekte
+
+Zusätzlich zu dieser grundlegenden Teilung der Physik unterscheidet man manchmal noch weitere methodische Unterdisziplinen, vor allem die mathematische Physik und die angewandte Physik. Auch die Arbeit mit Computersimulationen hat Züge eines eigenen Bereiches der Physik.
+Mathematische Physik
+→ Hauptartikel: Mathematische Physik
+
+Die mathematische Physik wird gelegentlich als Teilgebiet der theoretischen Physik betrachtet, unterscheidet sich von dieser jedoch darin, dass ihr Studienobjekt nicht konkrete physikalische Phänomene sind, sondern die Ergebnisse der theoretischen Physik selbst. Sie abstrahiert damit von jedweder Anwendung und interessiert sich stattdessen für die mathematischen Eigenschaften eines Modells, insbesondere seine tiefer liegenden Symmetrien. Auf diese Weise entwickelt sie Verallgemeinerungen und neue mathematische Formulierungen bereits bekannter Theorien, die dann wiederum als Arbeitsmaterial der theoretischen Physiker in der Modellierung empirischer Vorgänge Einsatz finden können.
+Angewandte Physik
+→ Hauptartikel: Angewandte Physik
+
+Die angewandte Physik steht in (unscharfer) Abgrenzung zur Experimentalphysik, teilweise auch zur theoretischen Physik. Ihr wesentliches Kennzeichen ist, dass sie ein gegebenes physikalisches Phänomen nicht um seiner selbst willen erforscht, sondern um die aus der Untersuchung hervorgegangenen Erkenntnisse zur Lösung eines (in der Regel) nicht-physikalischen Problems einzusetzen. Ihre Anwendungen liegen auf dem Gebiet der Technik oder Elektronik aber auch in den Wirtschaftswissenschaften, wo im Risikomanagement Methoden der theoretischen Festkörperphysik zum Einsatz kommen. Auch gibt es die interdisziplinären Bereiche der Medizinphysik, physikalischen Chemie, Astrophysik und Biophysik.
+Simulation und Computerphysik
+→ Hauptartikel: Computerphysik
+
+Mit der fortschreitenden Entwicklung der Rechensysteme hat sich in den letzten Jahrzehnten des 20. Jahrhunderts, beschleunigt seit etwa 1990, die Computersimulation als neue Methodik innerhalb der Physik entwickelt. Computersimulationen werden häufig als Bindeglied zwischen Theorie und Experiment verwendet, um Vorhersagen aus einer Theorie zu gewinnen, andererseits können Simulationen auch in Form einer effektiven Theorie, die ein experimentelles Ergebnis nachmodelliert, einen Impuls an die theoretische Physik zurückgeben. Naturgemäß hat dieser Bereich der Physik zahlreiche Anknüpfungspunkte an die Informatik.
+Theoriengebäude
+
+Das Theoriengebäude der Physik beruht in seinem Ursprung auf der klassischen Mechanik. Diese wurde im 19. Jahrhundert um weitere Theorien ergänzt, insbesondere den Elektromagnetismus und die Thermodynamik. Die moderne Physik beruht auf zwei Erweiterungen aus dem 20. Jahrhundert, der Relativitätstheorie und der Quantenphysik, die bestimmte Grundprinzipien der klassischen Mechanik verallgemeinert haben. Beide Theorien enthalten die klassische Mechanik über das sogenannte Korrespondenzprinzip als Grenzfall und haben daher einen größeren Gültigkeitsbereich als diese. Während die Relativitätstheorie teilweise auf denselben konzeptionellen Grundlagen beruht wie die klassische Mechanik, löst sich die Quantenphysik deutlich davon.
+Klassische Mechanik
+Isaac Newton
+→ Hauptartikel: Klassische Mechanik
+→ Hauptartikel: Bewegungslehre
+
+Die klassische Mechanik wurde im 16. und 17. Jahrhundert maßgeblich von Galileo Galilei und Isaac Newton begründet. Aufgrund der zu dieser Zeit noch recht begrenzten technischen Möglichkeiten sind die Vorgänge, die die klassische Mechanik beschreibt, weitgehend ohne komplizierte Hilfsmittel beobachtbar, was sie anschaulich erscheinen lässt. Die klassische Mechanik behandelt Systeme mit wenigen massiven Körpern, was sie von der Elektrodynamik und der Thermodynamik unterscheidet. Raum und Zeit sind dabei nicht Teil der Dynamik, sondern ein unbewegter Hintergrund, vor dem physikalische Prozesse ablaufen und Körper sich bewegen. Für sehr kleine Objekte tritt die Quantenphysik an die Stelle der klassischen Mechanik, während die Relativitätstheorie zur Beschreibung von Körpern mit sehr großen Massen und Energien geeignet ist.
+
+Die mathematische Behandlung der klassischen Mechanik wurde im späten 18. und frühen 19. Jahrhundert in Form des Lagrange-Formalismus und des Hamilton-Formalismus entscheidend vereinheitlicht. Diese Formalismen sind auch mit der Relativitätstheorie anwendbar und sind daher ein bedeutender Teil der klassischen Mechanik. Obwohl die klassische Mechanik nur für mittelgroße, anschauliche Systeme gültig ist, ist die mathematische Behandlung komplexer Systeme bereits im Rahmen dieser Theorie mathematisch sehr anspruchsvoll. Die Chaostheorie befasst sich in großen Teilen mit solchen komplexen Systemen der klassischen Mechanik und ist derzeit (2009) ein aktives Forschungsgebiet.
+Elektrodynamik und Optik
+Nach James Clerk Maxwell sind die bekannten Maxwell-Gleichungen des Elektromagnetismus benannt
+→ Hauptartikel: Elektrodynamik
+→ Hauptartikel: Optik
+
+In der Elektrodynamik werden Phänomene mit bewegten elektrischen Ladungen in Wechselwirkung mit zeitlich veränderlichen elektrischen und magnetischen Feldern beschrieben. Um die Entwicklung der Theorien der Elektrizität und des Magnetismus im 18. und 19. Jahrhundert zusammenzuführen, wurde eine Erweiterung des Theoriengebäudes der klassischen Mechanik notwendig. Ausgangspunkt war das von Michael Faraday entdeckte Induktionsgesetz und die nach Hendrik Antoon Lorentz benannte Lorentzkraft auf eine bewegte elektrische Ladung in einem Magnetfeld. Die Gesetze der Elektrodynamik wurden im 19. Jahrhundert von James Clerk Maxwell zusammengefasst und in Form der Maxwell-Gleichungen erstmals vollständig formuliert. Grundsätzlich wurden elektrodynamische Systeme mit den Methoden der klassischen Mechanik behandelt, allerdings ermöglichen die Maxwell-Gleichungen auch eine Wellenlösung, die elektromagnetische Wellen wie das Licht beschreiben. Diese Theorie brachte unter anderem in Form der Wellenoptik auch einen eigenen Formalismus hervor, der sich grundlegend von dem der klassischen Mechanik unterscheidet. Besonders die Symmetrien der Elektrodynamik sind mit denen der klassischen Mechanik unvereinbar. Dieser Widerspruch zwischen den beiden Theoriegebäuden wurde durch die spezielle Relativitätstheorie gelöst. Die Wellenoptik ist in Form der nichtlinearen Optik noch heute (2011) ein aktives Forschungsgebiet.
+Thermodynamik
+→ Hauptartikel: Thermodynamik
+
+Etwa gleichzeitig mit der Elektrodynamik entwickelte sich mit der Thermodynamik ein weiterer Theorienkomplex, der sich grundlegend von der klassischen Mechanik unterscheidet. Im Gegensatz zur klassischen Mechanik stehen in der Thermodynamik nicht einzelne Körper im Vordergrund, sondern ein Ensemble aus vielen kleinsten Bausteinen, was zu einem radikal anderen Formalismus führt. Die Thermodynamik eignet sich damit zur Behandlung von Medien aller Aggregatzustände. Die Quantentheorie und die Relativitätstheorie lassen sich in den Formalismus der Thermodynamik einbetten, da sie nur die Dynamik der Bausteine des Ensembles betreffen, aber den Formalismus zur Beschreibung thermodynamischer Systeme nicht prinzipiell ändern.
+
+Die Thermodynamik eignet sich beispielsweise zur Beschreibung von Wärmekraftmaschinen aber auch zur Erklärung vieler moderner Forschungsgegenstände wie Supraleitung oder Suprafluidität. Besonders im Bereich der Festkörperphysik wird daher auch heute (2009) noch viel mit den Methoden der Thermodynamik gearbeitet.
+Relativitätstheorie
+→ Hauptartikel: Relativitätstheorie
+
+Die von Albert Einstein begründete Relativitätstheorie führt ein völlig neues Verständnis der Phänomene Raum und Zeit ein. Danach handelt es sich bei diesen nicht um universell gültige Ordnungsstrukturen, sondern räumliche und zeitliche Abstände werden von verschiedenen Beobachtern unterschiedlich beurteilt. Raum und Zeit verschmelzen zu einer vierdimensionalen Raumzeit. Die Gravitation wird auf eine Krümmung dieser Raumzeit zurückgeführt, die durch die Anwesenheit von Masse bzw. Energie hervorgerufen wird. In der Relativitätstheorie wird erstmals die Kosmologie zu einem naturwissenschaftlichen Thema. Die Formulierung der Relativitätstheorie gilt als der Beginn der modernen Physik, auch wenn sie häufig als Vollendung der klassischen Physik bezeichnet wird.
+Quantenphysik
+→ Hauptartikel: Quantenphysik
+
+Die Quantenphysik beschreibt die Naturgesetze im atomaren und subatomaren Bereich und bricht noch radikaler mit klassischen Vorstellungen als die Relativitätstheorie. In der Quantenphysik sind auch physikalische Größen selbst Teil des Formalismus und keine bloßen Kenngrößen mehr, die ein System beschreiben. Der Formalismus unterscheidet also zwischen zwei Typen von Objekten, den Observablen, die die Größen beschreiben und den Zuständen, die das System beschreiben. Ebenso wird der Messprozess aktiv in die Theorie miteinbezogen. Dies führt in bestimmten Situationen zur Quantisierung der Größenwerte. Das heißt, die Größen nehmen stets nur bestimmte diskrete Werte an. In der Quantenfeldtheorie, der am weitesten entwickelten relativistischen Quantentheorie, tritt auch Materie nur in Portionen, den Elementarteilchen oder Quanten, in Erscheinung.
+
+Die Gesetze der Quantenphysik entziehen sich weitgehend der menschlichen Anschauung, und über ihre Interpretation herrscht auch heute noch kein Konsens. Dennoch zählt sie hinsichtlich ihres empirischen Erfolges zu dem am besten gesicherten Wissen der Menschheit überhaupt.
+Themenbereiche der modernen Physik
+
+Die Theorien der Physik kommen in verschiedenen Themenbereichen zum Einsatz. Die Einteilung der Physik in Unterthemen ist nicht eindeutig und die Abgrenzung der Unterthemen gegeneinander ist dabei ähnlich schwierig wie die Abgrenzung der Physik zu anderen Wissenschaften. Es gibt dementsprechend viele Überschneidungen und gegenseitige Beziehungen der verschiedenen Bereiche zueinander. Hier wird eine Sammlung von Themengebieten nach betrachteter Größenordnung der Objekte dargestellt und im Zuge dessen auf Themengebiete verwiesen, die damit verwandt sind. Die aufgeführten Themen lassen sich nicht eindeutig einer Theorie zuordnen, sondern bedienen sich je nach dem untersuchten Gegenstand verschiedener theoretischer Konzepte.
+Teilchenphysik
+→ Hauptartikel: Teilchenphysik
+
+Die Teilchenphysik befasst sich mit Elementarteilchen und ihren Wechselwirkungen untereinander. Die moderne Physik kennt vier Grundkräfte:
+
+    Die Gravitation oder Schwerkraft,
+    die elektromagnetische Wechselwirkung,
+    die schwache Wechselwirkung, die beispielsweise für bestimmte radioaktive Zerfallsprozesse verantwortlich ist und
+    die starke Wechselwirkung, die die Atomkerne zusammenhält.
+
+Diese Wechselwirkungen werden durch den Austausch sogenannter Eichbosonen beschrieben. Die Teilchenphysik klammert dabei die Gravitation derzeit (2009) aus, da es noch keine Theorie der Quantengravitation gibt, die die gravitativen Wechselwirkungen von Elementarteilchen vollständig beschreiben kann. In der Teilchenphysik werden relativistische Quantentheorien zur Beschreibung der Phänomene verwendet.
+
+Eines der Ziele der Teilchenphysik ist es, alle Grundkräfte in einem vereinheitlichten Gesamtkonzept zu beschreiben (Weltformel). Bisher ist es jedoch lediglich gelungen, die elektromagnetische Wechselwirkung als Vereinigung der elektrischen und der magnetischen Wechselwirkung darzustellen und ebenso die elektromagnetische Wechselwirkung und die schwache Wechselwirkung zu einer sogenannten elektroschwachen Wechselwirkung zu vereinigen. Zur Vereinigung der elektroschwachen und der starken Wechselwirkung wurde unter anderem die Theorie der Supersymmetrie erdacht, die bislang jedoch nicht experimentell bestätigt werden konnte. Die größten Schwierigkeiten treten wie bereits erwähnt im Bereich der Gravitationskraft auf, da noch keine Theorie der Quantengravitation vorliegt, aber Elementarteilchen nur im Rahmen der Quantentheorie beschrieben werden können.
+
+Typische Experimente zur Überprüfung der Theorien der Teilchenphysik werden an Teilchenbeschleunigern mit hohen Teilchenenergien durchgeführt. Um hohe Kollisionsenergien zu erreichen, werden dabei vor allem Collider-Experimente eingesetzt, bei denen Teilchen gegeneinander und nicht auf ein festes Ziel geschossen werden. Daher wird der Begriff der Hochenergiephysik oft nahezu deckungsgleich mit dem Begriff der Teilchenphysik verwendet. Der Teilchenbeschleuniger mit der derzeit (2011) höchsten Kollisionsenergie ist der Large Hadron Collider. Neutrinodetektoren wie der Super-Kamiokande sind speziell zur Erforschung der Eigenschaften von Neutrinos konzipiert und stellen damit eine zwar spezielle, aber dennoch bedeutende Experimentklasse dar.
+Hadronen- und Atomkernphysik
+→ Hauptartikel: Hadronenphysik und Kernphysik
+
+Die Elementarteilchen, die der starken Wechselwirkung unterliegen, die sogenannten Quarks, kommen nicht einzeln, sondern immer nur in gebundenen Zuständen, den Hadronen, vor, zu denen unter anderem das Proton und das Neutron gehören. Die Hadronenphysik hat viele Überschneidungen mit der Elementarteilchenphysik, da viele Phänomene nur erklärt werden können, indem berücksichtigt wird, dass die Hadronen aus Quarks aufgebaut sind. Die Beschreibung der starken Wechselwirkung durch die Quantenchromodynamik, eine relativistische Quantenfeldtheorie, kann jedoch die Eigenschaften der Hadronen nicht vorhersagen, weshalb die Untersuchung dieser Eigenschaften als eigenständiges Forschungsgebiet aufgefasst wird. Es wird also eine Erweiterung der Theorie der starken Wechselwirkung für kleine Energien angestrebt, bei denen sich die Hadronen bilden.
+
+Atomkerne stellen gegenüber Elementarteilchen die nächste Komplexitätsstufe dar. Sie bestehen aus mehreren Nukleonen, also Protonen und Neutronen, deren Wechselwirkungen untersucht werden. In Atomkernen herrschen die starke und die elektromagnetische Wechselwirkung vor. Forschungsgebiete der Atomkernphysik umfassen radioaktive Zerfälle und Stabilität von Atomkernen. Ziel ist dabei die Entwicklung von Kernmodellen, die diese Phänomene erklären können. Dabei wird aber auf eine detaillierte Ausarbeitung der starken Wechselwirkung wie in der Hadronenphysik verzichtet.
+
+Zur Erforschung der Eigenschaften von Hadronen werden Teilchenbeschleuniger eingesetzt, wobei hier der Schwerpunkt nicht so sehr wie in der Teilchenphysik auf hohen Kollisionsenergien liegt. Stattdessen werden Target-Experimente durchgeführt, die zwar geringere Schwerpunktsenergien, aber sehr viel höhere Ereigniszahlen liefern. Allerdings werden auch Collider-Experimente mit Schwerionen vor allem eingesetzt, um Erkenntnisse über Hadronen zu gewinnen. In der Kernphysik werden zur Erzeugung von Transuranen schwere Atome zur Kollision gebracht und Radioaktivität mit einer Vielzahl experimenteller Aufbauten untersucht.
+Atom- und Molekülphysik
+→ Hauptartikel: Atomphysik und Molekülphysik
+
+Atome bestehen aus dem Atomkern und meist mehreren Elektronen und stellen die nächste Komplexitätsstufe der Materie dar. Ziel der Atomphysik ist es unter anderem, die Linienspektren der Atome zu erklären, wozu eine genaue quantenmechanische Beschreibung der Wechselwirkungen der Elektronen der Atome notwendig ist. Da Moleküle aus mehreren Atomen aufgebaut sind, arbeitet die Molekülphysik mit ähnlichen Methoden, allerdings stellen insbesondere große Moleküle meist deutlich komplexere Systeme dar, was die Rechnungen sehr viel komplizierter und häufig den Einsatz von Computersimulationen erforderlich macht.
+
+Die Atom- und Molekülphysik stehen über die Untersuchung der optischen Spektren von Atomen und Molekülen mit der Optik in enger Beziehung. So baut beispielsweise das Funktionsprinzip des Lasers, einer bedeutenden technischen Entwicklung, maßgeblich auf den Ergebnissen der Atomphysik auf. Da die Molekülphysik sich auch intensiv mit der Theorie der chemischen Bindungen befasst, sind in diesem Themengebiet Überschneidungen mit der Chemie vorhanden.
+
+Ein wichtiger experimenteller Zugang besteht in der Einwirkung von Licht. So werden beispielsweise optische Spektren von Atomen und Molekülen mit ihren quantenmechanischen Eigenschaften in Verbindung gesetzt. Umgekehrt kann dann mit spektroskopischen Methoden die Zusammensetzung eines Stoffgemisches untersucht werden und anhand von Sternenlicht Aussagen über die Elemente in der Sternenatmosphäre getroffen werden. Andere Untersuchungsmethoden betrachten das Verhalten unter dem Einfluss von elektrischen und magnetischen Feldern. Beispiele sind die Massenspektroskopie oder die Paulfalle.
+Kondensierte Materie und Fluiddynamik
+→ Hauptartikel: Kondensierte Materie und Strömungslehre
+
+Die Physik der kondensierten Materie und die Fluiddynamik sind in dieser Auflistung das Gebiet mit der größten thematischen Bandbreite, von der Festkörperphysik bis zur Plasmaphysik. All diesen Bereichen ist gemeinsam, dass sie sich mit makroskopischen Systemen aus sehr vielen Atomen, Molekülen oder Ionen befassen. Dementsprechend ist in allen Bereichen dieses Themengebiets die Thermodynamik ein wichtiger Teil des theoretischen Fundamentes. Je nach Problem kommen aber auch Quantentheorie und Relativitätstheorie zum Einsatz, um die Systeme zu beschreiben. Auch Computersimulationen sind ein fester Bestand der Forschung an solchen Vielteilchensystemen.
+
+Aufgrund der thematischen Bandbreite existieren Überschneidungen mit nahezu allen anderen Gebieten der Physik, zum Beispiel mit der Optik in Form laseraktiver Medien oder nichtlinearer Optik, aber auch mit der Akustik, Atom-, Kern- und Teilchenphysik. Auch in der Astrophysik spielt die Fluiddynamik eine große Rolle bei der Erstellung von Modellen zur Entstehung und zum Aufbau von Sternen sowie bei der Modellierung vieler anderer Effekte. Viele Forschungsbereiche sind dabei sehr anwendungsorientiert, wie die Materialforschung, die Plasmaphysik oder die Erforschung der Hochtemperatursupraleiter.
+
+Die Bandbreite der experimentellen Methoden in diesem Bereich der Physik ist sehr groß, sodass sich keine typischen Methoden für das ganze Gebiet angeben lassen. Die quantenmechanischen Effekte wie Supraleitung und Suprafluidität, die eine gewisse Bekanntheit erlangt haben, werden der Tieftemperaturphysik zugerechnet, die mit typischen Kühlungsmethoden einhergeht.
+Astrophysik und Kosmologie
+→ Hauptartikel: Astrophysik und Kosmologie
+
+Astrophysik und Kosmologie sind interdisziplinäre Forschungsgebiete, die sich stark mit der Astronomie überschneiden. Nahezu alle anderen Themenbereiche der Physik gehen in die astrophysikalischen Modelle ein, um Prozesse auf verschiedenen Größenskalen zu modellieren. Ziel dieser Modelle ist es, astronomische Beobachtungen auf der Grundlage der bisher bekannten Physik zu erklären.
+
+Die Kosmologie baut insbesondere auf den Grundlagen der allgemeinen Relativitätstheorie auf, allerdings sind im Rahmen der Quantenkosmologie auch die Quantentheorien sehr bedeutsam um die Entwicklung des Universums in sehr viel früheren Phasen zu erklären. Das derzeit (2009) am meisten vertretene kosmologische Standardmodell baut dabei maßgeblich auf den Theorien der Dunklen Materie und der Dunklen Energie auf. Weder Dunkle Materie noch Dunkle Energie konnte bisher direkt experimentell nachgewiesen werden, es existieren aber eine Vielzahl von Theorien, was genau diese Objekte sind.
+
+Da in der Astrophysik nur in sehr beschränktem Ausmaß Experimente möglich sind, ist dieses Teilgebiet der Physik sehr stark auf die Beobachtung unbeeinflussbarer Phänomene angewiesen. Dabei kommen auch Erkenntnisse der Atomphysik und der Teilchenphysik und typische Messmethoden dieser Fachgebiete zur Anwendung, um Rückschlüsse auf astrophysikalische oder kosmologische Zusammenhänge zu ziehen. Beispielsweise geben die Spektren von Sternenlicht Auskunft über die Elementverteilung der Sternenatmosphäre, die Untersuchung der Höhenstrahlung erlaubt Rückschlüsse auf die kosmische Strahlung und Neutrinodetektoren messen nach einer Supernova einen erhöhten Neutrinostrom, der gleichzeitig mit dem Licht der Supernova beobachtet wird.
+Interdisziplinäre Themenbereiche
+
+Methoden der Physik finden in vielen Themengebieten Anwendung, die nicht zum Kernthemenbereich der Physik gehören. Einige dieser Anwendungen sind in den vorigen Kapiteln bereits angesprochen worden. Die folgende Aufzählung gibt einen kurzen Überblick über die wichtigsten interdisziplinären Themenbereiche.
+
+    Die Astrophysik wendet physikalische Methoden auf das Studium astronomischer Phänomene an.
+    In der Biophysik werden die physikalischen Gesetzmäßigkeiten untersucht, denen Lebewesen und ihre Wechselwirkung mit der Natur unterliegen.
+    Die Medizinische Physik nutzt physikalische Phänomene wie zum Beispiel Laser, Radioaktivität, Röntgenstrahlung und Kernspinresonanz für medizinische Diagnostik und Therapie.
+    Bei der physikalischen Chemie werden Methoden der Physik auf die Anschauungsobjekte der Chemie angewendet.
+    Die Geophysik nutzt physikalische Modelle und Methoden zur Erklärung geowissenschaftlicher Vorgänge und Fragestellungen.
+    Die Technische Physik befasst sich mit den technischen Anwendungen physikalischen Wissens. Wichtige Teilbereiche sind die Quantenelektronik und die Theorie der Quantencomputer.
+    Die Umweltphysik beschäftigt sich in ihrer Forschung vor allem mit den Bereichen Energie und Klima.
+    Soziophysik und Ökonophysik wenden physikalische und statistische Methoden auf gesellschaftliche, wirtschaftliche, kulturelle und politische Phänomene an.
+
+Grenzen der physikalischen Erkenntnis
+
+Der derzeitige Stand der Physik ist nach wie vor mit noch ungelösten Problemen konfrontiert. Zum einen handelt es sich dabei um den weniger grundsätzlichen Fall von Problemen, deren Lösung prinzipiell möglich, aber mit den derzeitigen mathematischen Möglichkeiten bestenfalls annäherbar ist. Zum anderen gibt es eine Reihe von Problemen, für die noch unklar ist, ob eine Lösung im Begriffsrahmen der heutigen Theorien überhaupt möglich sein wird. So ist es bislang nicht gelungen, eine vereinheitlichte Theorie zu formulieren, welche sowohl Phänomene beschreibt, die der elektroschwachen wie der starken Wechselwirkung unterliegen, wie auch solche, welche der Gravitation unterliegen. Erst bei einer solchen Vereinigung von Quantentheorie und Gravitationstheorie (allgemeiner Relativitätstheorie) könnten alle vier Grundkräfte einheitlich behandelt werden, sodass eine vereinheitlichte Theorie der Elementarteilchen resultierte.
+
+Die bisherigen Kandidaten von Quantengravitations­theorien, Supersymmetrie und Supergravitations-, String- und M-Theorien versuchen, eine solche Vereinheitlichung zu erreichen. Überhaupt ist es ein praktisch leitendes Ziel heutiger Physiker, sämtliche Vorgänge der Natur durch eine möglichst geringe Anzahl von möglichst einfachen Naturgesetzen zu beschreiben. Diese sollen das Verhalten möglichst grundlegender Eigenschaften und Objekte (etwa Elementarteilchen) beschreiben, sodass höherstufige (emergente) Prozesse und Objekte auf diese Beschreibungsebene reduzierbar sind.
+
+Ob dieses Ziel prinzipiell oder praktisch erreichbar ist, ist eigentlich nicht mehr Gegenstand der einzelwissenschaftlichen physikalischen Erkenntnisbemühung, ebenso wenig, wie es allgemeine Fragen darüber sind, welchen Gewissheitsgrad physikalische Erkenntnisse grundsätzlich erreichen können oder faktisch erreicht haben. Derartige Fragen sind Gegenstand der Epistemologie und Wissenschaftstheorie. Dabei werden ganz unterschiedliche Positionen verteidigt. Relativ unbestritten ist, dass naturwissenschaftliche Theoriebildungen in dem Sinne nur Hypothesen sind, dass man nicht mit Gewissheit wissen kann, ob es sich dabei um wahre und gerechtfertigte Auffassungen handelt. Man kann hier noch in spezifischerer Weise vorsichtig sein, indem man sich auf die Theorie- und Begriffsvermitteltheit aller empirischen Erkenntnisse beruft oder auf die Tatsache, dass der Mensch als erkennendes Subjekt ja unter den Gegenstandsbereich physikalischer Theorien fällt, aber nur als wirklich Außenstehender sicheres Wissen haben könnte. Denn für Beobachter, die mit ihrem Erkenntnisobjekt interagieren, bestehen prinzipielle Grenzen der Prognostizierbarkeit im Sinne einer Ununterscheidbarkeit des vorliegenden Zustandes – eine Grenze, die auch dann gelten würde,[3] wenn der Mensch alle Naturgesetze kennen würde und die Welt deterministisch wäre. Diese Grenze hat praktische Bedeutung bei deterministischen Prozessen, für welche geringe Änderungen des Anfangszustands zu großen Abweichungen in Folgezuständen führen – Prozesse, wie sie durch die Chaostheorie beschrieben werden. Aber nicht nur eine praktische Voraussagbarkeit ist in vielen Fällen nur begrenzt möglich, auch wird von einigen Wissenschaftstheoretikern eine Aussage­fähigkeit physikalischer Modelle über die Realität überhaupt bestritten. Dies gilt in verschiedenen Ausarbeitungen eines sogenannten wissenschaftstheoretischen Antirealismus in unterschiedlichem Ausmaß: für unterschiedliche Typen physikalischer Begriffe wird eine reale Referenz bestritten oder für unwissbar gehalten.[4] Auch eine prinzipielle oder wahrscheinliche Zusammenführbarkeit einzelner Theorien wird von einigen Wissenschaftstheoretikern bestritten.[5]
+Beziehung zu anderen Wissenschaften
+
+Die Beziehungen zur Philosophie sind traditionell eng, hat sich doch die Physik aus der klassischen Philosophie entwickelt, ohne ihr jemals grundsätzlich zu widersprechen, und waren nach heutigen Kategorien zahlreiche bedeutende Physiker zugleich wichtige Philosophen und umgekehrt. Gemäß der heutigen philosophischen Disziplinenunterscheidung ist die Physik insbesondere auf die Ontologie bezogen, welche die Grundstrukturen der Realität in möglichst allgemeinen Begriffen zu beschreiben versucht, darüber hinaus auf die Erkenntnistheorie, welche die Gütekriterien von Wissen überhaupt zu erfassen versucht, spezieller noch auf die Wissenschaftstheorie, welche die allgemeinen Methoden wissenschaftlicher Erkenntnis zu bestimmen versucht und natürlich auf die Naturphilosophie bzw. Philosophie der Physik, die oftmals als Unterdisziplin der Ontologie oder Wissenschaftstheorie behandelt wird, jedenfalls aber spezieller gerade auf die Einzelerkenntnisse der Physik bezogen arbeitet, deren Begriffssystem analysiert und ontologische Interpretationen physikalischer Theorien diskutiert.
+Physik in der Gesellschaft
+Logo des Jahres der Physik 2005
+
+Da die Physik als die grundlegende Naturwissenschaft gilt, werden physikalisches Wissen und Denken bereits in der Schule meist im Rahmen eines eigenen Schulfaches unterrichtet. Im Rahmen des Schulsystems wird Physik in der Regel als Nebenfach ab Klassenstufe 5–7 unterrichtet und wird in der Oberstufe oft auch als Leistungskurs geführt.
+Siehe auch: Physikdidaktik
+
+    Die meisten Universitäten bieten das Studienfach Physik an.
+    Seit 1901 vergibt die Schwedische Akademie der Wissenschaften jährlich den Nobelpreis für Physik.
+    Die Frage nach der Ethik naturwissenschaftlicher Forschung wurde erstmals explizit aufgeworfen, als physikalische Entdeckungen Ende der 1930er Jahre auf die Möglichkeit einer Atombombe hindeuteten. Dieses Thema wird auch in der Literatur, etwa in Friedrich Dürrenmatts Theaterstück Die Physiker aufgegriffen.
+    Es gab Versuche, die Physik weltanschaulich zu instrumentalisieren. Beispielsweise gab es in der Zeit des Nationalsozialismus die gegen Einstein gewandte Deutsche Physik und die Wehrphysik als angewandte Physik. Repräsentanten solcher Bestrebungen waren die Physikdidaktiker und Schulpolitiker Erich Günther († 1951), dessen Lehrbuch Wehrphysik (ein Handbuch für Lehrer)[6] bis 1975 benutzt wurde, und der 1959 zum Ehrendoktor der Universität Gießen ernannte Karl Hahn (1879–1963), der als Reichssachbearbeiter die Theorien jüdischer Physiker aus seinen Lehrwerken tilgte und dessen Schulbücher bis in die 1960er Jahre verbreitet waren.[7]
+    2005 war das Jahr der Physik.
+Philosophie
+Zur Navigation springen
+Zur Suche springen
+	Der Titel dieses Artikels ist mehrdeutig. Weitere Bedeutungen sind unter Philosophie (Begriffsklärung) aufgeführt.
+Raffaels Schule von Athen mit den idealisierten Darstellungen der Gründerväter der abendländischen Philosophie. Obwohl seit Platon vor allem eine Sache der schriftlichen Abhandlung, ist das angeregte Gespräch bis heute ein wichtiger Bestandteil des philosophischen Lebens.
+
+In der Philosophie (altgriechisch φιλοσοφία philosophía, latinisiert philosophia, wörtlich „Liebe zur Weisheit“) wird versucht, die Welt und die menschliche Existenz zu ergründen, zu deuten und zu verstehen.
+
+Von anderen Wissenschaftsdisziplinen unterscheidet sich die Philosophie dadurch, dass sie sich oft nicht auf ein spezielles Gebiet oder eine bestimmte Methodologie begrenzt, sondern durch die Art ihrer Fragestellungen und ihre besondere Herangehensweise an ihre vielfältigen Gegenstandsbereiche charakterisiert ist.
+
+In diesem Artikel wird die westliche (auch: abendländische) Philosophie, die im 6. Jahrhundert v. Chr. im antiken Griechenland entstand, behandelt. Nicht behandelt werden hier die mit der abendländischen Philosophie in einem mannigfaltigen Zusammenhang stehenden Traditionen der jüdischen und der islamischen Philosophie sowie die ursprünglich von ihr unabhängigen Traditionen der afrikanischen und der östlichen Philosophie.
+
+In der antiken Philosophie entfaltete sich das systematische und wissenschaftlich orientierte Denken. Im Lauf der Jahrhunderte differenzierten sich die unterschiedlichen Methoden und Disziplinen der Welterschließung und der Wissenschaften direkt oder mittelbar aus der Philosophie, zum Teil auch in Abgrenzung zu irrationalen oder religiösen Weltbildern oder Mythen.
+
+Kerngebiete der Philosophie sind die Logik (als die Wissenschaft des folgerichtigen Denkens), die Ethik (als die Wissenschaft des rechten Handelns) und die Metaphysik (als die Wissenschaft der ersten Gründe des Seins und der Wirklichkeit). Weitere Grunddisziplinen sind die Erkenntnistheorie und Wissenschaftstheorie, die sich mit den Möglichkeiten des Erkenntnisgewinns im Allgemeinen bzw. speziell mit den Erkenntnisweisen der unterschiedlichen Einzelwissenschaften beschäftigen.
+Inhaltsverzeichnis
+
+    1 Einführung
+        1.1 Was ist Philosophie?
+        1.2 Sinn und Arten des Philosophierens
+        1.3 Methoden
+    2 Begriffsgeschichte
+    3 Wissenschaftsgeschichte
+    4 Disziplinen
+        4.1 Allgemein
+        4.2 Abgrenzung theoretische und praktische Philosophie
+        4.3 Theoretische Philosophie
+            4.3.1 Logik
+            4.3.2 Erkenntnistheorie
+            4.3.3 Wissenschaftstheorie
+            4.3.4 Metaphysik und Ontologie
+            4.3.5 Sprachphilosophie
+        4.4 Praktische Philosophie
+            4.4.1 Ethik und Metaethik
+            4.4.2 Rechtsphilosophie
+            4.4.3 Politische Philosophie
+        4.5 Neuere Disziplinen
+            4.5.1 Philosophie des Geistes und des Bewusstseins
+            4.5.2 Moderne philosophische Anthropologie
+            4.5.3 Rationalitäts-, Handlungs- und Spieltheorie
+            4.5.4 Philosophische Mystik
+    5 Geschichte
+        5.1 Antike
+        5.2 Mittelalter
+        5.3 Frühe Neuzeit
+        5.4 19. Jahrhundert
+        5.5 20. Jahrhundert
+        5.6 Gegenwart
+    6 Lehr- und Forschungsbetrieb
+    7 Siehe auch
+    8 Literatur
+        8.1 Einführungen
+        8.2 Hilfsmittel/Nachschlagewerke
+        8.3 Periodika
+    9 Weblinks
+    10 Einzelnachweise
+
+Einführung
+
+Es gibt Probleme, die sich nicht oder nur unzureichend mit Hilfe der exakten Wissenschaften bearbeiten lassen: die Fragen etwa nach dem, was „gut“ und „böse“ ist, was „Gerechtigkeit“ bedeutet, ob es einen Gott gibt, ob der Mensch eine unsterbliche Seele besitzt oder was der „Sinn des Lebens“ ist.
+
+Eine weitere Klasse von Fragen kann ebenfalls nicht eigentlicher Gegenstand von z. B. Naturwissenschaften sein:
+
+    Die Biologie untersucht zwar die Welt des Lebendigen, sie kann aber nicht bestimmen, was das „Wesen“ des Lebendigen ausmacht, ob und wann lebende Organismen getötet werden dürfen oder welche Rechte und Pflichten das menschliche Leben beinhaltet.
+    Mit Hilfe von Physik und Mathematik können zwar Naturgesetze ausgedrückt werden, aber die Frage, ob die Natur überhaupt gesetzmäßig aufgebaut ist, kann keine Naturwissenschaft beantworten.
+    Die Rechtswissenschaften untersuchen und legen fest, wann etwas im Einklang mit den Gesetzen geschieht; was aber wünschenswerte Inhalte des Gesetzbuches sein sollten, dies übersteigt ihren Rahmen.
+    Allgemein erhebt sich nicht nur hinsichtlich jeder Einzelwissenschaft, sondern grundsätzlich die Frage, wie wir mit dem daraus gewonnenen Wissen umgehen sollen.
+    Zudem gibt es Fragestellungen, die die Grenzen des Denkens berühren, wie etwa die Frage, ob die in diesem Moment individuell erlebte Wirklichkeit auch tatsächlich existiert.
+
+In allen solchen Fällen versagen die Erklärungsmodelle der Einzelwissenschaften, es sind philosophische Fragen.
+
+Der griechische Philosoph Platon (428/27 – 348/47 v. u. Z.) hegte deshalb Zweifel an dem Bild, das der Mensch von sich selbst und von der Welt entwickelte. In seinem berühmten Höhlengleichnis[1] reflektierte er unter anderem die begrenzte Wahrnehmungs- und Erkenntnisfähigkeit des gewöhnlichen Menschen. Dieser sitzt mit seinesgleichen nebeneinander aufgereiht in einer Höhle, alle in einer Weise gefesselt, dass sie nur starr geradeaus die Höhlenwand vor sich betrachten können. Licht gibt ein Feuer, das weit im Rücken der Menschen im entfernten Teil der Höhle brennt. Zwischen den Menschen und dem Feuer befindet sich – ebenfalls in ihrem Rücken – eine Mauer, hinter der verschiedene Gegenstände getragen und bewegt werden, die die Mauer überragen und den auf ihre Höhlenwand fixierten Menschen als mobile Schatten erscheinen. Stimmen und Geräusche von dem Treiben hinter der Mauer würden den fixierten Beobachtern demzufolge ebenfalls als Hervorbringungen der Schatten vor ihren Augen gelten müssen. Mit diesem Szenario kontrastiert Platon die uns geläufige „wirkliche“ Welt im Sonnenlicht außerhalb der Höhle und macht durch diesen Kunstgriff begreiflich, warum Philosophen die Wahrheit, d. h. die Nähe zur Wirklichkeit menschlicher Wahrnehmung in Frage stellen.
+
+Die Philosophie behandelt zumeist Sachverhalte, die im Alltag zunächst einmal völlig selbstverständlich erscheinen: „Du sollst nicht töten“, „Demokratie ist die beste aller Staatsformen“, „Wahrheit ist, was nachprüfbar stimmt“, „Die Welt ist, was sich im Universum vorfindet“ oder „Die Gedanken sind frei“. Für manche Philosophen ist erst der Augenblick, in dem solche Überzeugungen, in dem das bisher fraglos Hingenommene fragwürdig wird, der Geburtsmoment der Philosophie. Menschen, denen nichts fragwürdig erscheint, werden demnach nie Philosophie betreiben. Auch das kindliche Staunen wird oft als Beginn philosophischen Denkens angeführt:
+
+    „Das Staunen ist die Einstellung eines Mannes, der die Weisheit wahrhaft liebt, ja es gibt keinen anderen Anfang der Philosophie als diesen.“
+
+– Platon: Theaitetos 155 D
+
+    „Staunen veranlasste zuerst – wie noch heute – die Menschen zum Philosophieren.“
+
+– Aristoteles: Metaphysik I 2, 982 b 12
+
+Anders als Religionen, religiöse Gemeinschaften und Weltanschauungen stützt sich die Philosophie bei der Bearbeitung der oben genannten „philosophischen“ Fragen allein auf die Vernunft, d. h. auf rationale Argumentation, die keine weiteren Voraussetzungen (wie z. B. den Glauben an eine bestimmte zugrundeliegende Lehre) erfordert.
+Was ist Philosophie?
+Übersicht über die Hauptwirkungsstätten einiger bedeutender Philosophen in Europa.
+
+„Philosophie“ lässt sich nicht allgemeingültig definieren, weil jeder, der philosophiert, eine eigene Sicht der Dinge entwickelt. Daher gibt es annähernd so viele mögliche Antworten auf die oben gestellte Frage wie Philosophen. Carl Friedrich von Weizsäcker hat einmal formuliert: „Philosophie ist die Wissenschaft, über die man nicht reden kann, ohne sie selbst zu betreiben.“[2] Daneben hat der Begriff auch viele weichere Konnotationen und kann dann Weltanschauung, Unternehmenskultur etc. bedeuten.[3]
+
+Umso erstaunlicher ist die Präzision der materialistischen Fassung des Begriffes, wonach die Philosophie die Wissenschaft von den allgemeinen Bewegungs- und Strukturgesetzen der Natur, der Gesellschaft und des Denkens (Erkennens) sowie der Stellung des Menschen in der Welt ist.[4]
+
+Zu den philosophischen Arbeitsfeldern gehört zunächst die Untersuchung von Methoden, Prinzipien und der Gültigkeit jeglicher Erkenntnisgewinnung wie auch der Argumente und Theorien auf wissenschaftlicher Ebene. Philosophie kann in diesem Zusammenhang als Grundlagenwissenschaft verstanden werden. Denn philosophisches Nachdenken und In-Frage-Stellen hat die Einzelwissenschaften stets befruchtet und in ihrer Entwicklung gefördert. Die Philosophie stellt Fragen von einer Art, die Spezialwissenschaften (bisher) nicht beantworten können, die durch Versuche, Berechnungen oder andere Forschungen mit den bisherigen Instrumenten nicht zu beantworten sind. Derartige Problemstellungen können aber das Forschen in eine neue Richtung lenken. So werden mitunter neuartige Forschungsfragen in den einzelnen Wissenschaften auf den Weg gebracht; Philosophie leistet folglich über das ureigene Feld hinaus einen Beitrag zur Hypothesenbildung.
+
+Weitergehende philosophische Bemühungen erstrecken sich auf eine systematische Ordnung menschlichen Wissens zwecks Herstellung eines in sich schlüssigen Weltbilds unter Einbeziehung menschlicher Werte, Rechte und Pflichten.
+Sinn und Arten des Philosophierens
+	Dieser Artikel oder nachfolgende Abschnitt ist nicht hinreichend mit Belegen (beispielsweise Einzelnachweisen) ausgestattet. Angaben ohne ausreichenden Beleg könnten demnächst entfernt werden. Bitte hilf Wikipedia, indem du die Angaben recherchierst und gute Belege einfügst.
+Weisheitsemblem (1635), Ausschnitt: SAPIENS DOMINABITUR ASTRIS. Der Text lautet frei übersetzt: „Wer wahre Weisheit erlangt, wird Herrscher über alle Gestirne sein.“
+
+Viele Menschen betreiben Philosophie um ihrer selbst willen: um sich selbst und die Welt, in der sie leben, besser zu verstehen; um ihr Handeln, ihr Weltbild auf eine gut begründete Basis zu stellen. Wer ernsthaft philosophiert, stellt kritische Fragen an die ihn umgebende Welt sowie an sich selbst, lässt sich im Idealfall nicht so leicht täuschen oder von anderen seelisch-geistig manipulieren, übt sich in Wahrhaftigkeit und begeht nicht so leicht Fehlschlüsse. Ein kritisches Potenzial der Philosophie liegt im Hinterfragen der gesellschaftlichen Verhältnisse ebenso wie in einer Relativierung der Ansprüche von Wissenschaften und Religionen. Hierbei beschränkt sich die Philosophie nicht auf die kritische Analyse, sondern sie liefert auch konstruktive Beiträge, beispielsweise durch die rationale Rekonstruktion und Präzisierung vorhandener Wissenssysteme oder die Formulierung von Ethiken. Ein selbstbestimmtes und vernunftbasiertes Leben auf der Grundlage eigenen Nachdenkens (sapere aude!) ist das Ziel vieler Philosophierender.
+
+Bei dem auf individuellen Nutzen gerichteten Philosophieren sind vor allem zwei Arten oder Ausrichtungen zu unterscheiden:
+
+Das Streben nach Weltweisheit soll dem Verstand Orientierung und Sicherheit in allen lebenspraktischen Bezügen verschaffen und die Fähigkeit zu sinnvoller gedanklicher Einordnung alles Begegnenden begünstigen. Es soll gleichsam die Unerschütterlichkeit des eigenen Verstandes durch das Geschehen in der Welt bewirken, sodass der Intellekt jede Lebenssituation souverän zu verarbeiten vermag. Wem von seinen Mitmenschen Weisheit zuerkannt wird, der vermittelt durch seine Reaktionen und Äußerungen den Eindruck, dass er über solche Souveränität verfügt.
+
+Demgegenüber legt die Philosophie als Lebensweise den Akzent auf die Umsetzung der Ergebnisse philosophischer Reflexion in die eigene Lebenspraxis. Auf die richtige Weise zu leben und den Lebensalltag zu gestalten, setzt hiernach ein in vertiefter Form eingeübtes und daraus sich entwickelndes richtiges Denken voraus. Und umgekehrt ist es zur Beglaubigung des philosophischen Denkens nötig, dass es sich in der Lebensweise erkennbar spiegelt.
+Jean-Léon Gérôme, „Diogenes“, 1860. Phantasiedarstellung, die auch die namensgebenden Hunde (altgr. κύων) der Kyniker vorführt.
+
+Sehr ausgeprägte Anwendungsformen einer philosophisch bestimmten Lebensweise hat es insbesondere in der Antike gegeben, vor allem in den Reihen der Stoiker, der Epikureer und der Kyniker. Für das Ideal der Übereinstimmung von Denken und Tun hat der Kyniker Diogenes von Sinope durch seine von radikaler Enthaltsamkeit gekennzeichnete Lebensweise Anhängern wie Gegnern dieser Art philosophischer Ausrichtung ein oft zitiertes Beispiel gegeben. Die Einheit von Theorie und Praxis wird jedoch auch in der östlichen Philosophie betont.
+
+Diogenes, der seinem philosophischen Denken Ausdruck verlieh, indem er dem weltlichen Treiben entsagte, zeugt auch davon, dass zum Philosophieren Ruhe und Muße gehören. (Noch das Wort Schule geht auf das griechische Wort in der alten Bedeutung für „Muße“ [σχολή, scholḗ] zurück.)
+
+Ein großer Gewinn des Philosophierens besteht in der Schulung des Denkens und des Argumentierens, denn sowohl in methodischer Hinsicht als auch beim sprachlichen Ausdruck werden im fachlichen Diskurs strenge Anforderungen an die Philosophierenden gestellt. Das akademische Philosophieren unterscheidet sich vom alltäglichen Philosophieren nicht prinzipiell durch die Fragen, sondern eher durch den Rahmen – in der Regel die Universität – und durch bestimmte Formen der Aus- und Abgrenzung philosophischer Tätigkeit. Es gelten verschiedene Übereinkünfte über die Formen des Argumentierens und der wissenschaftlichen Publikation sowie die zugelassene Fachterminologie. Die Tätigkeiten des akademisch Philosophierenden umfassen dabei die unten genannten Methoden.
+
+Philosophisch gebildete Menschen unterscheiden sich von den übrigen nicht unbedingt darin, dass ihnen mehr (nützliches) Wissen zur Verfügung stünde. Ihnen steht allerdings in der Regel ein besserer Überblick über die Argumente zur Verfügung, die in einer philosophischen Debatte hinsichtlich eines bestimmten Diskussionsgegenstands bereits vorgebracht wurden. So kann es etwa hilfreich sein, bei einem aktuell diskutierten Problem (z. B. Euthanasie) danach zu fragen, welche Antwortmöglichkeiten die Philosophie in den letzten 2500 Jahren dazu angeboten hat und wie die Auseinandersetzungen um diese Vorschläge bisher verlaufen sind. Neben dieser historischen Kenntnis sollte ein ausgebildeter Philosoph eher in der Lage sein, die prinzipiell vertretbaren Positionen zu unterscheiden, deren Folgen vorauszusehen sowie Probleme und Widersprüche zu erkennen.
+
+Weitere Anwendungen und Aufgaben der Philosophie bestehen darin,
+
+    die grundlegenden Begriffe, Fragen, Thesen und Positionen, die die einzelnen Wissenschaften verwenden, zu thematisieren. So fragt die Philosophie etwa, was den Begriff der „Würde“ ausmacht, wenn er in Diskussionen der Rechtswissenschaften oder der Soziologie verwendet wird.
+    die unausgesprochenen Begriffe, Fragen, Thesen und Positionen herauszuarbeiten, die anderen Wissenschaften zugrunde liegen. So fragt etwa die Ethik: „Was ist Gerechtigkeit?“ und untersucht dabei auch Begriff, Grundlagen und Bedingungen der Rechtswissenschaften überhaupt.
+    die Fragen nach Denkmustern bzw. Denkgewohnheiten vergangener Zeiten zu beantworten, auf die die überlieferten Artefakte im Museum keine Antworten zu geben vermögen.
+
+Methoden
+
+Die Methoden der Philosophie umfassen verschiedene geistige Bemühungen. „Geistige Bemühungen“ kann dabei das Nachspüren von Denkrichtungen, Denktraditionen und Denkschulen meinen. Um das Denken geht es beim Philosophieren immer. Denken kann Nach-Denken sein, Analysieren oder Systematisieren. Intuitive Erkenntnisse, Glaubenswahrheiten und rationale Argumente werden auf der Grundlage der Lebenswirklichkeit des philosophierenden Menschen, mithilfe der Mittel des vernünftigen, rationalen und kritischen Denkens, geprüft.
+
+Zudem vermag die philosophische Geisteshaltung in einem methodischen Zweifel radikal alles in Frage zu stellen – sogar die Philosophie selbst. Dabei beginnt die Philosophie mit jedem Philosophierenden gleichsam wieder bei null. Es gehört zur Haltung eines Philosophierenden, auch scheinbar grundlegende oder alltägliche Gewissheiten in Frage stellen zu können. Menschen, denen sich die Lebenswirklichkeit nicht auch als Frage oder Problem aufdrängt, erscheint solch fundamentaler Zweifel nicht selten befremdlich. Über lange Zeiträume gesehen stellt die Philosophie in zentralen Bereichen immer wieder dieselben Grundfragen, deren Antwortmöglichkeiten sich prinzipiell ähneln (Philosophia perennis). Aufgrund der historischen und sozialen Veränderungen der Lebensumstände und Weltanschauungen werden jeweils neue Formulierungen für die Antworten auf die Grundfragen des Menschen notwendig. Anders als in den einzelnen Wissenschaften häufen weder die Philosophie noch die einzelnen Philosophierenden Wissen an oder verfügen über definitive und allgemein anerkannte Ergebnisse („Skandal der Philosophie“). Sie sammeln historische Antworten, reflektieren diese und können dadurch zeitgebundene Blickwinkelverengungen, wie sie in manchen Spezialwissenschaften anzutreffen sind, vermeiden. Insofern kann der philosophische Diskurs als ein in sich nicht abschließbarer Prozess betrachtet werden – als ein kontroverses Gespräch über die Jahrhunderte hinweg.
+
+Grundsätzlich lassen sich zwei Ansätze bzw. Bereiche des heutigen „professionellen“ Philosophierens unterscheiden: die historische und die systematische Vorgehensweise:
+
+    Historisch arbeiten Philosophen dann, wenn sie versuchen, die Positionen und Thesen von Denkern wie z. B. Platon, Thomas von Aquin oder Immanuel Kant zu rekonstruieren und zu interpretieren. Auch die Herausarbeitung bestimmter philosophischer Strömungen oder Auseinandersetzungen in der Geschichte gehört hierzu, ebenso das Verfolgen der Geschichte von Begriffen und Ideen.
+    Systematisch gehen Philosophen vor, wenn sie versuchen, zu einem bestimmten Problemfeld Standpunkte auszuarbeiten und zu verteidigen, Fragen innerhalb der verschiedenen philosophischen Disziplinen zu beantworten oder die offenen bzw. unausgesprochenen Voraussetzungen einer bestimmten Frage oder Behauptung zu analysieren; oder wenn sie sich darum bemühen, die in bestimmten Fragen, Thesen oder Positionen verwendeten Begriffe zu klären. Lautet die Frage etwa: „Hat der Mensch einen freien Willen?“, so müssen für eine Antwort zunächst die Begriffe „Willen“, „Freiheit“ und „Mensch“ – vielleicht sogar die Bedeutung von „haben“ – einer genauen Bedeutungsanalyse unterzogen werden.
+
+Die historischen und die systematischen Herangehensweisen bzw. Bereiche sind dabei prinzipiell durch das jeweilige Ziel der philosophischen Untersuchungen voneinander abgrenzbar. Viele Philosophen arbeiten allerdings sowohl historisch wie systematisch. Beide Ansätze ergänzen einander insofern, als einerseits die Schriften herausragender philosophischer Autoren auch für aktuelle systematische Fragen hilfreiche Überlegungen enthalten und andererseits systematische Ausarbeitungen oft Positionen der Klassiker präzisieren helfen. Außerdem können in vielen Fällen heutige Fragen nur dann präzise gestellt und beantwortet werden, wenn der historische Hintergrund für ihr Aufkommen und die seitdem für die Behandlung des Problems entwickelten Begrifflichkeiten und Lösungsvorschläge bekannt sind und verstanden werden.
+Begriffsgeschichte
+
+Der Begriff „Philosophie“, zusammengesetzt aus griechisch φίλος (phílos) „Freund“ und σοφία (sophía) „Weisheit“, bedeutet wörtlich „Liebe zur Weisheit“ bzw. einfach „zum Wissen“ – denn sophía bezeichnete ursprünglich jede Fertigkeit oder Sachkunde, auch handwerkliche und technische. Das Verb philosophieren taucht erstmals beim griechischen Historiker Herodot (484–425 v. Chr.) auf (I,30,2), wo es zur Beschreibung des Wissensdurstes des Athener Staatsmannes Solon (ca. 640–559 v. Chr.) dient. Dass Heraklit schon den Begriff philósophos verwendete,[5] ist nicht anzunehmen. In der Antike pflegte man die Einführung des Begriffs Philosophie Pythagoras von Samos zuzuschreiben. Der Platoniker Herakleides Pontikos überlieferte eine Erzählung, wonach Pythagoras gesagt haben soll, nur ein Gott besitze wahre sophía, der Mensch könne nur nach ihr streben. Hier ist mit sophia bereits metaphysisches Wissen gemeint. Die Glaubwürdigkeit dieses – nur indirekt und fragmentarisch überlieferten – Berichts des Herakleides ist in der Forschung umstritten. Erst bei Platon tauchen die Begriffe Philosoph und philosophieren eindeutig in diesem von Herakleides gemeinten Sinne auf, insbesondere in Platons Dialog Phaidros,[6] wo festgestellt wird, dass das Streben nach Weisheit (das Philosophieren) und Besitz der Weisheit sich ausschließen und letzterer nur Gott zukomme.
+
+Philosophie wurde im Laufe ihrer Geschichte als Streben nach dem Guten, Wahren und Schönen (Platon) oder nach Weisheit, Wahrheit und Erkenntnis (Hobbes, Locke, Berkeley) definiert. Sie forsche nach den obersten Prinzipien (Aristoteles) und ziele auf den Erwerb wahren Wissens (Platon). Sie ringe um die Erkenntnis aller Dinge, auch der unsichtbaren (Paracelsus), sei Wissenschaft aller Möglichkeit (Wolff) und vom Absoluten (Fichte, Schelling, Hegel). Sie ordne und verbinde alle Wissenschaft (Kant, Mach, Wundt), stelle die „Wissenschaft aller Wissenschaften“ dar (Fechner). Die Analyse, Bearbeitung und exakte Bestimmung von Begriffen stehe in ihrem Mittelpunkt (Sokrates, Kant, Herbart). Philosophie sei jedoch zugleich auch die Kunst, sterben zu lernen (Platon), sei normative Wertlehre (Windelband), das vernunftgemäße Streben nach Glückseligkeit (Epikur, Shaftesbury) bzw. das Streben nach Tugend und Tüchtigkeit (Aristoteles, Stoa).
+
+Aus europäischer Sicht verbindet sich der Begriff Philosophie mit den Ursprüngen im antiken Griechenland. Die gleichfalls jahrtausendealten asiatischen Denktraditionen (östliche Philosophie) werden oftmals übersehen oder unterschätzt. Auch religiöse Weltanschauungen gehören zur Philosophie, insoweit ihre Vertreter nicht theologisch, sondern philosophisch argumentieren.
+Wissenschaftsgeschichte
+
+Das Selbstverständnis der Philosophie als Wissenschaft hat sich im Laufe ihrer Geschichte immer wieder gewandelt. Die ersten griechischen Philosophen bis etwa zur Zeit von Sokrates und Platon verstanden ihre Tätigkeit als vernunftgelenktes Erkenntnisstreben im Unterschied zum bloßen Übernehmen eines mythischen Weltbilds und religiöser Traditionen. Einerseits emanzipierte sich so das Denken vom Mythos, andererseits wurden die Mythen in der Regel nicht grundsätzlich verworfen. Die Philosophen bedienten sich ihrer gern und nutzten dichterische Ausdrucksmittel, um ihre Lehren zu verbreiten.
+
+Während Sokrates und seine Schüler das Erkenntnisstreben als Selbstzweck betrachteten, boten die Sophisten ihren Unterricht gegen Entgelt an. Für manche Sophisten ging es dabei vor allem um die Kunst, in einer Debatte mit rhetorischen Mitteln und logischen Kunstgriffen einen Gegner zu besiegen. Ihr Ziel war es, notfalls auch mit Tricks (Sophismen), „die schwächere Seite zur stärkeren zu machen“ (vgl. Eristik).
+„Die Philosophie thront inmitten der Sieben Freien Künste“ – Darstellung aus dem Hortus Deliciarum der Herrad von Landsberg (um 1180)
+
+Nachdem sich das Christentum in der Spätantike durchgesetzt hatte, war Philosophie für viele Jahrhunderte nur noch auf der Basis des damaligen religiösen Weltbilds möglich; sie durfte nicht mit den Grundannahmen der christlichen Theologie in Konflikt geraten. Eine analoge Begrenzung bestand auch im Islam und im Judentum. In Westeuropa dominierte daher lange Zeit das Bild der Philosophie als einer „Magd der Theologie“ (ancilla theologiae), also einer Hilfswissenschaft, die die göttlichen Offenbarungen mit rationalen Argumenten stützen sollte.
+
+An den im Mittelalter neu entstehenden Universitäten wurde die Philosophie zu einem grundlegenden („propädeutischen“) Lehrfach. Der Kern des Studiums war durch die sogenannten Artes liberales bestimmt, zu denen „Grammatik“, „Dialektik“, „Rhetorik“ sowie „Geometrie“, „Arithmetik“, „Astronomie“ und „Musik“ gehörten. Ein erster Abschluss in diesem studium generale an der so genannten Artistenfakultät war notwendig, um die „höheren“ Studien in Medizin, Recht und Theologie aufnehmen zu können. (Aus dieser Tradition stammen noch heute die Bezeichnungen der akademischen Grade des B.A., M.A., Ph.D. bzw. Dr. phil.).
+
+In Westeuropa führte im 13. Jahrhundert die verstärkte Auseinandersetzung mit der Philosophie des Aristoteles zu höherer Eigenständigkeit der Philosophie, welche die Grenzen der artes-Disziplinen überschritt. Zahlreiche Philosophen und Theologen wie Albert der Große und Thomas von Aquin versuchten, Anschluss an die Aristotelesrezeption des Ostens zu halten und die aristotelische Philosophie mit den Lehren der katholischen Kirche zu einer in sich geschlossenen Gesamtdeutung der Wirklichkeit zusammenzuführen. Eine solche Synthese legte etwa Thomas in der Summa theologica vor. Unabhängig davon kam es schon seit dem 12. Jahrhundert zu einer neuen Hochschätzung des Erfahrungswissens, die eine Voraussetzung für die Entstehung des neuzeitlichen naturwissenschaftlichen Denkens und der experimentellen Vorgehensweise bildete.
+
+Seit der Renaissance überschritt die Philosophie zunehmend die Grenzen, die die Theologie ihr gesetzt hatte. Die Philosophen scheuten sich nicht mehr, Ansichten zu vertreten, die mit kirchlichen Lehren oder sogar mit dem Christentum unvereinbar waren. Seit den Zeiten des Renaissance-Humanismus und der Aufklärung setzte sich die Philosophie bis in die Gegenwart hinein kritisch mit der Religion auseinander, grenzte sich von ihr ab und betrachtete sich ihr oft als überlegen. Es gab aber auch stets zahlreiche Philosophen, die großen Wert darauf legten, dass ihre Positionen mit ihren religiösen Überzeugungen in vollem Einklang stehen.
+
+Vor allem in bestimmten Phasen der Neuzeit wurde die Philosophie als eine allen Einzelwissenschaften übergeordnete Universalwissenschaft begriffen, die, um die Wirklichkeit als Ganzes zu erfassen und zu den letzten Ursachen und Prinzipien vorzudringen, ewiggültige, allgemeine Wahrheiten aufdeckt und zugänglich macht (Philosophia perennis). Das heißt, die Chance, dass Philosophie untergeht, ist von allen Fächern wohl am geringsten. Wenn man nur Philosophie betreibt, braucht man sich auf nichts weiter spezialisieren, denn Philosophie ist dasjenige Fach, das alle Grundlagen benutzen kann (Heißler).[7]
+
+Noch bis ins 18. Jahrhundert hinein blieb die Philosophie eine der klassischen vier Fakultäten. Weiterhin war eine grundlegende Ausbildung in Philosophie erforderlich, bevor sich die Studenten z. B. naturwissenschaftlichen Fragen und Forschungen zuwenden durften. An einigen traditionsbewussten Universitäten ist ein „Philosophicum“ im Grundstudium bis heute für alle Studenten Pflicht.
+
+Im 19. Jahrhundert begann eine zunehmende Verselbstständigung zunächst der Naturwissenschaften und später auch der philologischen und der gesellschaftswissenschaftlichen Fächer. Die philosophischen Lehrstühle gerieten in der Folge in ihrer inhaltlichen Ausrichtung zunehmend unter den Spezialisierungsdruck der sich verselbständigenden Fachwissenschaften. In der Moderne verblieb der Philosophie zeitweise nur die Aufgabe der Reflexion der Fachwissenschaften und die Diskussion über deren Voraussetzungen.
+
+Die moderne Fachwissenschaft Philosophie zieht ihre Rechtfertigung aus dem Anspruch, philosophische Methoden könnten auch für andere Wissens- und Praxisgebiete hilfreich sein. Darüber hinaus betrachten die Philosophen die Erörterung ethischer Themen und Grundsatzfragen als ihr ureigenes Gebiet. Die Universitäten sind in ihrem Selbstverständnis gegenwärtig durch die Vermittlung der traditionellen philosophischen Disziplinen Logik, Ethik, Erkenntnistheorie, Wissenschaftstheorie und Philosophiegeschichte im Rahmen der Lehrerausbildung geprägt. So findet der Diskurs der Philosophie an den Universitäten häufig abgetrennt nicht nur von der Religion, sondern auch von den Sozialwissenschaften, von Literatur und Kunst weitgehend als theoretische Philosophie mit einer starken Betonung von Wissenschaftstheorie, Sprachanalyse und Logik statt. Dennoch gibt es auch in der „Fachwissenschaft Philosophie“ immer wieder Impulse, an öffentlichen Debatten der Gegenwart teilzunehmen und Stellung zu beziehen z. B. zu ethischen Fragen der Verwendung von Technik, zur Ökologie, zur Genetik, (seit der Antike auch) zu medizinischen Problemen[8] (Medizinphilosophie, Medizinethik) oder zu solchen der interkulturellen Philosophie.
+
+Neben der universitären Philosophie gab es jedoch auch immer eigenständige Denker außerhalb der Institutionen. Seitdem die Aufklärer Voltaire, Rousseau und Diderot (als Impulsgeber der Enzyklopädie mit dem Ziel der Aufklärung durch Wissen) in Frankreich philosophes genannt wurden, verstand man darunter in der Tradition von Montaigne allgemein auch gelehrte Schriftsteller, die sich über populäre, also über Themen von allgemeinem öffentlichen Interesse äußerten – so auch Universalgelehrte wie Goethe und Schiller. Denkern des 18. und 19. Jahrhunderts wie Adam Smith, Abraham Lincoln, Jean Paul, Friedrich Nietzsche, Émile Zola, Lew Tolstoi, Karl Marx, Sigmund Freud oder Søren Kierkegaard war gemeinsam, dass sie allesamt nicht an eine Universität angebunden waren und keine akademische Schulphilosophie betrieben. Dennoch gingen von ihnen in der Öffentlichkeit viel beachtete philosophische Impulse aus und sie reflektierten die Philosophiegeschichte eigenständig – vergleichbar mit in der Gegenwart viel gelesenen Denkern wie Paul Watzlawick, Umberto Eco oder Peter Sloterdijk.
+
+Eine recht junge Entwicklung ist die Einrichtung von Philosophischen Praxen, die eine Alternative zu anderen gesellschaftlichen Beratungs- und Orientierungsmöglichkeiten anbieten wollen.
+Disziplinen
+
+Übersicht über die Disziplinen der Philosophie nach einer üblichen Einteilung.
+Allgemein
+
+Die heutige Philosophie gliedert sich in systematische Sachdisziplinen und die Philosophiegeschichte. Erstere lassen sich im Wesentlichen der theoretischen oder praktischen Richtung zuordnen (s. u.). Berührungspunkte zwischen systematischem Philosophieren und Philosophiegeschichte finden sich etwa in der Systematologie. Systematische Philosophie im strengen Sinne erhebt den Anspruch, „die Totalität der in irgend einem Zeitpunkt erreichten Erkenntnisse als ein Ganzes darzustellen, dessen Teile durchgängig in logischen Verhältnissen verknüpft sind“.[9]
+
+Auch wenn sich der Bereich, den die Philosophie insgesamt umfasst, in gewissem Sinne nicht eingrenzen lässt (da sie „alles“ behandelt), gibt es doch bestimmte Domänen, in denen sie hauptsächlich tätig ist. Der Philosoph Immanuel Kant hat diese in den folgenden Fragen zusammengefasst:[10]
+
+    Was kann ich wissen?
+    Was soll ich tun?
+    Was darf ich hoffen?
+    Was ist der Mensch?
+
+Etwas weniger allgemein gestellt können diese Fragen ungefähr so lauten:
+
+    Wie können wir zu Erkenntnis gelangen und wie sind diese Erkenntnisse einzuschätzen? (Erkenntnis- und Wissenschaftstheorie, Logik)
+    Wie sollen wir handeln? (Ethik)
+    Was ist die Welt? Warum gibt es überhaupt etwas und „nicht vielmehr nichts“?[11] Gibt es einen Gott oder was sollte man sich unter dem Begriff „Gott“ überhaupt vorstellen? Steuert die Geschichte auf ein Ziel zu und wenn ja auf welches? (Metaphysik, Religions- und Geschichtsphilosophie)
+    Was sind wir für Wesen? In welchem Verhältnis stehen wir zu der Welt, die wir vorfinden? (Philosophische Anthropologie, Kultur- und Sozialphilosophie, Philosophische Ästhetik)
+
+Abgrenzung theoretische und praktische Philosophie
+
+Die Unterscheidung zwischen praktischer und theoretischer Philosophie geht auf Aristoteles zurück. Für ihn richtete sich die theoretische Philosophie auf zweckfreie Erkenntnis notwendiger Gründe, die praktische Philosophie dagegen auf das optionale, zweckgebundene praktische und politische Handeln des Menschen. Ab dem 17. Jahrhundert wurde diese Unterscheidung wieder aufgegriffen und – vor allem in der Schulphilosophie des Christian Wolff – terminologisch fixiert. Vor dem Hintergrund der Forderung nach Wissenschaftlichkeit verkehrte sich jedoch der Sinn dieser Unterscheidung: Theoretische und praktische Philosophie sollten beide gleichermaßen wissenschaftlich werden.
+
+Nach einer vielfach aufgenommenen Unterscheidung Immanuel Kants handelt die praktische Philosophie von dem, was sein soll, während die theoretische Philosophie sich mit dem beschäftigt, was ist. Einige interdisziplinäre Gebiete der Philosophie der Gegenwart widersetzen sich teilweise dieser Zweiteilung, siehe etwa die Kritik von Jürgen Habermas an Edmund Husserl und die Kontroverse der Werturteilsfreiheit.[12]
+
+Klassischerweise werden der theoretischen Philosophie Logik, Metaphysik und Ontologie, Erkenntnis- und Wissenschaftstheorie, aber auch mathematische und Naturphilosophie zugerechnet. Vor allem die ersten drei beanspruchen Priorität als oberste philosophische Grundlagendisziplin. Zur praktischen Philosophie werden Ethik, Rechtsphilosophie, politische Philosophie, Handlungstheorie, Wirtschaftsphilosophie und Sozialphilosophie gezählt.
+Theoretische Philosophie
+Logik
+→ Hauptartikel: Logik
+
+Die Logik beschäftigt sich nicht mit konkreten Inhalten, sondern mit den Gesetzmäßigkeiten der Folgerichtigkeit. Sie fragt, auf Grundlage welcher Regeln aus bestimmten Voraussetzungen („Prämissen“) bestimmte Schlussfolgerungen („Konklusionen“) gezogen oder nicht gezogen werden können (vgl. Fehlschlüsse). Insofern thematisiert sie die Grundlage aller auf Argumenten basierenden Arten von Wissenschaft.
+
+In früheren Zeiten wurde der Ausdruck „Logik“ in weiterer Bedeutung verwendet als heute. Typisch ist das Beispiel der Logik der Stoa. Diese umfasste auch den Bereich, der heute Erkenntnistheorie genannt wird, sprachphilosophische Probleme sowie die Rhetorik. Ganz ähnlich gilt dies noch für viele Logikbücher bis ins frühe 20. Jahrhundert.
+
+In der modernen Philosophie bezeichnet Logik als Wissenschaft des korrekten Folgerns nur noch die formale Logik. Diese überschneidet sich mit Gebieten aus Mathematik und Informatik. Die Logizisten meinen sogar, die gesamte Mathematik sei, abgesehen von Axiomfindung, nur logisches Ableiten bzw. Folgern. Inwieweit sich Logik auch auf andere Gebiete ausdehnt (z. B. Argumentationstheorie, Sprechakttheorie) ist hingegen umstritten.
+
+Zu den wichtigsten Logikern der Philosophiegeschichte zählen Aristoteles, Chrysipp, Johannes Buridanus, Gottlob Frege, Charles Sanders Peirce, Bertrand Russell mit Alfred N. Whitehead, Kurt Gödel und Alfred Tarski.
+Erkenntnistheorie
+→ Hauptartikel: Erkenntnistheorie
+Figürlich dargestelltes System der Kenntnisse des Menschen (deutsche Übersetzung des „Stammbaums menschlichen Wissens“ zu Beginn von Band 1 der Encyclopédie von D’Alembert und Diderot (1751)).
+
+Die Erkenntnistheorie fragt nach der Möglichkeit, Wissen zu erlangen und zu sichern. Umfang des Wissens, Natur des Wissens, Arten des Wissens, Quellen des Wissens und Struktur des Wissens werden untersucht, ebenso die Problematik der Wahrheit oder Falschheit von Theorien. Die Wahrnehmung der Wirklichkeit stellt sie genauso auf den Prüfstand, wie den Einfluss von Sprache und Denken auf den Erkenntnisvorgang. Außerdem versucht sie, die Grenzen der Erkenntnis abzustecken und zu definieren, was prinzipiell als „wissenschaftlich“ bezeichnet werden kann. Diese Erkenntniskritik stellt seit Immanuel Kant für viele Philosophen den fundamentalen Kern der Erkenntnistheorie dar.
+
+Wichtige Erkenntnistheoretiker waren u. a. Platon, Aristoteles, René Descartes, John Locke, David Hume, Immanuel Kant, Auguste Comte, Edmund Husserl und Ludwig Wittgenstein.
+Wissenschaftstheorie
+→ Hauptartikel: Wissenschaftstheorie
+
+Die Wissenschaftstheorie ist eng verbunden mit der Erkenntnistheorie und analysiert bzw. postuliert die Voraussetzungen, Methoden und Ziele von Wissenschaft. Sie legt vor allem die Kriterien für die Begriffe „Wissenschaft“ und „wissenschaftlich“ fest und versucht sie damit von Para- und Pseudowissenschaften abzugrenzen. Dazu haben sich heute mehrere grundlegende, nicht durch die Einzelwissenschaften selbst zu rechtfertigende methodische Vorgaben, herausgebildet. Beispielsweise die Notwendigkeit der Wiederholbarkeit von Experimenten, das Ökonomieprinzip („Ockhams Rasiermesser“) und das Prinzip der Falsifizierbarkeit als Voraussetzung für sinnvolle wissenschaftliche Aussagen sind so Bestandteile dieser Wissenschaftsmodelle.
+
+Weiterhin beschäftigt sich die Wissenschaftstheorie mit dem Verhältnis zwischen wissenschaftlichen Erkenntnissen und den Konzepten von Wahrheit bzw. Wirklichkeit. Auch die mögliche Einteilung und Ordnung des menschlichen Wissens in Gebiete und ihre Hierarchisierung, sowie die Untersuchungen der Prinzipien des wissenschaftlichen Fortschreitens (vgl. Paradigmenwechsel) gehören zu ihrem Aufgabenbereich.
+
+Wichtige Vertreter der Wissenschaftstheorie sind z. B. Aristoteles, Francis Bacon, Rudolf Carnap, Karl Popper, Thomas Kuhn, Paul Feyerabend und Hilary Putnam.
+Metaphysik und Ontologie
+→ Hauptartikel: Metaphysik
+→ Hauptartikel: Ontologie
+
+Die Metaphysik bildet fast seit jeher den Kern der Philosophie. Sie versucht die gesamte Wirklichkeit, wie sie uns erscheint, in einen sinnvollen Zusammenhang – oft auch in ein universelles System – zu bringen. Sie untersucht die Fundamente und allgemeinen Strukturen der Welt. Des Weiteren stellt sie die „letzten Fragen“ nach dem Sinn und Zweck allen Seins.
+
+Traditionell wird die Metaphysik in einen generellen und einen speziellen Zweig geteilt. Die generelle Metaphysik ist die Ontologie, welche in der Tradition des Aristoteles die Frage nach den Grundstrukturen alles Seienden und dem Sein stellt. Ihr Gegenstandsbereich ist uneingeschränkt. Philosophiegeschichtlich ist die Metaphysik vor allem durch drei Grundfragen geprägt:
+
+    Gibt es Arten von Dingen, die für die Existenz anderer Arten grundlegend sind? (Aristoteles’ „Kategorien“)
+    Gibt es eine erste/letzte Ursache, von deren Existenz die Existenz von allem anderen abhängt? (Aristoteles)
+    Warum gibt es überhaupt etwas und nicht nichts? (nach Gottfried Wilhelm Leibniz,[13] von Martin Heidegger zur Grundfrage erklärt[14])
+
+Die spezielle Metaphysik teilt sich in drei Disziplinen auf, die folgende Fragen stellen:
+
+    nach der Existenz Gottes und seinen möglichen Eigenschaften (rationale bzw. natürliche Theologie);
+    nach der Möglichkeit einer unsterblichen Seele und eines freien Willens, sowie nach Unterschieden zwischen Geist und Materie (rationale Psychologie);
+    nach der Ursache, Verfasstheit und dem Zweck des Universums (rationale Kosmologie);
+
+Diese Fragen können und wollen die Naturwissenschaften mit ihrem Instrumentarium aus prinzipiellen Gründen nicht mehr behandeln, da die Gegenstände der Metaphysik prinzipiell jeder (sinnlichen) menschlichen Erfahrungsmöglichkeit entzogen sind. Wird die Existenz empirisch nicht untersuchbarer Bereiche der Wirklichkeit bestritten oder für nicht relevant erklärt, so erübrigen sich die Fragen der Metaphysik. Die traditionelle Metaphysik wurde auf zwei verschiedene Weisen kritisiert. Während der Positivismus und Vertreter analytischer Philosophie in der ersten Hälfte des 20. Jahrhunderts tendenziell auf eine Abschaffung der Metaphysik durch logische Analyse der Sprache drängten, versuchte beispielsweise Martin Heidegger, in einer Überwindung der Metaphysikgeschichte und in einer radikalen Wende der Fragestellung auf die Analyse des menschlichen Daseins einen Neuansatz für eine alternative Metaphysik zu schaffen (Fundamentalontologie, Existenzphilosophie). Mittlerweile finden traditionelle metaphysische, insbesondere ontologische Fragen und Probleme wieder breitere Beachtung in der philosophischen Diskussion – auch in viel debattierten Disziplinen wie der Philosophie des Geistes.
+
+Wichtige Metaphysiker waren u. a. Platon, Aristoteles, Thomas von Aquin, René Descartes, Gottfried Wilhelm Leibniz sowie die Vertreter des Deutschen Idealismus und der Neuscholastik.
+Sprachphilosophie
+→ Hauptartikel: Sprachphilosophie
+
+Die Sprachphilosophie untersucht die Beziehung zwischen Sprache, Denken und Wirklichkeit.[15] Die Analyse von Sprache, z. B. mittels der genauen Zerlegung von Begriffen, ist in der Philosophie von jeher betrieben worden. Von Anfang an war damit die überragende Bedeutung der Sprache für kommunikative Prozesse, Wahrheitsfindung, Erkenntnismöglichkeiten und die Beschreibung und Wahrnehmung der Welt ein zentrales Thema der Philosophie.
+
+So wurde beispielsweise bereits in der Antike die Frage erörtert, ob einem Ding eine bestimmte Bezeichnung „von Natur aus“ oder nur durch willkürliche Festlegung durch den Menschen zukomme. Auch das sich hieran anschließende wichtige Thema der mittelalterlichen Philosophie – der Universalienstreit – kann teilweise als ein Problem dieses Bereichs begriffen werden.
+
+Die moderne Sprachphilosophie, welche im 20. Jahrhundert die so genannte „Linguistische Wende“ (linguistic turn) auslöste, befasst sich u. a. mit der Abhängigkeit der Wirklichkeitserfassung von den individuellen sprachlichen Möglichkeiten (vgl. Sapir-Whorf-Hypothese), mit der Herstellung von Wahrheit, Erkenntnis und Wissen durch Kommunikation (vgl. Sprachspiel), wie man mit Hilfe sprachlicher Äußerungen Handlungen vollzieht (John Langshaw Austin: „How to do things with words“, vgl. Pragmatik), dem verzerrenden Einfluss der Sprache auf die Realität (z. B. in der feministischen Linguistik) sowie mit der Frage, was „Bedeutung“ ist.
+
+Zu den wichtigsten Sprachphilosophen zählen Gottlob Frege, Charles S. Peirce, George Edward Moore, Bertrand Russell, W.v.O. Quine, Saul Aaron Kripke und Ludwig Wittgenstein. Wichtige Beiträge haben auch die Schüler Ferdinand de Saussures (Strukturalismus), Martin Heidegger (Etymologie und Neologismen), Michel Foucault (Diskursanalyse) und Jacques Derrida (Poststrukturalismus) geliefert.
+Praktische Philosophie
+
+Praktische Philosophie bezeichnet gemäß der aristotelischen Tradition denjenigen Teilbereich der Philosophie, der sich aus den Disziplinen Ethik, Rechtsphilosophie, Staatsphilosophie, Politische Philosophie und den Grundlagen der Ökonomie (siehe auch Wirtschaftsphilosophie) zusammensetzt. Praktische Philosophie ist auf die philosophische Erforschung der menschlichen Praxis gerichtet.
+
+Aristoteles hatte der theoretischen Philosophie, die sich auf zweckfreie Erkenntnis notwendiger Gründe richtet, die praktische Philosophie (Ethik, Ökonomie und Politik) gegenübergestellt, die sich auf das zweckgebundene praktische und politische Handeln des Menschen im Bereich dessen bezieht, was sich auch anders verhalten kann. Vor dem Hintergrund der Forderung nach Wissenschaftlichkeit relativierte sich jedoch der Sinn dieser Unterscheidung: Theoretische und praktische Philosophie sollten beide gleichermaßen wissenschaftlich werden. Mitte des 19. Jahrhunderts begannen sich die einzelnen Teildisziplinen der praktischen Philosophie zu spezialisieren und allmählich als Einzeldisziplinen herauszubilden.
+
+Nach einer vielfach aufgenommenen Unterscheidung Immanuel Kants handelt die praktische Philosophie von dem, was sein soll, während die theoretische Philosophie sich mit dem beschäftigt, was ist. Einige interdisziplinäre Gebiete der Philosophie der Gegenwart widersetzen sich teilweise dieser Zweiteilung, siehe etwa die Kritik von Jürgen Habermas an Edmund Husserl und die Kontroverse der Werturteilsfreiheit.[16]
+Ethik und Metaethik
+→ Hauptartikel: Ethik
+
+Die philosophische Ethik erstellt Kriterien für die Beurteilung von Handlungen und bewertet diese hinsichtlich ihrer Motive und Konsequenzen. Dabei unterscheidet sie sich von der Moral, die bestimmte Handlungen traditionell oder konventionell vorschreibt, obgleich das Ziel der normativen Ethik in der Begründung von allgemeingültigen Normen und Werten gesehen werden kann.
+
+Dieses Ziel gilt vielen Philosophen als gescheitert, da es gemäß der deontischen Logik als auch aufgrund von Humes Gesetz unmöglich ist, Normen aus nichtnormativen Sätzen zu deduzieren, d. h. bestimmte Werte, Normen oder Präferenzen müssen immer schon vorausgesetzt werden, damit weitere Normen abgeleitet werden können. Rationale Ethik bestünde daher nur in der Prüfung, ob bestimmte Normen mit übergeordneten Zielen logisch vereinbar sind oder nicht. Bei einer voraussetzungslosen Philosophie hingegen wären ethische Maßstäbe für grundsätzliche Zweckorientierungen logisch nicht zu gewinnen.
+
+Andere Philosophen versuchen trotzdem, in verschiedenen, einander widersprechenden Konzepten, eine absolute Begründung von Normen zu finden. Am bekanntesten in Deutschland ist die transzendentalpragmatische, absolute Normenbegründung der Diskursethik nach Apel, der zufolge jeder Zweifler bereits Teilnehmer an einem Diskurs ist und daher ethische Diskursregeln anerkannt habe.
+
+Praktische Philosophen versuchen auch oft, eine oberste Regel oder ein allgemeines Kriterium für moralisches Handeln zu finden. Dabei ist die Goldene Regel wenig populär, da sie gleiche Wünsche aller Beteiligten voraussetzt. Dem Utilitarismus zufolge ist das oberste Moralprinzip, das größte Glück der größten Zahl anzustreben. Verbreitet ist auch Kants kategorischer Imperativ:
+
+    „Handle nur nach derjenigen Maxime, durch die du zugleich wollen kannst, dass sie ein allgemeines Gesetz werde.“
+    „Handle so, dass du die Menschheit sowohl in deiner Person, als in der Person eines jeden anderen jederzeit zugleich als Zweck, niemals bloß als Mittel brauchst.“
+
+– Immanuel Kant: Grundlegung zur Metaphysik der Sitten, Akademie-Ausgabe Kant Werke IV, S. 421 bzw. S. 429, 10–12
+
+Die deskriptive Ethik hingegen beschäftigt sich mit den verschiedenen vorhandenen Moralvorstellungen und versucht diese genau zu fassen und zu beschreiben, sie ist eher Teil der empirischen Humanwissenschaften als der Philosophie.
+
+Basis der allgemeinen Ethik ist die Metaethik, die das Sprechen über Ethik und ethische Begriffe („gut“, „böse“, „Handlung“) sowie normenlogische Folgerungen analysiert.
+
+Die Ethik gehört zu den wenigen Disziplinen der Philosophie, die bisher nur in geringem Maße von (anderen) Wissenschaften in Frage gestellt wurden. Dies ist nämlich logisch kaum möglich, da empirische Wissenschaften nur Fakten beschreiben und Mittel zur Erreichung von Zwecken entwickeln und verbessern, aber nicht sagen können, welche Zwecke jemand überhaupt verfolgen soll.
+
+Die Infragestellung aller ethischen Werte durch Amoralismus und Relativismus steht im Kontrast zur gesellschaftlichen Nachfrage nach Bereichsethiken wie der Medizin-, Tier- oder Wissenschaftsethik bis hin zur Hacker- und Informationsethik, aber auch der Schaffung von Institutionen wie dem Nationalen Ethikrat.
+
+Einflussreiche Ethiker sind unter anderem Aristoteles, die Stoiker und Epikureer, Thomas von Aquin, Immanuel Kant, Jeremy Bentham und John Stuart Mill, Max Scheler, Hans Jonas und Karl-Otto Apel.
+Rechtsphilosophie
+→ Hauptartikel: Rechtsphilosophie
+Titelbild von Hobbes’ Leviathan (1651). Der Körper des Souveräns, mit den Insignien weltlicher und geistlicher Macht ausgestattet, setzt sich aus den vielen Einzelkörpern der Untertanen zusammen.
+
+Eine direkte Anwendung der Ethik findet sich in der Rechtsphilosophie, die zugleich eine der Grundlagendisziplinen der Rechtswissenschaften darstellt. Basierend auf der Beurteilung von Handlungen in „gut“ und „schlecht“ wird die Frage nach Recht und Gerechtigkeit und der Folge der Verletzung von moralischen und ethischen Normen gestellt. Natürlich fragt die Rechtsphilosophie auch nach der Entstehung, Einsetzung und Legitimation des Rechts, dem Verhältnis von „natürlichem Recht“ (vgl. Menschenrechte) und „gesetztem Recht“ („positives Recht“), nach der Reihenfolge der Wichtigkeit von Rechtsnormen und ihrer Außerkraftsetzung. Hier gibt es Überschneidungen mit der politischen Philosophie.
+
+Bekannte Rechtsphilosophen sind Hugo Grotius, Niccolò Machiavelli, Thomas Hobbes, Hans Kelsen, Gustav Radbruch, H.L.A. Hart, Niklas Luhmann, Jürgen Habermas, John Rawls, Ronald Dworkin und Robert Alexy.
+Politische Philosophie
+→ Hauptartikel: Politische Philosophie
+→ Hauptartikel: Staatsphilosophie
+
+Die politische Philosophie ist ähnlich wie die Rechtsphilosophie in großen Teilen von den benachbarten Wissenschaften vereinnahmt worden. So finden große Teile der philosophischen Diskussion in den Rechts- bzw. Politikwissenschaften statt. Die Entstehung, Rechtmäßigkeit und Verfasstheit eines Staates wird von der Staatstheorie untersucht. Die politische Theorie fragt nach der besten Herrschaftsform, dem Verhältnis zwischen Bürger und Staat, nach Machtverteilung, Gesetz, Eigentum, Sicherheit und Freiheit.
+
+Wichtige Beiträge hierzu haben u. a. die politischen Denker Platon, Aristoteles, Augustinus, Marsilius von Padua, Niccolò Machiavelli, Thomas Hobbes, John Locke, Jean-Jacques Rousseau, Immanuel Kant, Karl Marx, Michail Bakunin, Carl Schmitt, Hannah Arendt, Karl Popper und Michel Foucault geliefert.
+Neuere Disziplinen
+Philosophie des Geistes und des Bewusstseins
+→ Hauptartikel: Philosophie des Geistes
+
+Obgleich sie sehr alte Fragestellungen behandeln, ist die Philosophie des Geistes bzw. die Philosophie des Bewusstseins noch eine junge, interdisziplinär angelegte Disziplin, die an die Kognitions- und Neurowissenschaften angrenzt. Im Mittelpunkt stehen Fragen nach dem Wesen von Geist bzw. Bewusstsein, nach dem Verhältnis von Leib und Seele, Materie und Geist. Aber auch die Möglichkeit eines freien Willens, sowie das Wesen mentaler Zustände, von Bewusstseinsinhalten und Emotionen (Qualia) wird hier untersucht. Weiterhin befasst sich dieses Gebiet mit der Beurteilung verschiedener Bewusstseinszustände, Überlegungen zu künstlicher Intelligenz, mit der Identität des Selbst und mit dem Problem eines möglichen Weiterlebens nach dem physischen Tod. Untersuchungsebenen sind die ontologische, die epistemologische, die semantische und die methodologische.[17]
+
+Bekannte Vertreter dieser Problemfelder sind Gottfried Wilhelm Leibniz, Baruch de Spinoza, Alan Turing, Hilary Putnam, John Searle, Jaegwon Kim und Donald Davidson. Von großer philosophischer Bedeutung sind hier auch im Kontext des Buddhismus ausgearbeitete Theorien.
+Moderne philosophische Anthropologie
+→ Hauptartikel: Philosophische Anthropologie
+
+Die moderne philosophische Anthropologie befasst sich mit dem Wesen des Menschen, und zwar vornehmlich nicht als Individuum, sondern als Gattungswesen. Da sie von Menschen selbst betrieben wird, ist sie eine (dialektische) Selbstreflexion, die gleichzeitig eine Innen- und eine Außenperspektive aufweist. Die Daseinssituation des Menschen wird unter Einbeziehung aller wichtigen einzelwissenschaftlichen Erkenntnisse untersucht.
+
+Das Wesen des Menschen gibt viele Rätsel auf. Seine Stellung im Kosmos, das Verhältnis von Kultur zu Natur, Vereinzelung und Vergemeinschaftung, die Probleme der Geschlechtlichkeit, die Rolle von Liebe und Tod sind einige der Grundfragen der philosophischen Anthropologie. Ob der Mensch von Natur aus gut oder böse sei, ob Gewalt und Leid zwingend zur menschlichen Existenz gehören, ob das Leben überhaupt einen Sinn hat: all dies sind weitere Probleme dieser Disziplin. Sie untersucht aber auch grundsätzliche menschliche Bedürfnisse und Fähigkeiten wie Selbstverwirklichung, Kreativität, Neugier und Wissensdurst, Machtstreben und Altruismus, das Phänomen der Freiheit und die Wahrnehmung des Anderen.
+Paul Gauguin: Woher kommen wir? Wer sind wir? Wohin gehen wir? (1897/98)
+
+Wichtige Philosophen, die zu anthropologischen Problemen gearbeitet haben, sind Thomas von Aquin, Immanuel Kant, Arthur Schopenhauer, Friedrich Nietzsche, Søren Kierkegaard, Max Scheler, Arnold Gehlen, Ernst Cassirer, Helmuth Plessner und die Vertreter der Existenzphilosophie.
+
+Besonders in der zweiten Hälfte des 20. Jahrhunderts haben einige Philosophen Theorien über allgemeine Wesenszüge des Menschen kritisiert, darunter beispielsweise (mit unterschiedlicher Akzentuierung) Michel Foucault oder Jürgen Habermas.
+Rationalitäts-, Handlungs- und Spieltheorie
+
+Zu den aktuellen Problemen der philosophischen Forschung gehört die Analyse des menschlichen Handelns unter dem Gesichtspunkt der Vernünftigkeit. Dabei werden weniger die ethischen Motive berücksichtigt, sondern vielmehr rein mathematische Kosten-Nutzen-Abwägungen oder das logische Kalkül unter der Voraussetzung, dass der Mensch gewöhnlich rational handelt.
+
+Einige Philosophen verwenden die Spieltheorie, um Modelle für ethische Probleme zu entwickeln. Sowohl individuelle (z. B. das Gefangenendilemma), als auch gesellschaftliche Paradoxa (z. B. die Tragik der Allmende) lassen sich in diesem Rahmen, wenn schon nicht lösen, so doch verstehen. Die Handlungstheorie versucht, motivierte Handlungen zu erklären, so etwa, ob und wie es möglich ist, bei zwei alternativen Handlungen, frei und absichtlich die selbst für schlechter gehaltene zu wählen (Akrasia). Die Klärung des Begriffs „Rationalität“ ist, gerade wenn die Rationalität von Handlungen untersucht wird, ein in jüngerer Zeit umfänglich debattiertes Gebiet. In der Geschichte der Philosophie waren die Begriffe „Verstand“ und „Vernunft“, „ratio“ und „Intellekt“ oft strittig. An ihrer Bestimmung entschied sich oft, welche Konzeption von Philosophie vertreten wurde. In der Moderne ist „Rationalität“ in verschiedener Hinsicht zunehmend fragwürdig geworden, sodass die gegenwärtige Philosophie vor der Aufgabe steht, ihre eigene Minimalbestimmung kritisch zu hinterfragen.
+Philosophische Mystik
+
+Obwohl mystische Elemente in westlichen und östlichen philosophischen Traditionen oft präsent waren, ist der Begriff der „Philosophischen Mystik“ noch jung. Sie hält zum einen – ähnlich der Philosophia perennis – daran fest, dass es ewige, unveränderliche und universal gültige Wahrheiten bezüglich der Wirklichkeit und des Menschen zu erkennen gibt. Zum anderen betont sie, wie alle mystische Strömungen, den Vorrang des gegenwärtigen Hier-und-jetzt-Daseins, die Wichtigkeit der zweckfreien Kontemplation, die Würde der Schöpfung und die zentrale Bedeutung des Eingebettetseins der individuellen Existenz in das Ganze des Weltgefüges.
+
+In ihrer Arbeitsweise überschreitet sie die Grenzen von Vernunft und Verstand und betont auch erfahrbare, aber dennoch intersubjektiv mitteilbare und philosophisch behandelbare Gewissheiten. Zentrale Themen der philosophischen Mystik sind u. a. die Erfahrung der Aufhebung der Subjekt-Objekt-Spaltung, der Zusammenfall aller Gegensätze in Gott (coincidentia oppositorum), die mögliche Einheit des Menschen mit dem All-Ganzen (unio mystica) und die Spur des Göttlichen im menschlichen Wesen (scintilla animae).
+
+Einige westliche Philosophen, in deren Lehren sich mystische Elemente finden, sind Plotin, Meister Eckhart, Nikolaus von Kues, Jakob Böhme, Gottfried Wilhelm Leibniz, Blaise Pascal, Baruch de Spinoza, Martin Heidegger, Simone Weil und Ken Wilber. In der außereuropäischen, besonders der östlichen Philosophie, spielt die Mystik traditionell eine große Rolle. Typischerweise überwindet sie nicht nur die Grenzen der Philosophie, sondern auch die der Religion, so etwa im Zen, im Yoga, im Sufismus, in der Kabbala und in der christlichen Mystik.
+Geschichte
+→ Hauptartikel: Geschichte der Philosophie
+
+Die Geschichte der westlichen Philosophie beginnt im 6. Jahrhundert v. Chr. im antiken Griechenland. Zu ihren wesentlichen Merkmalen gehört, dass immer wieder neue Antworten auf die philosophischen Grundfragen gefunden, begründet und diskutiert wurden. Dies lässt sich teils auf veränderte Bedürfnisse des jeweils herrschenden Zeitgeists, teils auf die fortdauernde Weiterentwicklung der übrigen Wissenschaften zurückführen. „Fortschritte“ im Sinne eines endgültigen Widerlegens oder Beweisens von Lehren macht die Philosophie aus Sicht mancher Philosophen allerdings kaum. Der Philosoph Alfred North Whitehead charakterisierte die Geschichte der europäischen Philosophie seit Aristoteles einmal als bloße „Fußnoten zu Platon“.[18] Da philosophische Ideen und Begriffe nicht veralten, hat für die Philosophie die Untersuchung ihrer eigenen Geschichte eine weitaus größere Bedeutung als für die meisten anderen Wissenschaften.
+Epochen und Strömungen der Philosophiegeschichte im chronologischen Überblick
+Antike
+→ Hauptartikel: Philosophie der Antike
+
+In den Städten des antiken Griechenland kam es infolge kultureller Fortschritte und verstärkten Kontakts zu benachbarten Kulturen zu wachsender Kritik am traditionellen, vom Mythos geprägten Weltbild.
+
+In diesem geistigen Klima begann mit den Vorsokratikern – wie man die griechischen Philosophen vor oder zu Lebzeiten des Sokrates nennt – die Geschichte der westlichen Philosophie. Ihr nur bruchstückhaft überliefertes Denken ist von naturphilosophischen Fragen nach den Grundlagen der Welt bestimmt. Mittels einer Mischung aus Spekulation und empirischer Beobachtung versuchten sie, die Natur und die Vorgänge in ihr zu begreifen. Sie wollten alle Dinge auf ein ursprüngliches Prinzip (griechisch αρχη arché), und zwar einen „Urstoff“ zurückführen. So hielt der erste bekannte Philosoph Thales von Milet das Wasser für diesen „Urstoff“. Empedokles begründete die bis zum 18. Jahrhundert in der Naturphilosophie herrschende Lehre von den vier Elementen Wasser, Feuer, Erde und Luft, aus denen alle Dinge zusammengesetzt seien.
+
+Neben diesen Ansätzen gab es noch andere Modelle der Welterklärung. Pythagoras und seine Schule hielten die Zahl für das alles bestimmende Prinzip und nahmen damit einen wichtigen Grundsatz der modernen Naturwissenschaften vorweg. Heraklit betonte das Werden und Vergehen und sah als Grundlage der Wirklichkeit den Logos, ein einheitsstiftendes Prinzip der Gegensätze. Die Philosophie von Parmenides, der im Gegensatz dazu die Einheit und Unvergänglichkeit des Seins annahm, wird als Beginn der Ontologie aufgefasst.
+
+Mit dem Auftreten der Sophisten Mitte des 5. Jahrhunderts trat der Mensch in den Mittelpunkt philosophischer Betrachtung (Protagoras: „Der Mensch ist das Maß aller Dinge“).[19] Sie beschäftigten sich besonders mit ethischen und politischen Problemen, etwa mit der Frage, ob Normen und Werte naturgegeben oder von Menschen festgelegt sind.
+
+Zu einem Leitbild der europäischen Philosophie wurde der Athener Sokrates (469–399 v. Chr.). Seine Methode der Mäeutik („Hebammenkunst“) bestand darin, dass Sokrates in scheinbarer Naivität seine Gesprächspartner durch eine tiefgründige und zielgerichtete Fragetechnik auf Widersprüche in ihrem Denken hinwies und zu Einsichten führte („beim Gebären unterstützte“), die ihnen zu einem philosophisch veränderten Blick auf die Welt verhalfen. Seine demonstrative geistige Unabhängigkeit und sein unangepasstes Verhalten trugen ihm ein Todesurteil wegen Gottlosigkeit und Verderbnis der Jugend ein (vgl. Apologie).
+
+Da Sokrates selbst nichts schriftlich festhielt, ist sein Bild maßgeblich von seinem Schüler Platon (ca. 428–347 v. Chr.) bestimmt worden, in dessen Werk Sokrates zentrale Bedeutung hat. Dieses weitestgehend in Dialogform abgefasste Werk bildet einen zentralen Ausgangspunkt der abendländischen Philosophie. Ausgehend von der sokratischen Was-ist-Frage („Was ist Tugend? Gerechtigkeit? Das Gute?“) schuf Platon die Ansätze einer Definitionslehre. Außerdem war er Urheber einer Ideenlehre, der die Vorstellung einer zweigeteilten Wirklichkeit zugrunde liegt: Dem mit den Sinnesorganen wahrnehmbaren dinglichen Objekt steht auf der Ebene der Ideen eine nur dem dafür empfänglichen Intellekt zugängliche abstrahierte, allgemeine Entsprechung gegenüber. Nach Platons Überzeugung führt das Wissen von diesen Ideen zu einem tiefergehenden Verständnis der gesamten Wirklichkeit.
+Ausschnitt aus Raffaels „Die Schule von Athen“ (1510–1511), Fresko in der Stanza della Segnatura (Vatikan).
+Dargestellt sind u. a. Zenon von Kition, Epikur, Averroes, Pythagoras, Alkibiades, Xenophon, Sokrates, Heraklit, Platon, Aristoteles, Diogenes, Euklid, Zarathustra und Ptolemäus.
+Die zentralperspektivische Anlage des Wandbilds im Vatikan zielt auf die erdachten Darstellungen von Platon und Aristoteles im Mittelpunkt der Komposition.
+Dem Fresko gegenüber befindet sich das Parallelwerk der Disputa del Sacramento, der Disputation über das Sakrament, von Raffael.
+
+Platons Schüler Aristoteles (384–322 v. Chr.) verwarf die Ideenlehre als eine unnötige „Verdopplung der Welt“. Für ihn bestand das Wesen eines Dinges nicht in einer zusätzlich existierenden Idee, sondern in der Form, die dem Ding innewohnt. Seine Schule begann die gesamte erfahrbare Wirklichkeit – Natur und Gesellschaft – in verschiedene Wissensgebiete zu gliedern, zu analysieren und wissenschaftlich zu ordnen. Außerdem begründete Aristoteles die klassische Logik (Syllogistik), Wissenschaftssystematik und Wissenschaftstheorie. Dabei führte er philosophische Grundbegriffe ein, die bis in die Neuzeit maßgeblich blieben.
+
+Am Übergang vom 4. zum 3. Jahrhundert v. Chr. entstanden in Athen im Hellenismus zwei weitere philosophische Schulen, die in deutlicher Akzentverschiebung gegenüber der platonischen Akademie und dem aristotelischen Peripatos das individuelle Seelenheil in das Zentrum ihres Bemühens stellten: Für Epikur (ca. 341–270 v. Chr.) und seine Anhänger einerseits sowie für die Stoiker um Zenon von Kition andererseits diente Philosophie hauptsächlich dazu, mit ethischen Mitteln psychisches Wohlbefinden bzw. Gelassenheit zu erlangen. Epikur sah dafür ein maßvoll gestaltetes, wohldosiertes Genussleben vor, das sich von aller politischen Betätigung fernhielt. Die Stoiker erstrebten die Seelenruhe, indem gegenüber allen inneren und äußeren Herausforderungen Gleichmut bewahrt werden sollte. Dies sollte vor allem durch Kontrolle der Emotionen in Verbindung mit einer schicksalsbejahenden Grundhaltung im Einklang mit der Ordnung des Universums erreicht werden; zugleich wusste man um die Verpflichtungen gegenüber den Mitmenschen und der Gemeinschaft. Diese Lehre fand später Eingang in führende Kreise der Römischen Republik.
+
+Während die Anhänger der pyrrhonischen Skepsis grundsätzlich die Möglichkeit sicherer Urteile und unzweifelhaften Wissens bestritten, formte Plotin im 3. Jahrhundert Platons Ideenlehre um (Neuplatonismus). Seine Konzeption von der Abstufung des Seins (vom „Einen“ bis hinab zur Materie) bot dem Christentum mannigfaltige Anknüpfungsmöglichkeiten und war die vorherrschende Philosophie der Spätantike.
+Mittelalter
+→ Hauptartikel: Philosophie des Mittelalters
+
+Die Philosophie des Mittelalters sonderte sich nur allmählich von der Theologie ab und blieb auch dann wesentlich durch religiöse Institutionen, Lebensformen und Lehren geprägt. Sie orientierte sich methodisch und inhaltlich stark an Traditionen und Autoritäten. Fundament und Bezugsgröße bildeten im christlichen Kontext wesentlich die Lehren, welche die Kirchenväter der Patristik geschaffen hatten.
+
+Als maßgeblich erwiesen sich bis zum Beginn des Spätmittelalters vor allem die Ansichten des Augustinus von Hippo. Er fasste die Weltgeschichte als unablässigen Kampf des Reichs des Bösen gegen das Reich des Guten auf. Gesellschaft und Kirche, Theologie und Philosophie bilden demnach eine Einheit, die keine Zweifel an Entscheidungen der Kirche zulässt.
+
+Der „letzte Römer“ und „erste Scholastiker“ Boethius stand am Anfang der mittelalterlichen Versuche, eine Synthese zwischen dem platonischen und dem aristotelischen Denken zu bilden, begründete die mittelalterliche Logik, bildete Begriffe wie „Person“ oder „Natur“, löste den Universalienstreit aus und entwarf eine folgenreiche Wissenschaftskonzeption, an die etwa die Schule von Chartres anschloss.
+
+Während im Osten das griechischsprachige byzantinische Reich wichtige Teile des antiken Wissens bewahrte, beschränkte sich die bruchstückhafte Erhaltung des antiken Erbes im „lateinischen Westen“ bis zum Beginn des Spätmittelalters weitgehend auf die Kloster- und Domschulen. Bis 1100 traten nur wenige Philosophen hervor, darunter Anselm von Canterbury, der einen rein philosophischen Gottesbeweis formulierte, dem eine anhaltende Nachwirkung beschieden war.
+Benozzo Gozzoli, „Triumph des Hl. Thomas von Aquin über Averroes“ (1468/84), Detail. Thomas thront zwischen Aristoteles und Platon, deren Lehren er miteinander zu verbinden versuchte, vor ihm liegt niedergestreckt der spanisch-arabische Philosoph Averroes. (Phantasieportraits)
+
+Seit dem späten 11. Jahrhundert erlebte die westliche Philosophie einen Aufschwung. Dabei spielte die Verbreitung von übersetzten Werken arabischsprachiger Philosophen, die ihrerseits an antike Traditionen anknüpften, eine wesentliche Rolle.
+
+Eines der Hauptthemen der mittelalterlichen Philosophie wurde schon früh der Universalienstreit. Dabei ging es um die Frage, ob Allgemeinbegriffe bloße gedankliche Abstraktionen und Konventionen zum Zweck der Verständigung sind oder ob sie eine eigenständige objektive Realität bezeichnen, wie die platonische Tradition mit ihrer Ideenlehre behauptet. Im Zusammenhang mit diesem Problemfeld setzten sich viele Denker intensiv mit der Sprachlogik auseinander; es entstand die „spekulative Grammatik“, die nach der Verbindung zwischen einer Theorie der Grammatik und einer Theorie der Wirklichkeit fragt. Viele Philosophen nahmen im Universalienstreit vermittelnde Positionen ein, darunter Petrus Abaelardus. Dieser trug viel zur Herausbildung der scholastischen Methode der Gegenüberstellung und Abwägung gegensätzlicher Lehrmeinungen bei.
+
+Im 13. Jahrhundert wurden zahlreiche bisher im Westen unbekannte Werke des Aristoteles in neuen Übersetzungen zugänglich; hinzu kamen die Schriften der arabischsprachigen Aristoteleskommentatoren. Sie wurden zur Grundlage des universitären Unterrichts. Besonders Albertus Magnus und sein Schüler Thomas von Aquin sorgten für die Verbreitung des Aristotelismus, der sich schließlich gegenüber dem bisher vorherrschenden Platonismus bzw. Augustinismus weitgehend durchsetzte und bis tief in die Frühe Neuzeit hinein die maßgebliche philosophische Richtung in der akademischen Welt blieb. Thomas begründete den Thomismus, einen großangelegten Versuch der Zusammenführung aristotelischer Philosophie mit den Lehren der katholischen Kirche. Während der Orden der Dominikaner schon früh diese zunächst noch verurteilte Konzeption durchsetzte, entwarfen besonders Denker der Franziskaner wie Johannes Duns Scotus Alternativen. Dieser erkannte u. a. die Eigenständigkeit der Philosophie gegenüber der Theologie an. Gegenstand der Metaphysik war für ihn nicht Gott (Averroes), sondern das Seiende als Seiendes (Avicenna). Darüber hinaus bestand er auf der Differenz zwischen geglaubtem und im Rahmen der Philosophie gedachtem Gott, was zahlreiche rein philosophische Beweisverfahren – etwa für die Unsterblichkeit der Seele – unmöglich machte.
+
+Konzepte, in denen geistige Erkenntnis nicht auf das Allgemeine, sondern auf das Einzelne abzielte, ermöglichten die Begründung einer erfahrungsorientierten Wissenschaft, wie sie auch ein anderer Vorläufer naturwissenschaftlichen Denkens, Roger Bacon, forderte: durch eine Abkehr von Spekulation und Autoritätsgläubigkeit. Ein weiterer Vorbereiter der Moderne war der prominenteste Vorkämpfer des Nominalismus, Wilhelm von Ockham, der im frühen 14. Jahrhundert einen neuen Weg in der Philosophie einschlug (via moderna). Marsilius von Padua begründete eine neue Staatstheorie, in der sich wichtige Ideen der Neuzeit (Gesellschaftsvertrag, Trennung von Kirche und Staat) ankündigten.
+
+Wichtigster Vertreter der christlichen Mystik des Mittelalters war Meister Eckhart, der sich als „Lebensmeister“ sah und die Bedeutung der praktischen Umsetzung philosophischer Erkenntnis im eigenen Lebensvollzug betonte. Ebenfalls in dieser Tradition stand Nikolaus von Kues, der an der Schwelle zur Neuzeit viele Entwicklungen der folgenden Jahrhunderte vorwegnahm. Seine Ideen, die von der Unerkennbarkeit Gottes bis zu den Gesetzen und Grenzen der Physik oder der Erkenntnis reichen, weisen auf spätere Denker wie Immanuel Kant, Isaac Newton und Albert Einstein voraus.
+Frühe Neuzeit
+→ Hauptartikel: Philosophie der Renaissance und des Humanismus und Philosophie der Neuzeit
+
+Der Übergang vom Mittelalter zur Neuzeit wird von der Renaissance und dem Humanismus markiert. In dieser Epoche konnte sich neben der breiten Strömung der traditionellen Scholastik allmählich die neuzeitliche Philosophie etablieren.
+Albrecht Dürer: Selbstbildnis (1500). Das Bild wurde oft so gedeutet, dass es mit seiner Darstellung eines Individuums in der Pose Christi und somit eines Gottes den fundamentalen Wechsel der Blickrichtung von Gott zum einzelnen Menschen an der Zeitenwende zwischen Mittelalter und Renaissance kennzeichnet.
+
+Besonders die politische Philosophie geriet in der Renaissance in Bewegung: Niccolò Machiavellis These, die Ausübung politischer Herrschaft sei nicht unter moralischem, sondern allein unter dem Nützlichkeitsaspekt zu beurteilen, erregt noch heute Anstoß. Eine ganz andere Richtung schlug Thomas Morus ein, der in seiner Utopie (Utopia, 1516) einen Staat mit Bildung für alle, mit Religionsfreiheit und ohne Privateigentum entwarf, womit er einige Ideen der Moderne vorwegnahm.
+
+Während der Humanist Pico della Mirandola versuchte, eine grundsätzliche Übereinstimmung aller philosophischen Traditionen zu erweisen, wurde das Denken von Männern wie Johannes Kepler, Nikolaus Kopernikus oder Giordano Bruno von dem Versuch bestimmt, Philosophie und Naturwissenschaften miteinander zu verbinden. Vorstellungen wie das heliozentrische Weltbild, die des unendlichen Kosmos oder des Allgottglaubens stießen dabei auf heftigen Widerstand der Kirche.
+
+Das naturwissenschaftliche Weltbild, die Methoden der Mathematik und der Glaube an die Vernunft bestimmten die Philosophie der Neuzeit im 17. und 18. Jahrhundert. In der Theorie nahm sie die politischen Umbrüche vorweg, die dann in der Französischen Revolution gipfelten.
+
+Der Welterklärung des Rationalismus liegen „vernünftige Schlussfolgerungen“ zugrunde, somit auch dem von René Descartes (1596–1650) begründeten Cartesianismus. Sein Satz „Ich denke, also bin ich“,[20] mit dem er den unbezweifelbaren Ursprung aller Gewissheiten gefunden zu haben glaubte, gehört zu den bekanntesten philosophischen Thesen. Denker wie Spinoza und Leibniz entwickelten seinen Ansatz in großen metaphysischen Systementwürfen (vgl. Monade) weiter. Diese erkenntnistheoretische Vorgehensweise wurde auf alle Teilgebiete der Philosophie angewendet; man versuchte, selbst die elementaren Grundsätze menschlicher Moral aus „vernünftigen“ Überlegungen abzuleiten, die so zwingend seien wie geometrische Beweise (Ethica, ordine geometrico demonstrata, 1677).
+
+Bei dem Theorietyp des Empirismus werden nur solche Hypothesen anerkannt, die sich auf „sinnliche Wahrnehmung“ zurückführen lassen. Ihm verpflichtet waren u. a. Thomas Hobbes, John Locke und David Hume. Das Prinzip der Ableitung aller Erkenntnis aus Sinneserfahrungen hat als Grundlage des naturwissenschaftlichen Arbeitens eine überragende Bedeutung bis in die Gegenwart. So ist auch die analytische Philosophie in dieser Denktradition verwurzelt.
+
+Die emanzipatorisch-bürgerliche Bewegung der Aufklärung erhob die Vernunft zur Grundlage aller Erkenntnis und zum Maßstab allen menschlichen Handelns. Sie forderte die Menschenrechte ein und dachte über die Wiederherstellung einer „unverfälschten natürlichen Lebensweise“ nach. Sie trat für staatliche Gewaltenteilung (Montesquieu) und Mitspracherechte insbesondere des Bürgertums ein. Eine theoretische Basis dafür war die Idee eines Gesellschaftsvertrags (z. B. bei Jean-Jacques Rousseau); Verfassungen sollten die neuen Rechte absichern. Die französischen Aufklärer Voltaire und Diderot kritisierten die Macht der Kirche und der absolutistischen Monarchen. Die Enzyklopädisten (d'Alembert) versuchten erstmals, das gesamte Wissen ihrer Zeit in einem Lexikon zusammenzufassen. Radikalere Vertreter der französischen Aufklärung waren Holbach, der erstmals eine naturalistische Sicht des Menschen im Sinne der Naturwissenschaft ohne Gott und Metaphysik entwarf, La Mettrie, der den Menschen als Maschine und Lust als Lebensziel ansah, und Sade, der aus beiden die Konsequenz zog, jegliche allgemein verbindliche Ethik zu verneinen.
+
+Schließlich erarbeitete einer der zentralen Philosophen der Neuzeit, Immanuel Kant, seine von vielen Zeitgenossen als revolutionär empfundene Erkenntniskritik. Sie besagt, dass wir nicht die Dinge selbst erkennen können, sondern immer nur deren Erscheinungen, die von den Möglichkeiten, die der Verstand und die Sinne bieten, vorgeformt werden. Danach ist jede Erkenntnis immer vom erkennenden Subjekt abhängig. Auch Kants weitere Arbeiten u. a. zur Ethik („kategorischer Imperativ“), Ästhetik und zum Völkerrecht (Zum ewigen Frieden, 1795/96) hatten erhebliche Bedeutung für die nachfolgenden Jahrhunderte.
+19. Jahrhundert
+→ Hauptartikel: Philosophie des 19. Jahrhunderts
+
+Ein Teil der Philosophie war in der ersten Hälfte des 19. Jahrhunderts von dem Streben geprägt, die Erkenntnisse Kants zu „vollenden“, zu „verbessern“ oder zu übertreffen. Kennzeichnend für den Deutschen Idealismus (Fichte, Schelling, Hegel) sind die allumfassenden spekulativen metaphysischen Systeme, in denen das „Ich“, das „Absolute“ bzw. der „Geist“ die Grundlagen der Welt bestimmen.
+Adolph von Menzel: „Das Eisenwalzwerk“ (1872/75). Das Bild dient häufig als Illustration für die soziale Katastrophe, die die Industrialisierung für die Lohnarbeiter bedeutete. Diese führte zur Entwicklung philosophischer Theorien, die die Weltgeschichte für 150 Jahre bestimmen sollten.
+
+Eine andere Richtung schlugen empiristisch geprägte Strömungen wie der Positivismus ein, der die Welt allein mit Hilfe der empirischen Wissenschaften, d. h. ohne Metaphysik erklären wollte. In England erarbeiteten Bentham und Mill den Utilitarismus, der der Ökonomie und der Ethik durch ein konsequentes Kosten-Nutzen-Konzept und mit der Idee einer Art „Wohlstand für alle“ (das Prinzip des größten Glücks der größten Zahl) wichtige Impulse gab. Die Ökonomie steht neben der Geschichtsphilosophie auch im Mittelpunkt der Philosophie von Marx, der im Anschluss an Hegel und die Materialisten den Kommunismus begründete. Marx forderte, theoretische Reflexionen an der Umgestaltung der konkreten sozialen Verhältnisse zu messen:
+
+    „Die Philosophen haben die Welt nur verschieden interpretiert; es kommt aber darauf an, sie zu verändern.“
+
+– Karl Marx: Thesen über Feuerbach, MEW Bd. 3, S. 535 (1845)
+
+Prominente Denker, die neue Wege einschlugen, waren Arthur Schopenhauer, Sören Kierkegaard und Friedrich Nietzsche. Schopenhauer betonte im Anschluss an die indische Philosophie die Priorität und Übermacht des Willens gegenüber der Vernunft. Seine pessimistische Weltsicht, die von der Erfahrung des Leidens bestimmt ist, geht auch von buddhistischen Vorstellungen aus. Friedrich Nietzsche, der wie Schopenhauer großen Einfluss auf die Künste hatte, bezeichnete sich selbst als Immoralisten. Für ihn waren die Werte der überkommenen christlichen Moral Ausdruck von Schwäche und Dekadenz. Er thematisierte Ideen des Nihilismus, des Übermenschen und der „ewigen Wiederkunft“, der endlosen Wiederholung der Geschichte. Der religiöse Denker Sören Kierkegaard war in mancher Hinsicht ein Vorläufer des Existenzialismus. Er vertrat einen radikalen Individualismus, der nicht danach fragt, wie man grundsätzlich richtig handeln könne, sondern wie man sich als Individuum in der jeweils konkreten Situation zu verhalten habe.
+20. Jahrhundert
+→ Hauptartikel: Philosophie des 20. Jahrhunderts
+
+Die Philosophie des 20. Jahrhunderts zeichnete sich durch ein großes Spektrum von Positionen und Strömungen aus. In seinen Anfängen war dieses Jahrhundert von einer starken Fortschritts- und Wissenschaftsgläubigkeit geprägt. Erst in der zweiten Hälfte des 20. Jahrhunderts – das auf gesellschaftlicher Ebene die Erfahrung der beiden Weltkriege, der Shoa und der Bedrohung des Planeten durch Kernwaffen gebracht hatte und das die Gefährdung der Ökosysteme durch den Menschen selbst hat hervortreten lassen – kamen die nach Rousseau weitgehend an den Rand gedrängten Fortschrittsskeptiker auch in der Philosophie wieder stärker zur Geltung.
+
+Die enormen Erfolge der Technik im 19. Jahrhundert führten zu einem Erstarken neopositivistischer Positionen. Der logische Empirist Rudolf Carnap plädierte dafür, die Philosophie gänzlich durch eine „Wissenschaftslogik“ – d. h. durch die logische Analyse der Wissenschaftssprache – zu ersetzen.
+
+Der kritische Rationalist Karl Popper argumentierte, dass wissenschaftlicher Fortschritt vor allem durch Widerlegung einzelner Theorien durch Experimente („Falsifizierung“) geschehe. Seiner Ansicht nach setzen sich in einem evolutionsartigen Selektionsprozess diejenigen wissenschaftlichen Theorien durch, die der Wahrheit am nächsten kommen. Thomas S. Kuhn hielt dagegen verschiedene Theorien zur selben Frage prinzipiell für unvergleichbar, eine Überlegenheit der einen über die andere daher für nicht sachlich begründbar, wodurch die Dominanz einer Theorie eine Sache der Rhetorik würde. In eine ähnliche Richtung ging auch das Plädoyer Paul Feyerabends für methodische Freiheit. Für den Pragmatismus schließlich müssen Theorien unter dem Gesichtspunkt ihrer Brauchbarkeit und Anwendbarkeit in der Praxis beurteilt werden.
+Franz von Stuck, Sisyphus (1920). Der Mythos von Sisyphus ist von Albert Camus verwendet worden, um die vom modernen Menschen empfundene Sinnlosigkeit des Lebens zu versinnbildlichen. Sisyphus nimmt das Absurde seiner Existenz in einer von Zufall beherrschten, chaotischen Welt an.
+
+Als Reaktion auf die zunehmende Verwissenschaftlichung aller Lebensbereiche können jene Denkströmungen verstanden werden, die sich dem Einzelnen und dem Leben zuwenden. So war das Grundverständnis der Lebensphilosophie, dass sich die Ganzheitlichkeit des Lebens nicht allein durch Wissenschaft, Begriffe und Logik beschreiben lässt. Henri Bergson etwa sah einen fundamentalen Unterschied zwischen der individuell erlebten Zeit und der analytischen Zeit der Naturwissenschaft. Ähnlich kritisch forderte auch Edmund Husserl, der Begründer der Phänomenologie, dazu auf, sich bei der analytischen Betrachtung der Dinge zunächst an das zu halten, was dem Bewusstsein unmittelbar erscheint, um eine vorschnelle Weltdeutung zu vermeiden. Von großem Einfluss war die Existenzphilosophie seines Schülers Martin Heidegger. Dessen Ausgangspunkt war die Analyse der allgemeinen menschlichen Befindlichkeit und führte ihn zu der Frage nach dem Sinn von Sein überhaupt.
+
+Im Anschluss an Heidegger vertrat der Existenzialismus, insbesondere repräsentiert durch Jean-Paul Sartre, die These, dass der Mensch „zur Freiheit verurteilt“ sei. Er müsse mit jeder seiner Handlungen eine Wahl treffen, für die er selbst verantwortlich sei.
+
+    „Es gibt nur ein wirklich ernstes philosophisches Problem: den Selbstmord. Sich entscheiden, ob das Leben es wert ist, gelebt zu werden oder nicht, heißt, auf die Grundfrage der Philosophie antworten. Alles andere – ob die Welt drei Dimensionen und der Geist neun oder zwölf Kategorien hat – kommt später. Das sind Spielereien; erst muss man antworten.“
+
+– Albert Camus: Der Mythos des Sisyphos, Kap. „Das Absurde und der Selbstmord“ (1942)
+
+Das 20. Jahrhundert war von sozialen Umwälzungen und dem Konflikt zwischen Sowjetkommunismus und westlich-kapitalistischen Gesellschaftsformen geprägt. Im Zuge dieser Auseinandersetzung, die im Kalten Krieg kulminierte und mit der Globalisierung weltweite Dimensionen annahm, wurden geschichts- und sozialphilosophische Fragestellungen in der philosophischen Debatte stark akzentuiert.
+
+Das von Karl Marx am Ende aller Klassenkämpfe in Aussicht gestellte „Reich der Freiheit“ suchte Ernst Bloch in Prinzip Hoffnung als konkrete Utopie zu erweisen, die gegenüber allen vorherigen Utopien den Vorzug habe, auf dem Fundament des Dialektischen Materialismus zu gründen. Auch Herbert Marcuse und die Begründer der Kritischen Theorie, Theodor W. Adorno und Max Horkheimer, entwickelten ihre philosophischen Ansätze zur Entfremdungsproblematik vor dem Hintergrund der Gesellschaftsanalysen von Marx und Engels. Mit Jürgen Habermas hat die auch als Frankfurter Schule bezeichnete Kritische Theorie einen Philosophen hervorgebracht, der mit seiner Theorie des kommunikativen Handelns und dem Ideal des „herrschaftsfreien Diskurses“ ebenfalls dem Leitbild einer aus Abhängigkeitsverhältnissen befreiten Gesellschaft verpflichtet ist, dabei aber die chancenreichen Potentiale der westlichen Demokratien schätzt. Vor den Gefahren eines „atomistischen Individualismus“ in modernen Gesellschaften warnt der Vordenker des Kommunitarismus Charles Taylor, der den Weg zur Erhaltung bzw. Schaffung humaner gesellschaftlicher und gesamtökologischer Lebensbedingungen in einer noch zu findenden Balance zwischen Individualrechten und Gemeinschaftspflichten der Menschen sieht.
+Gegenwart
+→ Hauptartikel: Philosophie der Gegenwart
+
+Die Philosophie der Gegenwart steht vor dem Problem, ihren Gegenstand überhaupt zu erfassen, da eine rückblickende Bewertung der verschiedenen Ansätze noch nicht vorzunehmen ist. Die Wissenschaftstheorie ist jedoch weiterentwickelt worden, indem sie klarere Begriffe von „Bestätigung“ und „Theorienreduktion“ prägte.
+
+Seit Ende des 19. Jahrhunderts wird der Sprache eine zunehmend zentrale Stellung in der Philosophie eingeräumt. Ludwig Wittgenstein entwarf ein völlig neues Verständnis von Sprache, die er als ein unüberschaubares Konglomerat einzelner „Sprachspiele“ begriff. Dabei behandle die Philosophie nur „Scheinprobleme“, d. h. sie heile lediglich ihre eigenen „Sprachverwirrungen“. Philosophieren sei also keine „erklärende“, sondern eine „therapeutische“ Tätigkeit:
+
+    „Die Philosophie ist ein Kampf gegen die Verhexung unseres Verstandes durch die Mittel unserer Sprache.“
+
+– Ludwig Wittgenstein: Philosophische Untersuchungen, S. 109 (1953)
+
+Die anfangs vorwiegend sprachphilosophisch orientierte analytische Philosophie dominiert in angelsächsischen Kontexten und zunehmend auch im deutschen Sprachraum die Methode akademischer Philosophie. An den meisten Universitäten herrscht jedoch ein ausgeprägter Pluralismus bezüglich der gelehrten philosophischen Themen und Strömungen.
+
+In den deutschsprachigen Ländern eher wenig beachtet, stellt auch die Neuscholastik, vor allem der Neuthomismus, weltweit eine einflussreiche Strömung der Gegenwartsphilosophie dar, seitdem die katholische Kirche diese Ende des 19. Jahrhunderts zum offiziellen Lehrinhalt u. a. der Priesterausbildung erhoben hatte.
+
+Die Postmoderne (z. B. Gilles Deleuze, Jean-François Lyotard, Jean Baudrillard, Jacques Derrida) ist eine Gegenbewegung zu den Ideen der Moderne und betont die Differenzen von Denk- und Lebenswelten. Auch die menschliche Identität schätzt sie als instabil ein. Die der Postmoderne nahestehende feministische Philosophie zielt auf die Abhängigkeit der Weltinterpretation vom Geschlecht.
+Lehr- und Forschungsbetrieb
+
+Der philosophische Lehr- und Forschungsbetrieb umfasst die wissenschaftlichen Einrichtungen des Faches Philosophie. In Europa handelt es sich dabei meist um vom Staat finanzierte philosophische Institute, die Teil einer Universität sind. Ihre wissenschaftlichen Aufgaben sind erstens die Organisation eines Lehrbetriebs, der von Interessenten im Rahmen eines gesetzlich geregelten Studiums durchlaufen werden kann und zweitens die Forschung. Dazu haben die Institute bezahlte Stellen zur Verfügung, sowohl für wissenschaftliche Angestellte wie für Verwaltungsbeamte. Neben den Universitäts-Instituten existieren eigene philosophische Einrichtungen wie beispielsweise die Hochschule für Philosophie München.
+
+Im Jahr 2011 waren in Deutschland 1.191 Philosophen in Vollzeit angestellt, 2002 waren es noch 869. 2008 gab es an über 150 Lehrstühlen etwa 330 Professoren. In demselben Jahr studierten ungefähr 15.000 Personen Philosophie. Diese Zahl ging gegenüber 1996, als 24.000 Personen studierten, deutlich zurück, wodurch sich das Betreuungsverhältnis erheblich verbesserte.[21]
+
+In Österreich kann an den Universitäten Wien, Graz, Innsbruck, Salzburg und Klagenfurt Philosophie studiert werden. 2010 gab es insgesamt 3.651 Eingeschriebene. Das größte Institut befindet sich an der Universität Wien.
+Siehe auch
