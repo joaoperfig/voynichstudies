@@ -1,4 +1,4 @@
-takashi = "../transcriptions/takashi.txt"
+takashi = "../transcriptions/takahashi.txt"
 
 class Page:
     #identifier (id string)
