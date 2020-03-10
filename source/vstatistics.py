@@ -2,7 +2,7 @@ import vparser
 import numpy as np
 import matplotlib.pyplot as plt
 
-ignore = " 1234567890\t\n()[]!.,:;-_#$%&/={}'"
+ignore = " 1234567890\t\n()[]!.,:;-_#$%&/={}'" + '"'
 
 corpus_eng = "../corpus/english_botany.txt"
 corpus_ger = "../corpus/german_botany.txt"
