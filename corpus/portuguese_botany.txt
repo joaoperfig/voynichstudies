@@ -1,0 +1,137 @@
+Botânica
+Origem: Wikipédia, a enciclopédia livre.
+Saltar para a navegação
+Saltar para a pesquisa
+	
+Este artigo cita fontes confiáveis, mas que não cobrem todo o conteúdo. Ajude a inserir referências. Conteúdo não verificável poderá ser removido.—Encontre fontes: Google (notícias, livros e acadêmico) (Fevereiro de 2018)
+
+A botânica (do grego botané, que significa "planta", que deriva, por sua vez, do verbo boskein: "alimentar") ou biologia vegetal é o estudo científico da vida das plantas e algas. Como um campo da biologia, a botânica abrange uma miríade de disciplinas científicas que estudam crescimento, reprodução, metabolismo, desenvolvimento, doenças e evolução da vida das plantas.[1]
+Quase todo alimento que comemos provém (direta ou indiretamente) de plantas como este arroz americano de grãos longos. Esta é uma das principais razões que fazem da Botânica um tópico importante de estudo e pesquisa.
+Índice
+
+    1 Descrição
+    2 Foco e motivação da botânica
+        2.1 Alimentar o mundo
+        2.2 Entendendo processos fundamentais
+        2.3 Utilizando remédios e materiais
+        2.4 Entendendo mudanças ambientais
+    3 Historia da botânica
+        3.1 Botânica antiga
+        3.2 Botânica moderna
+    4 Ver também
+    5 Referências
+    6 Bibliografia
+    7 Ligações externas
+
+Descrição
+
+Plantas são todos os organismos que possuem plastídeos dispersos no citoplasma, adquiridos em endossimbiose primária, e amido como substância de reserva. Acessoriamente podem possuir clorofila A e B, mas algumas perderam a capacidade fotossintetizante (Cavallier-Smith 1998, 2004). Podem ser divididas em dois grandes grupos: algas, que não possuem tecidos verdadeiros tampouco embrião e Embriófitas, seres vivos fotossintetizantes que possuem embriões multicelulares envolvidos por material materno e estágio sexuado em alguma parte do ciclo de vida.
+
+As plantas participam de nossas vidas de inumeráveis outras maneiras além de fontes de alimento. Elas nos fornecem fibras para vestuários; madeira para mobiliário, abrigo e combustível; papel para livros; temperos para culinária; drogas para remédios; e o oxigênio que respiramos. Somos totalmente dependentes das plantas. As plantas também possuem um grande apelo sensorial, e nossas vidas são melhoradas por jardins, parques e áreas selvagens disponíveis para nós. O estudo das plantas garantiu melhor entendimento da natureza de toda a vida e continuará a fazê-lo nos anos vindouros. E com a engenharia genética e outras formas de tecnologia moderna, apenas começamos a entrar no mais excitante período da história da botânica, no qual as plantas podem ser transformadas, por exemplo, para resistir a doenças, matar pragas, produzir vacinas, fabricar plásticos biodegradáveis, tolerar solos com altas concentrações de sal, resistir ao congelamento e fornecer maiores quantidades de vitaminas e minerais em produtos alimentícios, como milho e arroz.
+
+Distintas dos demais seres vivos por seu ciclo de vida mais que pela fotossíntese (algumas espécies são heterotróficas secundárias, sem pigmentos verdes). As embriófitas, também chamadas de plantas terrestres, são composta de dois grupos informais: avasculares e vasculares, sendo o último subdividido em plantas sem e com sementes. As plantas com sementes podem, ainda, formar ou não flores. Todas as células das plantas possuem plastídeos que, quando expostos à luz, podem converter-se em cloroplastos.
+
+As algas são todos os seres fotossintetizantes que não possuem embrião. Estão divididas em quatro reinos: Bacteria (Cianofíceas), Protista (Euglenófitas e Dinoflagelados), Chromistas (Bacillariophyceae ou diatomáceas, Chrysophyta ou algas douradas e Phaeophyceae ou algas pardas) e Plantae.
+
+O reino Chromista engloba todos os seres vivos que possuem plastídeos no lumem do retículo endoplasmático, adquirido por endossimbiose secundária e com clorofila A e C.
+
+O reino Fungi inclui os organismos celulares haplóides dicarióticas, que se alimentam por absorção, e com glicogênio como substância de reserva. Está divido em Chytridiomycota, Zygomycota, Ascomycota e Basidiomycota.
+
+O reino Plantae é dividido em divisões (Usa-se o termo "divisão" ao invés do termo "filo" nos animais).
+
+Algas
+
+    Glaucophyta
+    Rodophyta
+    Chlorophyta
+
+Embriófitas
+
+    Marchantiophyta
+    Anthocerophyta
+    Bryophyta
+    Lycophyta (sensu Smith et al 2006)
+        Lycopodiaceae
+        Selaginellaceae
+        Isoetaceae
+    Monilophyta (sensu Smith et al 2006)
+        Psilopsida
+        Marattiopsida
+        Equisetopsida
+        Polypodiopsida
+    Cycadophyta
+    Ginkgophyta
+    Gnetophyta
+    Coniferophyta, Gimnospermas
+    Anthophyta, Plantas com flores
+        Liliopsida, Monocotiledôneas
+        Magnoliopsida, Dicotiledôneas
+
+Destas, as mais conhecidas entre as pessoas comuns são Bryophyta (musgos), Pterophyta (samambaias), Coniferophyta (gimnospermas), que são plantas coníferas, e Anthophyta (angiospermas), que são plantas com flores. Angiospermas são divididas em dois grupos, Dicotiledôneas e Monocotiledôneas. Dicotiledôneas têm dois cotilédones (folhas embrionárias), enquanto as monocotiledôneas têm apenas um cotilédone.
+
+Os nomes "Pinophyta" e "Magnoliophyta" são usados frequentemente para "Coniferophyta" e "Anthophyta". Do mesmo modo, as monocotiledôneas e dicotiledôneas são chamadas "Liliopsida" e "Magnoliopsida" respectivamente.
+Foco e motivação da botânica
+
+Como outras formas de vida na Biologia, a vida das plantas pode ser estudada em vários níveis, do molecular, genético e bioquímico através de organelas, células, tecidos e a biodiversidade de plantas inteiras. No topo desta escala, plantas podem ser estudadas em populações, comunidades e ecossistemas (como em ecologia). Em cada um destes níveis, um botânico pode se dedicar à classificação (taxonomia), estrutura (anatomia) ou função (fisiologia) da vida vegetal.
+
+Historicamente, botânicos estudavam todos os organismos geralmente não considerados como animais. Alguns destes organismos "semelhantes a plantas" incluem: fungos (estudados em Micologia); bactérias e vírus (estudados em Microbiologia); e algas (estudadas em Ficologia). A maior parte das algas, fungos e micróbios não são mais considerados membros do Reino Vegetal. Entretanto, atenção ainda é dada a estes por botânicos; e bactérias, fungos, e algas são usualmente mencionados, ainda que superficialmente, em cursos de botânica.
+
+Então por que estudar plantas? Plantas são fundamentais para a vida na Terra. Elas geram oxigênio, alimento, fibras, combustíveis e remédios que permitem aos humanos e outras formas de vida existir. Enquanto realizam tudo isso, as plantas ainda absorvem dióxido de carbono, um importante gás do efeito estufa, através da fotossíntese. Uma boa compreensão das plantas é crucial para o futuro de nossa sociedade, já que nos permite:
+
+    Alimentar o mundo
+    Entender processos fundamentais
+    Utilizar remédios e materiais
+    Entender mudanças ambientais
+
+Alimentar o mundo
+
+Virtualmente todo alimento que consumimos provém das plantas, tanto diretamente de frutas, verduras e legumes, como indiretamente através do gado que comemos, que por sua vez depende das plantas para se alimentar. Em outras palavras, plantas são a base de quase todas as teias alimentares, ou o que os ecólogos chamam de nível trófico. Compreender como as plantas produzem o alimento que comemos é, portanto, importante para sermos capazes de alimentar o mundo e fornecer segurança alimentar para as futuras gerações, como exemplo através do cruzamento entre plantas. Nem todas as plantas são benéficas aos seres humanos, e plantas daninhas são um problema considerável para a agricultura, e a botânica fornece o conhecimento básico para compreender, minimizar e controlar seu impacto.
+Entendendo processos fundamentais
+
+Plantas são organismos convenientes nos quais os processos fundamentais (como divisão celular e síntese de proteínas, por exemplo) podem ser estudados, sem o dilema ético destes estudos em animais ou humanos. As leis de herança genética foram descobertas desta maneira por Gregor Mendel que estava estudando a maneira pela qual a forma das ervilhas era herdada. O que Mendel aprendeu estudando plantas teve um alcance muito além da botânica.
+
+Mais recentemente, Barbara McMlintock descobriu "genes saltitantes" ao estudar o milho. Embora ela não fosse uma botânica "clássica", seu trabalho demonstra a crescente relevância do estudo de plantas para o entendimento de processos biológicos fundamentais.
+Utilizando remédios e materiais
+
+Muitas drogas, medicinais ou não, vêm do Reino Vegetal. A aspirina, originalmente extraída da casca de salgueiros, é um exemplo. A cura para diversas doenças pode vir de vegetais, esperando para serem descobertas. Estimulantes populares, tais como café, chocolate, tabaco e chá, também têm origem em plantas. A maior parte das bebidas alcoólicas são obtidas da fermentação de plantas, como lúpulo e uvas.
+
+Plantas nos fornecem muitos materiais naturais: algodão, madeira, papel, linho, óleos vegetais, alguns tipos de cordas e borracha são apenas alguns exemplos. A produção de seda não seria possível sem o cultivo de amoreiras. Canas-de-açúcar e outras plantas têm sido recentemente utilizadas como fontes de biocombustíveis, importantes como alternativa aos combustíveis fósseis.
+
+Este é apenas um punhado de exemplos de como a vida vegetal fornece, à humanidade, remédios e materiais importantes.
+Entendendo mudanças ambientais
+
+Plantas podem também auxiliar na compreensão das mudanças ambientais de muitas maneiras.
+
+Compreender a destruição dos habitats e a extinção das espécies depende de um acurado e completo inventário de plantas providenciado pela sistemática e taxonomia.
+
+Respostas das plantas à radiação ultravioleta pode nos ajudar a monitorar problemas, como o buraco na camada de ozônio.
+
+Análise de pólen depositado pelas plantas milhares de anos atrás pode ajudar cientistas a reconstruir climas do passado e predizer os do futuro, parte essencial da pesquisa sobre mudanças climáticas.
+
+Líquens, sensíveis às condições atmosféricas, têm sido extensivamente usados como indicadores de poluição.
+
+Então, de muitas maneiras, as plantas podem agir um pouco como "canário de mineiro", um antigo sistema de alarme, nos alertando de importantes mudanças no meio ambiente. Acrescentadas essas razões práticas e científicas, plantas são extremamente valiosas como recreação a milhões de pessoas que apreciam jardinagem, horticultura e culinária. Botânicos também argumentam que a botânica é um tópico fascinante e recompensador por si só.
+Historia da botânica
+Ver artigo principal: História da botânica
+Botânica antiga
+
+Entre os primeiros estudos botânicos, escritos por volta de 300 AC, estão dois grandes tratados de Teofrasto: "Sobre a História das Plantas" (Historia Plantarum) e "Sobre as Causas das Plantas". Juntos, estes livros constituem-se na contribuição mais importante à ciência botânica durante a antiguidade e a Idade Média. O médico e escritor romano Dioscórides, fornece importantes evidências sobre o conhecimento das plantas entre gregos e romanos.
+
+Em 1665, usando um microscópio primitivo, Robert Hooke descobriu células em cortiça; pouco tempo depois em tecidos vegetais vivos. O alemão Leonhart Fuchs, o suíço Conrad Gessner, e os autores britânicos Nicholas Culpeper e John Gerard, publicaram herbais (livros sobre ervas) com informações de usos das plantas.
+Botânica moderna
+
+Uma quantidade considerável de conhecimento é gerada, hoje em dia, pelo estudo de plantas "modelo", como Arabidopsis thaliana. Esta mostarda ruderal foi uma das primeiras plantas a ter seu genoma sequenciado. Outras mais comercialmente importantes como arroz, trigo, milho e soja estão tendo seu genoma seqüenciado, embora algumas delas sejam mais desafiadoras por possuírem mais de uma cópia de seus cromossomos, uma condição conhecida como poliploidia. A alga verde unicelular Chlamydomonas reinhardtii é outro organismo modelo que tem sido extensivamente estudado e fornece importantes informações sobre a biologia celular.
+Ver também
+Categoria
+A Wikipédia possui a categoria:
+Botânica
+
+    Árvores
+    Ervas
+    Folhas
+    Fruto
+    Hortaliças
+    Lista de botânicos
+    Lista de plantas do Brasil
+    Botânica em Portugal
+    Botânica médica
