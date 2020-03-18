@@ -1,5 +1,8 @@
 takashi = "../transcriptions/takahashi.txt"
 
+ignore = "\n1234567890()[],-_#$%&/={}'|/\\" + '"' + chr(8220) + chr(8221) + chr(8212)
+breaks = "\t.!?:;"
+
 class Page:
     #identifier (id string)
     #lines (list of Line entities)
@@ -118,3 +121,18 @@ def get_language_pages(language):            # get list of pages with language (
     
 def get_language_text(language):             # get text of pages with language (A, B, unknown)
     return get_filtered_text(lambda x: x.L == language)
+
+def text_to_word_lists(text):                # get text string, return lists
+    text = text.lower()
+    for ign in ignore:
+        text = text.replace(ign, " ")
+    for bre in breaks:
+        text = text.replace(bre, ".")
+    sentences = text.split(".")
+    result = []
+    for sent in sentences:
+        pre_sentence = sent.split(" ")
+        sentence = [word for word in pre_sentence if word != ""]
+        if sentence != []:
+            result += [sentence]
+    return result
