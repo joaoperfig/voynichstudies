@@ -1,0 +1,75 @@
+
+
+helps contains 1 words and occurs a total of 3 times
+    helps, 
+
+hermas contains 1 words and occurs a total of 2 times
+    hermas, 
+
+CLASS12435 contains 12407 words and occurs a total of 803843 times
+    the, and, of, to, that, in, he, shall, unto, for, 
+    i, his, a, lord, they, be, is, him, not, them, 
+    it, with, all, thou, thy, was, god, which, my, me, 
+    said, but, ye, their, have, will, thee, from, as, are, 
+    when, this, out, were, upon, man, by, you, israel, king, 
+    son, up, there, hath, then, people, came, had, house, into, 
+
+CLASS12438 contains 21 words and occurs a total of 275 times
+    amen, selah, nay, marvel, hosanna, yes, alleluia, gloriously, mene, adna, 
+    tekel, sorrowing, alian, upharsin, peres, higgaion, hathath, whisperers, devilish, kallai, 
+    unsatiable, 
+
+CLASS12513 contains 2 words and occurs a total of 4 times
+    pileha, shashai, 
+
+CLASS12518 contains 2 words and occurs a total of 4 times
+    harbona, patrobas, 
+
+CLASS12525 contains 2 words and occurs a total of 4 times
+    samgarnebo, traitors, 
+
+CLASS12526 contains 2 words and occurs a total of 6 times
+    eloi, lama, 
+
+CLASS12528 contains 3 words and occurs a total of 6 times
+    phlegon, irons, fence, 
+
+CLASS12530 contains 3 words and occurs a total of 6 times
+    machnadebai, eubulus, hallohesh, 
+
+CLASS12531 contains 3 words and occurs a total of 6 times
+    greeteth, governments, undergirding, 
+
+CLASS12533 contains 7 words and occurs a total of 14 times
+    hoshama, zer, distant, swellings, bigtha, rests, hermes, 
+
+CLASS12534 contains 5 words and occurs a total of 11 times
+    triumphed, ziddim, narrowed, equally, whisperings, 
+
+CLASS12537 contains 17 words and occurs a total of 38 times
+    nergalsharezer, telmelah, bilshan, unequally, monthly, ashterathite, hammath, bakbakkar, mehuman, healings, 
+    zebina, abagtha, moadiah, migdalel, meres, backbitings, talitha, 
+
+CLASS12541 contains 17 words and occurs a total of 35 times
+    rabmag, yoked, cumi, biztha, jadau, marsena, telharsa, horem, mispereth, mizpar, 
+    prognosticators, piltai, rakkath, heresh, zethar, telharesha, shama, 
+
+CLASS12543 contains 11 words and occurs a total of 22 times
+    stoicks, quicksands, rinnah, berothah, asyncritus, carshena, fared, barbed, raamiah, atroth, 
+    tottering, 
+
+CLASS12544 contains 8 words and occurs a total of 16 times
+    encountered, strake, shethar, shophan, nahamani, sumptuously, benhanan, sibraim, 
+
+CLASS12547 contains 7 words and occurs a total of 15 times
+    sabachthani, shobek, unmerciful, azzur, sharai, chelluh, maranatha, 
+
+CLASS12548 contains 26 words and occurs a total of 52 times
+    implacable, warreth, murmurers, ashteroth, appii, bedeiah, julia, gilalai, ziphah, je, 
+    sergius, changeable, azarael, baalathbeer, anethothite, rohgah, hizkijah, shenazar, grandmother, hasadiah, 
+    sticketh, dromedary, infallible, anathema, rosh, adami, 
+
+CLASS12549 contains 25 words and occurs a total of 50 times
+    lois, karnaim, sarsechim, ramath, jehubbah, maai, forum, paulus, jushabhesed, complainers, 
+    proofs, closer, muppim, tiria, milalai, admatha, nekeb, nereus, mebunnai, hoshaphat, 
+    traversing, suits, jecamiah, heady, entangleth, 

@@ -1,0 +1,136 @@
+
+
+the contains 1 words and occurs a total of 64024 times
+    the, 
+
+of contains 1 words and occurs a total of 34671 times
+    of, 
+
+and contains 1 words and occurs a total of 51697 times
+    and, 
+
+CLASS12518 contains 530 words and occurs a total of 21997 times
+    saying, father, thereof, heart, offering, own, brethren, fathers, eyes, servant, 
+    servants, soul, life, mouth, face, wife, brother, mother, judgment, mercy, 
+    power, enemies, feet, strength, inheritance, anger, master, sins, commandments, salvation, 
+    cattle, sake, neighbour, wives, statutes, tongue, wickedness, judgments, lips, generations, 
+    beloved, hearts, prayer, alone, garments, clothes, riches, liveth, foot, stead, 
+    bed, labour, sleep, villages, faces, fury, youth, arm, tents, dominion, 
+
+CLASS12531 contains 1482 words and occurs a total of 29300 times
+    god, israel, judah, jerusalem, egypt, heaven, christ, peace, jacob, death, 
+    silver, righteousness, hosts, babylon, pharaoh, joseph, war, thyself, jordan, ephraim, 
+    paul, moab, benjamin, peter, darkness, understanding, back, zion, manasseh, thence, 
+    incense, brass, samaria, assyria, myself, trouble, absalom, iron, esau, pure, 
+    ahab, destruction, canaan, ammon, understand, edom, daniel, ones, syria, reuben, 
+    hebron, dan, gad, levi, galilee, lebanon, sorrow, indeed, bethel, baal, 
+
+CLASS12534 contains 10 words and occurs a total of 29721 times
+    his, thy, my, their, her, s, your, our, thine, mine, 
+
+CLASS12535 contains 144 words and occurs a total of 29678 times
+    for, but, as, then, if, let, now, because, whom, where, 
+    until, both, blessed, lest, though, while, call, hold, moreover, look, 
+    remember, open, sing, seeing, woe, nevertheless, except, howbeit, each, else, 
+    duke, awake, shemaiah, notwithstanding, henceforth, peradventure, whereunto, gird, sixteen, alas, 
+    ah, otherwise, passing, hereby, hanan, zephaniah, joah, whilst, nahshon, holding, 
+    shelomith, zabad, telleth, hosanna, rid, ira, zurishaddai, shelumiel, aiah, blasphemeth, 
+
+CLASS12536 contains 288 words and occurs a total of 27092 times
+    be, not, have, hath, had, shalt, hast, art, wilt, didst, 
+    knowest, shouldest, wast, dost, canst, goest, doest, sayest, wouldest, seest, 
+    gavest, comest, camest, makest, refuse, hadst, saidst, sawest, mightest, speakest, 
+    wentest, broughtest, overlay, givest, backsliding, heardest, lovest, hearest, spakest, madest, 
+    knewest, founded, thinkest, seekest, takest, believest, puttest, settest, walkest, dash, 
+    hatest, meddle, trustest, persecutest, hidest, disquieted, answerest, standest, wert, criest, 
+
+CLASS12537 contains 1002 words and occurs a total of 34708 times
+    lord, house, sons, name, evil, priest, law, voice, cities, side, 
+    flesh, sea, fear, congregation, head, wicked, nations, sight, daughter, night, 
+    end, world, waters, seed, gate, rest, offerings, mount, strong, manner, 
+    women, beast, throne, body, knowledge, sun, vessels, living, wood, captain, 
+    valley, houses, camp, hope, captivity, presence, tribes, chariots, linen, plague, 
+    just, pillars, breadth, sick, pharisees, army, rich, rulers, rams, branches, 
+
+CLASS12539 contains 708 words and occurs a total of 33255 times
+    a, this, an, no, every, these, jesus, she, any, moses, 
+    two, like, three, those, seven, saul, five, round, cut, much, 
+    abraham, ten, such, joshua, long, six, whosoever, thirty, far, throughout, 
+    arise, jeremiah, joab, john, jonathan, better, threescore, greater, white, abimelech, 
+    soon, balaam, seventy, asa, jehu, horsemen, elisha, esther, immediately, laban, 
+    wonders, beheld, haman, noah, afar, rehoboam, confounded, nine, azariah, prosper, 
+
+CLASS12540 contains 6 words and occurs a total of 37956 times
+    he, i, they, thou, ye, we, 
+
+CLASS12541 contains 1124 words and occurs a total of 37717 times
+    come, go, do, make, away, put, give, take, pass, bring, 
+    set, eat, about, see, hear, off, cast, than, commanded, keep, 
+    stood, dwell, cause, deliver, surely, turn, written, destroy, seek, lay, 
+    offer, send, save, shew, dwelt, bear, walk, serve, sat, judge, 
+    reigned, receive, reign, gather, build, passed, filled, lifted, find, lie, 
+    enter, rise, break, burn, become, trust, meet, rose, bless, giveth, 
+
+CLASS12542 contains 1571 words and occurs a total of 43654 times
+    man, day, hand, things, great, place, way, time, holy, hundred, 
+    thing, thousand, blood, first, glory, water, old, altar, dead, woman, 
+    bread, same, four, young, covenant, iniquity, well, very, little, morning, 
+    places, child, ways, temple, oil, wrath, certain, ground, stone, twelve, 
+    sheep, third, slain, river, country, second, stones, commandment, families, battle, 
+    joy, trees, east, ears, new, times, nation, sabbath, most, witness, 
+
+CLASS12543 contains 1550 words and occurs a total of 37924 times
+    said, made, went, say, brought, took, sent, heard, spake, done, 
+    himself, given, ever, gave, without, taken, been, delivered, spoken, told, 
+    laid, seen, gathered, smote, begat, gone, cubits, cried, slew, afraid, 
+    bare, returned, kept, knew, built, destroyed, received, born, desolate, carried, 
+    offered, shewed, hid, appointed, sought, chosen, ashamed, pieces, sinned, asked, 
+    believed, vain, ghost, followed, worship, buried, wait, eaten, saved, bound, 
+
+CLASS12544 contains 134 words and occurs a total of 42064 times
+    that, which, when, there, also, so, even, behold, therefore, or, 
+    o, what, who, neither, nor, thus, yet, how, wherefore, yea, 
+    whose, being, why, only, can, whether, till, wherein, lo, whatsoever, 
+    verily, whither, wherewith, write, cursed, whereof, afterward, knowing, forasmuch, truly, 
+    either, whereby, oh, whereas, howl, beware, happy, namely, boast, insomuch, 
+    hitherto, whereupon, greet, soever, incline, furthermore, quicken, afterwards, provide, leap, 
+
+CLASS12545 contains 846 words and occurs a total of 48612 times
+    in, with, all, from, on, before, against, at, saith, david, 
+    many, through, gold, under, drink, aaron, toward, solomon, praise, concerning, 
+    between, opened, beside, get, fine, teach, covered, command, jeroboam, gilead, 
+    burned, poured, jehoshaphat, eleazar, consider, killed, abner, smitten, mordecai, nebuchadnezzar, 
+    despised, bashan, buy, mary, zadok, devoured, jehoiada, preach, builded, touched, 
+    ishmael, balak, nathan, benaiah, straightway, appoint, amaziah, zechariah, gideon, eli, 
+
+CLASS12546 contains 437 words and occurs a total of 44806 times
+    shall, is, was, will, are, were, may, did, am, should, 
+    know, saw, might, would, pray, love, cometh, fell, tell, departed, 
+    doth, died, having, cannot, could, fled, goeth, must, maketh, walked, 
+    mayest, desire, entered, knoweth, wrought, doeth, removed, prophesy, hate, thought, 
+    taught, speaketh, stretched, obey, beseech, rent, loveth, rather, lieth, eateth, 
+    heareth, held, keepeth, rejoiced, believeth, washed, sitteth, seeketh, toucheth, passeth, 
+
+CLASS12547 contains 1357 words and occurs a total of 52915 times
+    king, son, people, children, land, men, earth, days, city, word, 
+    fire, words, spirit, other, hands, sin, sword, work, high, priests, 
+    burnt, midst, right, left, kingdom, kings, tabernacle, wilderness, field, meat, 
+    mighty, chief, princes, light, levites, jews, philistines, daughters, month, whole, 
+    wise, faith, prophet, gods, disciples, multitude, tribe, prophets, righteous, truth, 
+    works, wisdom, wine, ark, sacrifice, book, fruit, poor, angel, inhabitants, 
+
+CLASS12548 contains 1078 words and occurs a total of 50893 times
+    him, them, it, me, thee, you, us, good, more, again, 
+    years, speak, answered, together, another, themselves, found, die, twenty, turned, 
+    stand, return, fall, live, therein, nothing, unclean, rejoice, yourselves, broken, 
+    arose, here, forty, fifty, honour, samuel, looked, believe, clean, isaac, 
+    answer, hezekiah, help, perish, sit, likewise, fight, still, perfect, consumed, 
+    thither, wash, alive, abide, abroad, amen, simon, selah, wept, defiled, 
+
+CLASS12549 contains 300 words and occurs a total of 51728 times
+    to, unto, out, upon, by, up, came, into, one, after, 
+    down, over, among, forth, according, called, year, none, full, some, 
+    above, known, part, near, within, began, able, hearken, ear, nigh, 
+    ready, ought, sold, heed, thanks, whence, aside, run, worthy, think, 
+    observe, savour, too, desired, kindness, profit, following, counted, manifest, ministered, 
+    ordained, refused, sacrificed, render, willing, learn, along, married, seemeth, restored, 

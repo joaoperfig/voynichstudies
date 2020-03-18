@@ -1,0 +1,137 @@
+
+
+e contains 1 words and occurs a total of 37981 times
+    e, 
+
+o contains 1 words and occurs a total of 27027 times
+    o, 
+
+de contains 1 words and occurs a total of 25083 times
+    de, 
+
+que contains 1 words and occurs a total of 21314 times
+    que, 
+
+CLASS26048 contains 1525 words and occurs a total of 30010 times
+    rei, povo, dia, nome, coração, bem, meio, caminho, tempo, sacerdote, 
+    outro, mal, servo, irmão, ano, reino, pacto, mundo, poder, primeiro, 
+    mês, rosto, profeta, lado, holocausto, corpo, livro, número, norte, príncipe, 
+    alto, próximo, tabernáculo, gado, dinheiro, ímpio, chefe, sacrifício, tirou, terceiro, 
+    sul, resto, cativeiro, próprio, pó, marido, conselho, sétimo, termo, trigo, 
+    átrio, princípio, carneiro, vivo, juramento, sumo, restante, matar, mataram, moço, 
+
+CLASS26049 contains 1526 words and occurs a total of 30856 times
+    filhos, homens, dias, olhos, irmãos, anos, mil, pais, servos, quais, 
+    sacerdotes, outros, reis, ouvidos, pés, levitas, povos, inimigos, príncipes, filisteus, 
+    judeus, deuses, profetas, discípulos, mortos, céus, chefes, anciãos, caminhos, doze, 
+    grandes, animais, pecados, montes, mandamentos, ímpios, santos, estatutos, mesmos, sacrifícios, 
+    carros, cavalos, lábios, bois, habitantes, ídolos, lugares, altos, egípcios, gentios, 
+    moradores, justos, campos, ossos, pães, valentes, anjos, nomes, bens, principais, 
+
+CLASS26051 contains 1521 words and occurs a total of 34059 times
+    deus, israel, vós, mim, ti, judá, cristo, ouro, saul, modo, 
+    hoje, noite, água, babilônia, faraó, abraão, qualquer, sorte, num, falar, 
+    manhã, benjamim, pedro, sião, fome, moabe, manassés, cereais, graças, beber, 
+    vir, alegria, maneira, gileade, ezequias, lá, passar, geração, sábado, bete, 
+    samária, jônatas, cem, baal, edom, linho, esaú, ferro, acabe, morrer, 
+    canaã, nabucodonozor, daniel, rocha, simão, eleazar, certo, haver, disto, louvor, 
+
+CLASS26052 contains 127 words and occurs a total of 28961 times
+    os, dos, seus, aos, teus, meus, vossos, dois, cinco, nossos, 
+    quatro, dez, ficaram, tais, profetiza, quinze, pelejou, dezesseis, onze, zeloso, 
+    descendo, indignado, silas, prevaleceu, dezessete, testifica, bebido, fugirá, prevalecia, queriam, 
+    procedido, pelejará, errante, pelejam, conspirou, chamo, guerreou, unânimes, queimareis, prevalecer, 
+    pelejarão, ajudado, estares, prevaleceremos, purifiquei, murmurou, iluminados, multiplique, profetizarás, instituiu, 
+    sairam, morou, coscorões, aprovados, aconselhou, ficarias, mortes, pronunciado, murmuram, atirava, 
+
+CLASS26053 contains 874 words and occurs a total of 25551 times
+    as, suas, das, nas, coisas, palavras, mãos, tuas, nações, cidades, 
+    pecado, �s, águas, vossas, minhas, mulheres, duas, obras, casas, pelas, 
+    filhas, digo, ovelhas, portas, ofertas, vestes, famílias, trevas, nossas, tribos, 
+    gerações, colunas, aves, riquezas, cabeças, aldeias, terras, árvores, asas, abominações, 
+    tábuas, boas, eterna, bases, maravilhas, outras, nuvens, almas, ruas, ordenanças, 
+    forças, câmaras, transgressões, multidões, iniqüidades, imagens, trombetas, estrelas, cortinas, armas, 
+
+CLASS26056 contains 1378 words and occurs a total of 34589 times
+    sua, tua, minha, davi, moisés, palavra, vida, voz, verdade, parte, 
+    boca, fim, glória, ira, alma, filha, mãe, obra, herança, dela, 
+    fé, iniqüidade, arca, graça, força, dizer, côvados, pedra, face, forte, 
+    acerca, paulo, direita, revelação, respeito, salvação, joabe, vezes, jeremias, samuel, 
+    língua, descendência, benignidade, tarde, família, nação, adiante, assíria, sair, irmã, 
+    vontade, disso, própria, absalão, peleja, largura, perto, nuvem, cova, festa, 
+
+CLASS26057 contains 3744 words and occurs a total of 37971 times
+    disse, mais, dizendo, jesus, ali, lo, disseram, exércitos, muitos, alguma, 
+    contigo, aqui, feito, perguntou, comigo, algum, nada, enviou, deste, haverá, 
+    bom, guarda, somente, elas, morreu, convosco, los, dito, escrito, morto, 
+    sido, la, dado, poderoso, vi, imundo, ouvido, chamado, cujo, elias, 
+    ordenara, delas, serás, terá, sede, posto, conosco, contados, ouviram, diziam, 
+    fareis, falava, dirá, ficará, perguntaram, limpo, ordenado, fiel, quis, livre, 
+
+CLASS26058 contains 882 words and occurs a total of 35632 times
+    não, é, me, vos, foi, está, será, era, há, tinha, 
+    estava, havia, tem, estão, estavam, tenho, eram, tinham, for, têm, 
+    tens, tiver, juntamente, estou, temos, sois, fizeste, tendes, haja, sei, 
+    venha, fazem, estás, sabeis, estais, ama, fui, poderá, fizer, estiver, 
+    ficar, estar, entrará, viva, parecer, aí, sejais, fazia, dê, tocante, 
+    podem, necessário, dantes, estamos, podiam, sabemos, quero, tivesse, sejas, forem, 
+
+CLASS26059 contains 301 words and occurs a total of 36088 times
+    do, ao, no, um, seu, meu, teu, uma, ó, nosso, 
+    vosso, ter, expiação, escritos, sentado, contínuo, dormiu, falando, tornado, aliança, 
+    daquela, deitado, entrarão, andava, peça, desses, armados, seremos, amassada, misturada, 
+    vendido, procedimento, misturado, deitarás, temam, lançada, antigo, começando, completa, terminar, 
+    achados, solto, inscritos, designados, pendurado, sentada, carregado, proposto, considerados, encontrares, 
+    sábia, selado, unidos, consumiram, luminares, amassados, tomo, desejava, capazes, escuros, 
+
+CLASS26060 contains 1446 words and occurs a total of 40357 times
+    senhor, filho, homem, pai, diante, lugar, mesmo, egito, espírito, céu, 
+    fogo, sangue, mar, altar, santo, monte, campo, deserto, pão, debaixo, 
+    exército, justo, anjo, jordão, vinho, templo, santuário, fruto, dentro, testemunho, 
+    trono, além, sol, pedras, azeite, vale, ai, juízo, arraial, entendimento, 
+    incenso, rio, haviam, pouco, serviço, oriente, vento, trabalho, matou, encontro, 
+    conhecimento, furor, menino, muro, sinal, temor, rebanho, inimigo, madeira, evangelho, 
+
+CLASS26061 contains 2552 words and occurs a total of 42798 times
+    se, com, sobre, fez, seja, deu, quanto, veio, junto, és, 
+    fizeram, farei, nunca, saiu, tanto, faz, ei, nossa, viu, chamou, 
+    dize, ficou, sejam, senão, chegou, ordenou, darei, subiu, começou, nenhuma, 
+    levou, somos, dali, feriu, dará, ouviu, saíram, teve, voltou, viram, 
+    trouxe, entregou, chegaram, chegando, dei, trouxeram, neste, ia, consigo, edificou, 
+    desceu, caiu, mensageiros, gerou, levaram, porei, sereis, voltar, passou, ás, 
+
+CLASS26062 contains 2206 words and occurs a total of 42348 times
+    terra, casa, mão, cidade, jerusalém, nós, mulher, causa, oferta, ser, 
+    lei, si, espada, porta, fora, fazer, sempre, jacó, carne, justiça, 
+    arão, cabeça, outra, luz, prata, morte, paz, vossa, salomão, tenda, 
+    redor, josé, amor, vez, tribo, pé, multidão, sabedoria, josué, presença, 
+    dar, ordem, guerra, saber, comer, congregação, ir, cima, efraim, ver, 
+    ouvir, longe, bronze, novo, joão, boa, isaque, mesma, vinha, subir, 
+
+CLASS26063 contains 1620 words and occurs a total of 48303 times
+    pois, mas, porque, então, também, assim, nem, quando, quem, tu, 
+    porém, este, depois, ora, respondeu, agora, esta, isto, já, estes, 
+    onde, estas, sem, antes, portanto, sim, porventura, dá, naquele, vai, 
+    ouvi, esse, sendo, certamente, enquanto, vieram, tornou, levanta, ouve, todavia, 
+    muitas, tal, fala, farás, após, tão, melhor, responderam, esses, acaso, 
+    essa, vindo, tomaram, deixa, embora, põe, ide, peço, destas, bendito, 
+
+CLASS26064 contains 4094 words and occurs a total of 50560 times
+    ele, te, eu, lhe, eles, nos, lhes, ela, deles, isso, 
+    foram, dele, sete, três, muito, vinte, alguém, pelos, levantou, pôs, 
+    nela, á, trinta, quer, quarenta, cinqüenta, fiz, seis, entrar, dizia, 
+    vê, tenha, fosse, houver, fizera, puseram, honra, cento, levantando, ão, 
+    dum, lança, setenta, dizem, chama, achou, levantaram, tornar, seguinte, anda, 
+    entraram, dirás, sessenta, duzentos, acamparam, tornará, vêm, tocar, levar, tornaram, 
+
+CLASS26065 contains 2275 words and occurs a total of 51801 times
+    por, como, todos, contra, todo, até, eis, pelo, toda, são, 
+    diz, todas, ou, entre, ainda, segundo, tudo, qual, grande, cada, 
+    aquele, desde, sou, porquanto, tendo, perante, conforme, serão, só, coisa, 
+    ninguém, dentre, tomou, nele, vem, falou, fará, contudo, pode, vendo, 
+    aqueles, uns, mandou, estando, visto, logo, faze, havendo, reinou, houve, 
+    sucedeu, entrou, ouvindo, toma, mau, daquele, fazendo, deram, faça, vive, 
+
+CLASS26066 contains 12 words and occurs a total of 54039 times
+    a, para, da, em, na, �, pela, nenhum, alguns, desta, 
+    numa, nesta, 
