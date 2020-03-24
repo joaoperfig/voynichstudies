@@ -1,0 +1,2264 @@
+﻿
+
+{1}                            GEORGII FORSTER,
+                                 MEDIC. DOCT.
+
+                  SERENISS. POLONIAE REGI A CONSILIIS
+                                INTIMIS, ETC.
+
+                                    DE
+                              PLANTIS ESCVLENTIS
+                       INSVLARVM OCEANI AVSTRALIS
+                            COMMENTATIO BOTANICA.
+
+ Sed primum positum sit, nosmet ipsos commendatos esse nobis, primamque
+ ex natura hanc habere appetitionem, ut conservemus nosmet ipsos.
+                                   CIC. _de finib. bon. et mal._ L. IV.
+
+                                  BEROLINI,
+                             APVD HAVDE et SPENER,
+                                 MDCCLXXXVI.
+
+{2} [blank]
+{3}                               VIRO
+                          ILLVSTRI ET GENEROSO
+                             IOANNI ANDREAE
+                                MVRRAY,
+                 EQVITI ORDINIS DE WASA, CONSILIARIO REGIAE
+                 AVLAE, PROFESSORI MEDICINAE ET BOTANICES
+                   IN ACADEMIA REGIA GOETTINGENSI, REL.
+                                BOTANICO
+                          NOSTRI AEVI PRIMARIO
+
+                                  HVNC
+                      DELECTVM FLORVLAE AVSTRALIS
+
+                         PIENTISSIME CONSECRAT
+                           GEORGIVS FORSTER.
+
+{4} [blank]
+{5}                             PRAEFATIO.
+
+Asiam inter orientalem et Americam zephyrinam late extenditur Oceanus
+australis, omnium vastissimus, nullis extra zonam torridam, praeter
+unicam fere novam Zeelandiam, terris interceptus; intra tropicos autem
+plurimis insulis, veluti punctis conspersus, quarum aliae in congeries
+aliquot collectae, aliae majori spatio disjunctae jacent. Versus
+occidentem inde a decimo quem vocant latitudinis australis gradu usque
+ad quadragesimum quartum, idem oceanus novam Hollandiam, Europa
+maiorem, alluit.
+
+Incolae harum terrarum alii candidiores sunt, alii nigricantes. Priores
+numero reliquis praestant, uno eodemque sermone utuntur, morumque
+similitudine, quantum pro climatum diversitate licuit, inter se
+conveniunt. Ex Indiae regionibus orientalibus per archipelagum
+moluccanum atque philippinas insulas in oceanum australem eosdem
+migrasse, propter analogiam linguae eorum vernaculae cum malaica, {6}
+certissimum est. Oceani huius partem borealem, tropico tamen inclusam,
+tres insularum congeries occupant, Latronum quae et Marianae dicuntur,
+Carolinae, et novissimo Cookii itinere detectae Sandvigiae. In ea parte
+quae trans aequatorem ad austrum sita est, totidem archipelagis,
+Amicorum scilicet, Societatis et Marchionis Mendozae, sedem figerunt;
+quibus adnumerari debent insulae illae, hinc atque illinc in oceano
+dispersae, cuius superficiem vix superant, stupendis lithophytorum
+habitaculis inaedificatae, nobis _demersae_ (Low Islands ) dicendae.
+Eiusdem stirpis porro ramentum extra tropicum australem, versus
+americae littora in paschali insula reperitur (Ostereiland), aliud
+deinceps ex opposito novae hollandiae nova Zeelandia est, inde a
+tricesimo quinto ad quadragesimum septimum latitudinis gradum protensa.
+
+Nigrae gentis longe alia est ratio; nam in Indiae archipelagis
+orientalibus, et praesertim in montuosis sylvaticisque insularum
+latibulis agrestium hominum familiae reperiuntur, quae forte cum hisce
+australioribus nigritis ex eadem stirpe prognatae sunt. Eiusdem gentis
+praecipua sedes est illa insularum congeries, quae aequatori et
+moluccanis insulis proxima, Papuae sive novae Guineae, Britanniae,
+Hiberniaeque nominibus in tabulis geographicis designari solet. Inde
+per insulas Charlottae, novasque Hebrides ad novam Caledoniam usque
+haecce nigritarum proles videtur penetrasse, brevissimo certe, si cum
+eo conferatur, quo candidiores illi homines novam Zeelandiam et
+extremam {7} paschatis insulam petierunt, itinere, et a primis sedibus
+minus remoto. Nigri huius populi forte soboles, etiam novam Hollandiam
+occupavit, licet hoc certo affirmare non ausim; quod si vastissimae
+istius regionis incolae re vera originem trahunt a Papuanis, dandum id
+quoque est, eos a climate et carnium esu aliquanto immutatos fuisse.
+Verum enim vero nigrorum hominum in hisce terris in primis ea est
+singularitas, ut fere in qualibet insula, licet proxima vicinitate cum
+reliquis coniuncta sit, proprio diversissimoque sermone utantur; totque
+paene sint idiomata, quot sunt insulae ab iisdem habitatae. Quo quidem
+argumento nullum exquisitius immanitatem maiorum, a quibus ortum
+trahunt comprobare videtur; et enim quis est, qui indomitam feritatem
+simul et inscitiam climatis ubertate altam in eo potissimum non
+agnoscat, quod praeter victus parandi rationem, nihil a parentibus
+didicerint, desertisque laribus etiam patrii sermonis obliti sint?
+
+Singularem hanc diversitatem inter Austrasiae vel Polynesiae populos,
+cum iam neque aëris, qui omnibus idem propemodum est, neque
+alimentorum, quibus omnes fere iisdem vescuntur, diversae qualitati
+tribuenda sit, originem ducere a primitiva autochthonum varietate
+arbitror. Indelebilis enim et tanquam inusta species, diversis hominum
+familiis inhaeret, plurimis notis characteristicis insignis, quae et
+climati omnimodo resistit, et ciborum commutatione non frangitur, nec
+non perpetua successione, nisi contaminatae fuerint generationes {8}
+aliqua mixtela, a parentibus ad ultimam prolem integra meracissimaque
+descendit. Cui assertioni ne testimonia desint ex aliis regionibus
+deprompta, verbo saltem tetigisse sufficiet aethiopum sive nigritarum e
+propriis sedibus africanis in peregrina climata translatorum
+generationes, atro colore, crispa in capite lana, porrectis maxillis,
+naso simo, labis tumidis, ceterisque indiciis ab optimo Soemmerringio,
+summo incisore, mihi [*] nuper enumeratis, atavis semper simillimas.
+Attamen de origine harum in genere humano varietatum aliquid certi vel
+ea ratione constitui nequit, quod in universum historica traditione
+antiquiores sint, et Iudaeorum oracula, quibus Europaei e consuetudine
+pie assentiuntur, de iisdem sileant. Cum autem Iudaeos semel in scenam
+evocaverim, eosdem non dimittendos judico, priusquam eorum exemplo
+varietatum humanarum persistentiam firmaverim. Plurima enim secula non
+suffecerunt ad abluendam istam notam vultui horum hominum adeo profunde
+insculptam, qua vel a primo intuitu asiaticam eorundem originem,
+meridie clarius perspectam habemus.
+
+Quod ad climatis temperiem attinet, illud nimirum in novae Hollandiae
+desertis siticulosis, inter calidissima jure referri potest, neque
+huius parti boreali, aequatori vicinae, ipsam africam aequinoctialem
+aestuosiorem existimarem. Insulas vero, per oceanum dispersas,
+
+[*] Ueber die körperliche Verschiedenheit des Negers vom Europäer.
+Frankf. u. Mainz 8. 1785.
+
+{9} ventorumque intra tropicos perennium halitu perflatas, saluberrima
+et amoenissima coeli temperie gaudere, navigatores quotquot ad easdem
+appulerunt omnes une ore pronunciant. Novae Zeelandiae, licet
+frequentibus procellis exagitetur alpesque suas perenninive obrutas in
+altum adtollat, nihilo tamen secius leniores sunt brumae, cum in eius
+parte extrema ad quadragesimum quintum usque gradum latitudinis in
+austrum conversa, sub ipso fine autumni herbas et frutices florentes
+legissem.
+
+Qui Carolinas, Marianas, Sandvigias, Mendocinas, Societatis et Amicorum
+insulas tenent, primae gentis homines, elegantioris sunt formae,
+colorisque purissimi castanei absque ullo nigredinis inquinamento.
+Statura eorum mediocris est, ad proceritatem accedens; capilli longi,
+densi, cincinnati, nigri; barba maribus crebra, prolixa; oculi ampli,
+iride nigrofusca; nasus latiusculus, nec simus; labia crassciuscula,
+dentes pulcherrimi. Magnates colore saepius lucidiore dignoscuntur,
+corpore proceriore, robusto, obeso, abdomine amplissimo. Sed
+exceptionem habent insulae aquae penuria laborantes E-uwa, Tonga,
+Namoka, Paschatos, quarum incolae, etiam natu principes, plerique
+gracilioris sunt formae.
+
+Ingenium horum hominum mite, morum comitate quadam et mansuetudine
+coniunctum, at in bellas in saevam ferocitatem degenerat. Respublica
+omnibus feudalis est, regis moderamini subiecta, cuius in amicorum
+insulis nullo limite circumscriptam potestatem, in societatis {10}
+archipelago potentiores vasalli coërcent. Vulgus hominum clientibus
+constat, et mancipiis glebae adscriptis, regiturque polytheismi
+superstitione, quae in Sandvigiis praesertim insulis profundiores
+videtur radices egisse, veruna etiam apud Taheitenses interdum humanas
+victimas erogat. Iis in universum monogamiae consuetudo, vix a
+nobilibus, militibusve spreta. Vestimentorum genus laxum, leve, climati
+accomodatum; balneum frigidum bis de die, matutinum et vespertinum;
+unguentorum usus inprimis inter magnates frequens; moderata in
+laboribus domesticis exercitatio; nocturni aëris intemperies sedulo
+evitatur; mollis denique libido, risus, joci, fabulae, cantilenae et
+saltationes ad tuendam sanitatem vitamque ad ultimum terminum
+protrahendam conferre videntur.
+
+Victus ratio, apud hancce gentem quam sit congrua valetudini robustae
+et integrae, videndum est. Artocarpi fructus farinaceo-pulposi ab
+Otaheitensibus, insularumque Societatis, Mendocinarum, Sandvigiarum,
+Carolinarum et Latronum indigenis loco panis adhibentur, primis octo
+mensibus in anno maturescentes, sed tamen ante maturitatem perfectam in
+cibum cedunt. Hi decorticati, foliisque obvoluti, in fornace
+subterranea per horulam assati, comeduntur. Reliquis quatuor mensibus
+musae inprimis fructus, radicesque ari, dioscoreae, dracontii, taccae,
+convolvuli, hominibus cibum suppeditant; quem ter singulis diebus
+capiunt, plerumque refrigeratum, interdum tepidum, nunquam vero
+ferventem. Artocarpi fructum, {11} quem blando alimentorum vegetabilium
+generi adnumerari non dubitem,variis modis praeparatum, sive acidulatum
+fermentatione, sive cum oleo et nucleis cocos nuciferae commixtum
+frixumque magnates quidem in deliciis habent, sed eidem lautiores
+quoque epulas adjiciunt; pisces enim sapidissimos, pullos gallinaceos,
+porcinas, caninasque carnes in conviviis magna quantitate ingurgitant.
+Horaeis porro fructibus Spondiae, Musae, Eugeniae crudis subinde
+vescuntur.
+
+Sale marino in littore radiorum solarium ope concreto in Sandvigiis
+insulis ad cibos saliendos utuntur. Societatis insulae sale concreto
+carent quidem, sed eius loco aqua oceanica pro embammate adhibetur; in
+paschatis demum insula, nimis arida et aqua pura omnino destituta, non
+raro salsam pro potu ordinario hauriunt. In Marchionis, Societatis,
+Sandvigiisque insulis scaturigines aquae frigidulae, purissimae,
+levissimae abundant, communique usui inserviunt. Qui delicatius vivunt,
+lympham nucibus cocos inclusam sorbillant. Sacerdotum autem turba et
+magnates extractum radicis piperis methystici potant, quod non solum
+toxicis viribus eosdem inebriat, somnoque gravi opprimit, sed etiam
+corpus lente emaciat, et leprae obnoxium reddit. Abominandum hocce
+temetum in amicorum insulis praesertim usitatissimum est. Ibidem
+plurium causarum juncta operatione plane efficitur, ut homines, ex
+eadem stirpe cum Taheitensibus et Sandvigianis prognati in universum
+tamen minus robusti evadant, eorumque proceres non adeo {12}
+pinguescant, sanguinis autem acrimonia maiore laborare videantur; unde
+vel elephantiasin, vel totius corporis squalidissimam purulentamque
+exulcerationem non raro generatam fuisse novimus. Quum enim huius
+archipelagi australiores insulae, fontibus et rivulis aquae purioris
+penitus careant, incolis suis non solum potum salubrem, sed etiam
+balnea in climate aestuoso maxime salutaria denegant. Deinde, quod
+forte maximi momenti est, blandissimi artocarpi fructus ibidem rarius
+occurrunt, atque radices jam commemoratae ari, dioscoreae, taccae,
+huius alimenti saluberrimi vices agunt, quae licet coctura vel tostione
+a volatili et fere deleteria causticitate liberentur, tamen
+adstringentium et acrium indolem non ita plane exuunt, ut suspicionem
+movere omnino non valerent, apud homines iisdem perpetuo altos tandem
+massam sanguinis et humorum exacerbari, nimiaque acredine accendi
+posse. E contra vero blandiori diaeta, horaeisque fructibus aquosis usi
+taheitenses, aquae potatores, quorum corpora crebris ablutionibus
+humectantur et emolliuntur, non possunt non obesiores reddi, cum revera
+succi corporis humani tot diluentium juncta actione nimis
+debilitarentur, nisi transpiratio in regionibus calidioribus
+abundantior, phlegma superfluum tolleret.
+
+Sunt qui climatis influxum in res humanas pertinaciter negant; ii Novam
+Zeelandiam vellem adeant, cuius regionis incolae cum Taheitensibus et
+indigenis archipelagi Amicorum sermone conveniunt, cum quibus etiam
+fabulae {13} religiosae, et traditiones, nec non ipse vultus et color
+communem iisdem originem fuisse testantur. At profecto maximam inter
+hasce gentes ortam a climatis necessitate morum diversitatem
+mirarentur. Primi enim novae Zeelandiae coloni, qui ad huius regionis
+oras boreales appulerunt, saccharatum licet convolvulum chrysorrhizum,
+radicesque ari et dioscoreae secum attulissent, piscaturae tamen, quae
+facilem commodamque victus rationem iisdem pollicebatur, sese
+addixerunt; horticulturam, prout operosior erat, sensim versus
+australiorem extremitatem terrarum errabundi prorsus deseruerunt. Quare
+singulis familiis insulam pervagantibus et ab invicem segregatis, cum
+jam nullo societatis vinculo amplius compescerentur, ad libidinosam
+ferocitatem patebat reditus. Incertus enim piscaturae proventus eas
+frequenter loco migrare coëgit, ut victui prospicerent; hinc inter
+diversas familias, quotiescunque fame perductae in idem littus piscosum
+escendissent, de Littorum dominio acerrime dimicatum est. Apud victos
+inde pariter ac victores irata fames aluit inimicitiam, animosque sibi
+invicem infensiores reddidit. Eo usque tandem vindictae cupiditas apud
+irritabile illud et iracundum genus hominum invaluit, ut etiam in
+occisos hostes dentibus saevire assueverint. Cum igitur bellicam
+virtutem et fortitudinem maximi faciant, neque cuiquam honorem habeant,
+nisi corporis viribus plurimum polleat, hinc iniquam et vere tyrannicam
+in sexum sequiorem potestatem exercent; quin spretas ac despectas
+uxores non solum ad vilissima, eaque molestiora officia adigunt, {14}
+sed et matrem septennes pueri impune conviciantur aut scelesta manu
+feriunt.
+
+Corpus a frigoris iniuria pannis e phormio textis, plumisque avium aut
+pelle canina munitis tuentur. Sed igni circumiacentibus intra fumosa
+tuguria munditiae nulla cura est, cum ab omni lavatione squalidi atque
+pediculosi abhorreant, nec non pigmento rubro et oleo rancido vultum
+foedare consueverint, ut hostibus terrorem injiciant. Victus,
+quemadmodum superius monui, praecipuus pisculentus est, piscibus enim
+et recenter captis, et ad solem exsiccatis vescuntur. Docuit tamen
+etiam dira necessitas ad sylvas confugere, filicumque radices medulla
+farctas effodere, dum vexatum procellis
+
+                                 atrum
+          defendens pisces hiemat mare.
+
+Harum filicum in borealiori insula, quae populosior est, cum ingentes
+acervos collectos vidisset Cl. Crozet, simulque comperuisset radicum
+Convolvuli, ari et dioscoreae culturam ibidem non plane negligi,
+hominibus Novae Zeelandiae victum vegetabilem esse nimis festinanter
+inde collegit. Idem navarchus experientissimus apud incolas istius
+regionis frequentem gummi cuiusdam calefacientis comissationem
+observavit. Neque iam recuso, in calidiore Novae Zeelandiae parte,
+advenas e Zona torrida homines consuetudinem vegetabilis alimenti
+conservasse; quin potius libenter concedam hoc stabili et minus
+erratico vitae genere effectum fuisse, ut numerus eorum magis {15}
+accresceret, civitatisque et regiae potestatis primordia ibidem una
+progerminarent. Verum ex autoptarum consensu facile colligitur,
+barbaros in boreali Novae Zeelandiae parte horrido carnium humanarum
+adpetitu, ferocissimo in hostes animo, ad vindictam iramque
+proclivitate non solum australiores familias, mereque ichthyophagas
+aequare, sed et tanto iisdem praestare, quanto in universum viribus
+corporis membrorumque immanitate eas antecellant. Qui ciborum ad animi
+adfectus excitandos potentiam agnoscunt huius tantae ferocitatis
+stimulos forte ab alkalescente piscium substantia petant, cum etiam in
+temperatiore insula, pisces saltim ex parte, hominum nutrimento
+inservire noverint.
+
+Similem huic differentiam, quae inter diversas nigrae gentis colonias
+intercedit, brevissimis verbis expediam. Ex his, qui Novae Caledoniae
+insulam aridam et montuosam incolunt homines reliquos mansuetudine
+pacisque studio superare videntur, Statura iis aliquanto procerior,
+color fuscus quidem, sed ad castaneum vergens: capilli torti, nec tamen
+plane ut in aethiope lanati. Eorum arva plantationi radicum ari et
+dioscoreaa idonea, in regione littorali, aquis marinis stagnantibus
+subinundata et rhizophorae, ficuumque radicantium denso frutice
+intercepta, ligonibus sedulo confodiuntur. Soli sterilitas autem
+improbum incolarum laborem parce nimis remuneratur; quare et piscatu
+vitam sustentant, et ad sylvestria succedanea e regno vegetabili
+recurrunt, corticesque insipidos hibisci tiliacei exsugunt. {16}
+
+Novarum Hebridum contra foecundissima tellus est, quas scilicet calor
+intestinus vulcani non solum refocillet, sed et late dispersus
+laetificet cinis. Ibidem hortuli, quos indigenarum industria plantavit,
+intra spissum undique nemus absconditi latent, Musae inprimis
+fructibus, citro, ficubus edulibus, nucum vario genere, tum etiam ari
+et dioscoreae radicibus divites. Ipsa hinc inde farinosis onusta
+fructibus artocarpus, licet minus frequens, conspicitur; domesticae
+porro volucres suumque greges circa domicilia vagantur. Succurreret
+cuiquam forte illam naturae altricis ubertatem intuenti, ut in hisce
+insulis hominum stirpem bene saginatam, corpulentam, segniorem,
+imbellem, pacisque et veneris, otio quae maxime aluntur, artibus
+deditam exspectaret. Enimvero miraretur quod citra spem illi obviam
+fierent (praeprimis in Malicollo insula) nigerrimi homunciones, naso
+simo, angulo Camperi acutiore [*], capillitio crispo et lanato, exiles,
+macilenti, deformes, nudi, cingulo armillisque strictissimis coarctati,
+garruli, ingeniosi, astuti, histriones, agilissimi, irrequieti,
+suspiciosi, trepidi, sagittis clavisque perpetuo armati, mulierum
+osores, anthropophagi! Quod vero insulae Tannae indigenis contigerit,
+mallicollensibus ingenio magis mitescere, eosque proceritate corporis
+artuumque masculo vigore superare, id procul omni dubitatione,
+familiari quam habent cum quadam albidae gentis colonia consuetudini
+
+[*] Ex occursu linearum, alterius ab osse frontali, alterius a meatu
+auditorio, ad dentes incisores superiores, ductarum.
+
+{17} tribuendum est. Nam praeter vernaculam suam, intelligebant etiam
+linguam societatis et amicorum insulis communem, eamque ultra proximam
+insulam Irronan, in alia, cui nomen Itonga, in usu esse nobis
+referebant.
+
+Haec praemittenda mihi videbantur, cum adumbrationem plantarum molitus
+essem, quae ad rem cibariam in terris australibus pertinent; neque
+iniucundum hunc introitum, nec prorsus inutilem ratus, qui etsi nova et
+inaudita non proferat, certis tamen et fide dignis observationibus
+doctrinae utiliori ministret. Equidem mihi videor illorum opinionem
+recte amplexum esse, qui maximam inter hominum familias diversitatem
+organicam, ab ipso generationis typo derivandam, morumque notas
+characteristicas, et consuetudinum perpetuitatem imitatione maiorum
+oriundam existimant; climati tamen aliquid virium inesse ad
+inflectendos animos non omnino recusant. Sed etiam in cibi potusque
+diversis generibus, non solum corporis humani fabricam singulariter
+renovandi immutandique, verum ipsiusmet animi energiam excitandi aut
+demulcendi vim sane maximam delitescere, celeberrimi nominis viri
+strenuis argumentis demonstrare conati sunt. Famis enim sitisque dolore
+sollicitatos homines, ut detritas de corpore particulas novis
+supplementis restituant, diluantque sanguinem motu naturali spissatum,
+alkalescentem edulcorando restaurent, ex deglutitis et in ventriculo
+solutis corporibus organicis paratum succum tubulis villosae tunicae
+susceptum, et in glandularum plexibus demum assimilatum, venis haurire
+{18} quidem, eoque machinam animalem perpetuo resarcire, sed pro
+diversa principiorum in alimentis miscela diversissimum profecto
+habitum nancisci asseruerunt, cuius etiam in sensus internos reactionem
+manifestam simili ratione contingere arbitrati sunt, qua mutato
+instrumentorum mechanismo, effectuum discrimina in operibus humano
+artificio elaboratis plane deprehenduntur. Adduxerunt in huius
+doctrinae defensionem exempla morborum varii generis, quorum fons et
+origo sublato elementorum nostri corporis aequilibrio debetur,
+sanandorum autem ratio in eodem mutata diaeta adhibitisque remediis
+efficacibus restituendo consistit. Tum in medium porro protulerunt
+animi affectus hoc vel illo cibo potuve interdum sopitos aut
+exsuscitatos; nec non denique inter tot gentium diversissima ingenia,
+mitissimum phytiphagis, atrox et bellicosum sola carne vescentibus
+tribuerunt. Cum autem singula, quibus haec opinio fulciri solet
+argumenta, post Hallerum denuo recensere [*] supervacaneum et citra
+huius opellae propositum foret, id unum, missis coniecturis fallacibus
+adiiciam, ad immutandum typum varietatum humanarum, ex observationibus
+superius enumeratis, non adeo notabilem esse in terris australibus
+ciborum efficaciam.
+
+Plantae in oceani australis insulis esculentae quinquaginta quatuor in
+universum mihi innotuerunt, quarum viginti sex ante nostrum iter
+botanicis incognitae erant. Harum universalissimae
+
+[*] Physiolog. Tom. VI. Lib. IX. Sect. 3.
+
+{19} sunt, (cum etiam extra tropicos reperiantur,) Convolvulus
+chrysorrhizus, Dioscorea alata, Arum macrorhizon et esculentum; his
+proxime accedunt, tropico tamen inclusae: Musa paradisiaca, Cocos
+nucifera et Artocarpus incisa; reliquae omnes in una alterave insularum
+congerie desiderantur, aut minus frequentes sunt. Numeravi porro in
+Societatis insulis species esculentas viginti sex; in amicorum insulis
+totidem; sed nonnullas diversas; in novis Hebridibus circiter viginti;
+in nova Zeelandia sedecim, quibus comprehenduntur antiscorbuticae
+septem Europaeis quidem pretiosissimae, sed quarum apud incolas ad rem
+cibariam nullus est usus.
+
+Erunt forte, qui in tenui laborem me collocasse existiment. Attamen non
+defuit, qui ex hac tenuitate oriundam gloriolam legitimis dominis
+praeriperet, et alienae messi immiteret falcem [*]. Taceam rerum
+naturalium
+
+[*] Dederat in pater optimus, flagitanti amico, ut aliquot centurias
+plantarum ex Itinere relatarum, magni nominis Viro et modo non montes
+auri pollicenti, ea tamen lege atque omine, dono concederet, ne iis
+quisquam uteretur, ad descriptiones ex siccis speciminibus parandas;
+quum scilicet easdem Pater et Ego juncta opera evulgare nobis
+proposuissemus. Verum in _Supplemento Plantarum Systematis Vegetabilium
+a_ CAROLO _a_ LINNE Filio Brunsvigae 1781. edito, in qualibet pagina
+plantis Oceani Pacifici, Botanophili mirantur iam nunc nomen Equitis
+BAECK, adscriptum; qui nunquam hoc mare adiit.
+
+        Sic Vos non Vobis
+        Hos ego versiculos feci, tulit alter honores!
+
+{20} cognitionem, usu semper esse anteriorem; et earum quae nostro
+itinere innotuerunt ad hominum necessitates adplicationem, etiamsi
+parte faltem aequalibus nostris contingat, posteritati tamen clarissime
+perspiciendam demum reservari.
+
+Quod reliquum est, quemadmodum adversaria mea rursus evolventi grata
+mihi erat absoluti peripli commemoratio, ita spero, mi lector,
+descriptiones sequentes botanicas et tibi aliquam voluptatem allaturas,
+qua mecum gaudeas fruarisque.
+
+                              Datum Vilnae Lithuanicae, anno MDCCLXXXVI.
+                                                    D. GEORGIVS FORSTER.
+
+{21}
+
+                               CATALOGVS
+                         PLANTARVM ESCVLENTARVM
+                              AUSTRASIAE.
+
+                       1. Fructus.
+     Nomina                         Classes
+  1. Artocarpus incisa              Monoecia Monandria.
+  2. Musa paradisiaca               Polygamia Monoecia.
+  3. Spondias dulcis †              Decandria Pentagynia.
+  4. Citrus Aurantium.              Polyadelphia Icosandria.
+  5. Citrus decumana                Polyadelphia Icosandria.
+  6. Eugenia malaccensis            Icosandria Monogynia.
+  7. Ficus aspera †                 Polygamia Trioecia.
+  8. Ficus granatum †               Polygamia Trioecia.
+  9. Ficus indica                   Polygamia Trioecia.
+  10. Pandanus odoratissima         Dioecia Monandria.
+  11. Morinda citrifolia            Pentandria Monoginia.
+  12. Solanum aviculare †           Pentandria Monoginia.
+  13. Achras dissecta               Hexandria Monogynia.
+  14. Crataeva religiosa †          Dodecandria Monogynia.
+  15. Coriaria sarmentosa †         Dioecia Decandria.
+                      2. Nuces.
+  16. Cocos nucifera                Appendix Palmae.
+  17. Corypha umbraculifera.        Appendix Palmae.
+  18. Inocarpus edulis              Decandria Monogynia.
+  19. Terminalia Catappa            Polygamia Monoecia.
+  20. Terminalia glabrata †         Polygamia Monoecia.
+  21. Maba major †                  Dioecia Triandria.
+  22. Sterculia Balanghas.          Monoecia Monadelphia.
+  23. Sterculia foetida             Monoecia Monadelphia.
+                      3. Radices.
+  24. Convolvulus chrysorrhizus †   Pentandria Monogynia.
+{22} 25 Dioscorea alata             Dioecia Hexandria.
+   26. Arum esculentum              Gynandria Polyandria.
+   27. Arum macrorhizon             Gynandria Polyandria.
+   28. Tacca pinnatifida            Dodecandria Trigynia.
+   29. Dracontium polyphyllum       Gynandria Polyandria.
+   30. Dgidgi                       radices
+   31. Mawhaha                      radices
+   32. Dracaena terminalis.         Hexandria Monogynia.
+                      4. Olera.
+   33. Dracaena indivisa †          Hexandria Monogynia.
+   34. Areca oleracea?              Appendix Palmae.
+   35. Areca sapida †               Appendix Palmae.
+   36. Apium graveolens             Pentandria Digynia.
+   37. Tetragonia halimifolia †     Icosandria Pentagynia.
+   38. Lepidium oleraceum †         Tetradynamia Siliculosa.
+   39 Lepidium Piscidium †          Tetradynamia Siliculosa.
+   40. Sonchus oleraceus            Syngenesia P. aequalis.
+   41. Boerhaavia erecta            Monandria Monogynia.
+   42. Solanum viride †             Pentandria Monogynia
+   43. Portulaca lutea †            Dodecandria Monogynia.
+                     5. Succedanea.
+   44. Avicennia resinifera †       Didynamia Angiospermia.
+   45. Hibiscus tiliaceus           Monadelphia Polyandria
+   46. Coix Lacryma                 Monoecia Triandria.
+   47. Pteris esculenta †           Cryptogamia Filices.
+   48 Polypodium medullare †        Cryptogamia Filices.
+   49. Polypodium dichotomum        Cryptogamia Filices.
+                     6. Potulenta.
+   50. Piper methysticum †          Diandria Trigynia.
+   51 Saccharum officinarum         Triandria Digynia.
+   52. Convolvulus Turpethum        Pentandria Monogynia.
+   53 Melaleuca scoparia            Icosandria Monogynia.
+   54 Dacrydium cupressinum †       Dioecia.
+
+Signo † notatae in editione XIV. Systematis Vegetabilium Linnaei, quae
+cura Cel. Io. Andr. Murrayi prodiit, non reperiuntur.
+
+
+{23}
+
+                           Plantae Esculentae
+                      Insularum Oceani Australis.
+
+
+                                   I.
+                                FRVCTVS.
+
+1. ARTOCARPVS INCISA. F.
+
+A foliis incisis. _M. S. V._ p. 838. (Monogr. mea: _vom Brodbaum_ 4to
+1784).
+
+Arbor crassitie hominis, altitudine quadraginta pedum et ultra, trunco
+erecto, ligno molliori, levi, flavicante; libro efibrillis
+rigidiusculis reticulato, albo; cortice laevi, rimoso, pallide cinereo
+tuberculis exiguis raris asperso. Arboris partes laesae omnes liquorem
+fundunt glutinosum lacteum.
+
+Rami in comam amplam subglobosam fastigiati, inferiores longiores,
+distantia decem sive duodecim {24} pedum supra terram e trunco
+prodeunt, fere horizontaliter patentes, sparsi, subverticillati. Ramuli
+adscendentes, apice floriferi, fructiferique.
+
+Folia alterna, petiolata, ovata, supra medium in lobos septem novemve
+lanceolatos acutos profunde dissecta, sinubus rotundatis; caeterum
+integerrima, utrinque glabra, laevia, patentia, laete virentia, subtus
+pallidiora, membranacea, sesquipedalia, undecim pollices lata, venosa,
+nervis crassis, numero loborum e rachi communi excurrentium. Folia
+juniora sicut partes omnes teneriores arboris tactu glutinosa sunt.
+
+Petioli teretiusculi, laeves, adscendentes, bipollicares. Stipulae
+binae, folia juniora involventes, lanceolatae, acuminatae, concavae,
+integrae, intus laeves, extrorsum pilosae, deciduae, tripollicares.
+
+Pedunculi in apice ramulorum, et axillis foliorum summorum solitarii,
+teretes, pilis raris conspersi, erecti, bipollicares.
+
+  ♂ _Flores Masculi_ ad folia summa:
+
+CAL. Spathae nullae. _Amentum_ subcylindricum, clavatum, carnosum,
+erectum, spithameum, flosculis fessilibus, exiguis innumeris, tectum,
+caducum. _Perianthium_ proprium minimum, bivalve, valvulis aequalibus,
+oblongis, obtusis, concavis, arcte cohaerentibus, clausis, luteo fuscis.
+
+COR. nulla.
+
+{25}
+
+STAM. _Filamentum_ unicum brevissimum in fundo perianthii. _Anthera_
+erecta, oblonga, simplex, longitudine filamenti.
+
+  ♀ _Flores Feminei_ in apice ramulorum.
+
+CAL. _Spathae_ bivalves, ovato-lanceolatae, compressae, acuminatae,
+erectae, apice inflexae, molle, spithameae, primum clausae, deinde
+deciduae, in apice pedunculi. _Spadix? globosus_, germinibus plurimis
+connatis tectus. Perianthium nullum.
+
+COR.   nulla
+
+STAM.  nulla
+
+PIST. _Germina_ numerosa, obverse conica, connata, receptaculo innata,
+apice convexiuscula, singula superficie subhexagona. _Styli_ vix ulli,
+brevissimi simplices, numero germinum, solitarii. _Stigmata_, puncta,
+prominula, marcescentia, (in aliis varietatibus, bifida; Thunberg).
+
+PER. _Bacca_ globosa, glabriuscula superficie hexagonis conscripta,
+pallide virens; maxima dodrantalis; pulpa farinacea, alba, subfibrosa,
+maturitate succosa, flava; receptaculo clavato, carnoso,
+longitudinaliter fibroso, palmari, adnata.
+
+SEM. (in hac varietate). Rudimenta sterilia, minuta, oblongiuscula,
+emarcida, fusca, apice pilo decies longiore coronata, pulpae immersa.
+
+Varietates praecipuae huius arboris duae sunt α) _Fructu apyreno_; haec
+iterum in quinque ordines dispescitur quarum nomina lingua,
+taheitensium vernacula sunt sequentia:
+
+{26} a) _Uru_, fructu apyreno globoso, laevi, mutico, vulgatissimae,
+quam modo adumbravimus, varietati proprius.
+ b) _Maira_ fructu apyreno ovali, mutico, foliis profundius dissectis.
+ c) _Patea_, fructu apyreno, oblongo scabro, quasi squamoso.
+ d) _Tatarra_, fructu apyreno, ovali, germinibus verrucoso-
+mamillaribus stylo persistente muricatis; his accedit
+ e) _Soccus lanosus_ Rumph. herb. amboin. I. tab. 32. fructu apyreno
+muricato, intus lanato-fibroso.
+
+β) _Fructu seminifero_, cuius descriptionem dederunt Rumphius et
+Sonnerat. Haec olim in Taheiti insula cum praecedente reperiebatur, sed
+progressu temporis neglecta periit, quum apyrenae varietatis ad rem
+cibariam praestantior sit usus. Semina magnitudine fere castaneas
+exaequant, oblonga, subangulosa, utrinque in acumen produira, tunicis
+propriis, brunnea et alba, corticata, singula interstincta membranulis
+sive tunicis pluribus (e germinum abortu) et carne minus abundante
+succosa. Haecce semina in primis Celebae insulae hominibus pro alimento
+praecipuo inserviunt, qui eadem cinere fervido tosta, vel in aqua
+cocta, vorant.
+
+Apyrena artocarpi varietas conjunctim cum seminifera adhuc in marianis
+insulis reperitur; in novis porro Hebridibus ac in amicorum
+archipelago, {27} licet rarior, occurrit; copiosissima autem omnium in
+societatis et marchionis mendozae insulis, atque satis abunde in
+Sandvigiis nonnullis colitur. Vidi etiam semel artocarpi stirpem
+juniorem in arboreto quodam novae Caledoniae, ubi inter rarissimas
+procul dubio recenseri debet.
+
+Fructus hicce apyrenus perfecte maturus, pulposus, dulcescens, facile
+putrescit, atque tum alvum fertur nimis laxare; immaturus vero
+farinaceus est, et in fornace subterranea, vel etiam super igne tostus,
+saluberrimum et gratissimum nutrimentum praebet, sapore panis triticei
+non adeo dissimile, tametsi cum radicibus helianthi tuberosi sive etiam
+solani tuberosi quandam similitudinem habeat. Octo continuis mensibus
+taheitenses et adiacentium insularum marchionis incolae hocce inprimis
+cibo vescuntur, neque per reliquos quatuor menses, a Septembre in finem
+Decembris, sub ipso inflorescentiae et grossificationis tempore eodem
+prorsus carent, cum loco recentis fructus massam pulpae, fermentatione
+acidulatam, in panis speciem coquere probe norint, eamque in deliciis
+habeant. Liber arboris ad rem vestiariam pari modo, quo mori
+papyriferae liber, adhibetur; lignum pro cymbis, domibusque
+exstruendis; amenta mascula pro fomite igniario; folia pro cibis
+involvendis manibusque abstergendis inserviunt. Succus lactescens
+glutinosus coquendo inspissatur, et in viscum avibus capiendis idoneum
+convertitur; idem admistum aliis ingredientibus gluten praebet, quod
+hydriarum fissuris illini solet. Trium arborum annona ad alendum unum
+hominem sufficit.
+
+{28}
+
+2. MVSA PARADISIACA. Linn.
+
+M.(_Paradisiaca_) spadice nutante, floribus masculis persistentibus.
+_M. S. V._ p. 902. n. 1.
+
+M. (_Sapientum_) spadice nutante, floribus masculis deciduis _M. S. V._
+p. 902. n. 2.
+
+Planta culta per totius orbis regiones calidas, in america ante
+hispanorum ad ventum ignota, e guinea ad americae insulas
+aequinoctiales primum allata, in oceanum pacificum una cum hominibus ex
+orientali India migrasse videtur, ibidem enim in omnibus insulis,
+praeter demersas et desertas, passim colitur, et in varietates
+praesertim in archipelagis amicorum et societatis numerosas
+degeneravit. Propagatur e radice et stolonibus, foveae immissis, cum
+cinere herbisque concrematis, quibus calcis e conchis interdum
+pauxilium adjici solet, ut fructus cito progerminent, hae praecociores
+varietates mense sexto, immo quarto nonnunquam fructus proferunt,
+reliquae racemo nonnisi post decimum octavum mensem onustae ccrnuntur.
+Fructificatione peracta, tota stirps, excepta tamen radice novos agente
+surculos, emoritur.
+
+Fructus, prout diversa est varietatum indoles, alii crudi alii nonnisi
+tosti sive assati comeduntur; horum priores hortorum taheitensium
+praecipuum ornamentum constituunt; posteriores vero, utpote frigori
+magis assuefacti, in montuosis insularum tractibus, locos nemoribus
+undiquaque clausos occupant. In moluccano archipelago, pulpam tostam
+horum fructuum masticando in pultem reducunt matres, quam infantibus
+etiam nolentibus in {29} os ingerunt, eosque ut offam deglutiant variis
+artibus cogunt. Cibus est facilis digestionis, iis qui e onginquo
+itinere maritimo adpel unt maxime salutaris et delicatus; mihi tamen,
+propter nauseosam glutinosamque dulcedinem semper iniucundus. Viscida
+haecce qualitas videtur stomacho debiliori infensa, constipat alvum,
+flatusque gignit. Rumphius etiam maturos crudosque musaefructus, cum
+facile putrescant, in dysenteria epidemica, malignitatem humorum
+adaugere credidit. Idem indefessus naturae observator, in moluccano
+archipelago sedecim musae varietates enumerat, quarum plurimae etiam in
+austrasiae insulis reperiuntur: eas vero verbis exprimere, vel
+differentiam specificam veram qua Musam paradisiacam a Musa sapientum
+dignoscere liceret, me nondum reperire potuisse, lubenter fateor.
+Figuras enim Ehretianas a Rheedianis (Trew. t. 21. 22. 23 et Hort.
+Malab. p. I. t.12. 13. 14). nihil discrepare quis non videt, licet b.
+Linnaeus illas Musae sapientum, has vero paradisiacae tribuerit ?
+
+I. _Musa corniculuta_, (Pisang Tando) cornu bovis figura et magnitudine
+fructuum aemulat; variat fructibus mollibus flauis, quos femineos
+vocant, et masculis dictis, duris, viridibus, longioribus, austeris, ut
+nonnisi tosti aut cocti mensae apponi queant. Singula bacca saepe
+duodecim pollices longitudine exaequat, brachii fere crassitiem
+adtingit; quare racemus suffulciri solet, ne pondere suo abrumpatur.
+
+II. _Musa exsucca_ (Pisang Gabba Gabba) parum a praecedente differt,
+nisi fructu tenuiore, ex albido flavescente, substantia siccissima,
+austera, donec sub cineribus fervidis torreatur.
+
+{30} III. _Musa tetragona_ (Pisang Cro) fructus gerit spithameos,
+angulosos, plerumque tetragonos, extus virentes, intus albos, acidulos,
+duriusculos.
+
+IV. _Musa acicularis_ (Pisang Dsiernang). Fructus palmares, trigoni,
+acuminati, acumine longo filiformi, styli persistentis vestigio.
+Racemus septem pedes nonnumquam longus est, ducentos et quinquaginta
+fructus in septemdecim verticillis non raro adnectens. Cortex, medullae
+rufescenti et sacchari instar micanti, fortius quam in congeneribus
+adhaeret.
+
+V. _Musa coriacea_ (Pisang Culit-Tabal). Cortex crassissimus fructus,
+recondit pulpam mollem, pallide rufam, pentagonam, ora interiore
+angustissima. Haec quoque frixa aut tosta solet mensis apponi, licet
+etiam cruda eadem in cibum cedat modo bene matura sit. Ad hasce quinque
+varietates, quibus etiam decima adnumeranda, taheitensium varietates
+sylvaticae et montanae, quas Febhs vocant, mihi spectare videntur;
+harum maxima, maturitate extus et intus intense fulvo colore gaudet.
+
+VI. _Musa mensaria_ (Pisang Medji). Hujus fructus palmaris sive
+spithameus, teretiusculus, striis notatur quinque elevatioribus,
+obliteratis, inaequaliter dispositis, vt fere trigonus appareat.
+Maturus e sulphureo colore flavescit, facillime decorticandus, pulpa
+albida, fractura micante, sapida- dulci, ac si aliquid aquae rosarum
+esset admistum. Ad torrendum, nisi immaturus, non valet, sed crudus
+comeditur; facile putrescit, cum et cito ad maturitatem perficiatur.
+Stipes altior quam in pluribus varietatibus; folia fusco maculata. Haec
+{31} imprimis et proxima sequens, apud taheitenses Meiya vocatur,
+vocabulo quod a voce malaica Medji parum absonum videtur.
+
+VII. _Musa regia_, (Pisang Radja) gaudet fructu praecedenti affini, sed
+multo breviore, vix digiti longitudine, pollicem crasso, glabro,
+aequali, cortice tenuiore, sapore dulci et grato; quare a bataviae
+urbis incolis, maxime appetitur & reliquis musae varietatibus palmam
+praeripit, mensisque crudus apponitur.
+
+VII. _Musa purpurascens_ (Pisang Mera) forma fructuum cum M. regia
+convenit, colore differt; cum enim progerminent fructus externe
+purpureo fusci sunt, croceo intermixto. Caro alba, acidula, edulis
+tamen sine praeparatione. Stipites, folia et racemi colore purpureo
+virenti infecti sunt.
+
+IX. _Musa punctata_ (Pisang Salpicado). Fructus brevis, teretiusculus,
+flavus, minute nigro punctatus: cetera cum M. mensaria conveniunt.
+
+X. _Musa dorsata_ (Pisang Swangi). Fructus crassus, sex pollicaris,
+protuberantiis longitudinalibus inaequaliter angulosus lateribus
+irregularibus. Pulpa intense lutea seu rufa, duriuscula mucosa,
+acidula, subaustera; qua nec frixa, nec cruda vescuntur homines, ad
+pultem tamen pro infantibus usurpatur, et omnium vilissima habetur.
+Stirps reliquis altior.
+
+XI. _Musa granulosa_ (Pisang Batu sive Bidji); figura praecedentis,
+teres, tenuior, virens, pulpa mucosa, molli tamen et dulcescente,
+repleta seminibus duris, nigricantibus instar paeoniae seminum. Stipes
+altus, per surculos adeo multiplicatur ut brevi tempore magnum spatium
+occupet. Linnaeus hanc varietatem Musae Troglodytarum adnumerat.
+
+{32} XII. _Musa fatua_ (Pisang Alpnuru) fructus geri paruos, crassos,
+tereti compressiusculos, cinerascentes, viscosos, saporis fatui, tostos
+tamen bonos.
+
+XIII. _Musa coarctata_ (Pisang Bombor) est fructu breuissimo, ovi
+gallinacei magnitudine, glabro, tetragono, apice obtuso, crudo eduli.
+
+XIV. _Musa papillosa_, (Pisang Sussu). Minores quam M. mensaria fructis
+gerit, pollicem crassos, angulosos, apice papillaeformi, flavescentes,
+pulpa duriuscula, acidula, vili, quae torreri potius debet, quam cruda
+comedi. Folia huius varietatis tenella, farina quasi conspersa sunt,
+qua abrasa, color fuscus adparet, qualis et deglupta extima membrana in
+stipite conspicitur.
+
+XV. _Musa pumila_ (Pisang Kitsil) Stirps humilis, cum foliis humanam
+altitudinem non excedit. Fructus rotundi, digiti longitudine, sed
+crassiores, extus lutei, glabri, cortice tenui fragili. Pulpa dura,
+acidula, tamen ut fertur, grata, et ficuum saporem suscipiens si fuerit
+in aqua cocta. Racemus licet humilis tamen usque ad ducentos fructus
+non raro profert. Haec varietas gaudet solo pingui, terraque daedalaea,
+lapillis mixta, atque hortos montanos amat in syluis absconditos. Musae
+reigae degenerem filiam putat Rumphius.
+
+XVI. _Musa lunaris_ (Pisang Bulang-trang). Huius racemus, stipes, folia
+flaua sunt, fructusque albidi, ita ut noctu lunae radiis illuminata,
+tota stirps similem colorem reflectat, unde nomen malaicum nacta est.
+
+{33}
+
+3. SPONDIAS DULCIS. F.
+
+S. petiolis teretibus sexjugis: foliolis serratis, costatisque F.
+
+Arbor procera, umbrosa, coma pulcra, late diffusa. Truncus crassitie,
+corpus humanum superat, erectus, ramosus, quinquaginta pedum
+altitudine, quotannis ante nouam foliationem florens, mense septembri.
+
+Rami diffusi, patentes, teretes, cortice brunneo, scabro. Folia sparsa,
+conferta, petiolata, pinnata, sexjuga cum impari; foliola
+oblongo-lanceolata, acuminata, subtilissime serrata, glabra, patentia,
+costata neruo marginali, venis plurimis simplicibus parallelis rectis,
+a rachi media in costas ad angulum rectum excurrentibus, saturate
+viridia, palmaria. Petioli communes, teretes, laeues, patentes,
+pedales; proprii suboppositi compressiusculi, semipollicares.
+
+Pedunculus in apice ramulorum uniuersalis, terminalis, teres, laeuis,
+erectiusculus, longitudine petioli communis. Racemus magnus compositus.
+Pedunculi partiales alterni teretes, glabri, horizontales, superiores
+sensim minores adscendentes palmares; pedicelli vniflori, sparsi
+breuissimi. Flores parui, flavo-virentes.
+
+CAL. _Perianthum inferum_, minimum, quinquepartitum laciniis
+aequalibus, acutis pallide viridibus.
+
+COR. _Petala_ quinque lanceolata, patentissima, calycis laciniis
+interjecta, infera. _Nectarium?_ Annulus carnosus, torulosus, germen
+cingens, flauus.
+
+{34}
+
+STAM. _Filamenta_ decem subulata, petalis breuiora patentia. _Antherae_
+ouatae, erecto-incumbentes.
+
+PIST. _Germina_ quinque minuta, globosa, basi coalita. _Styli_ quinque
+cylindrici, basi approximati, apice recurvi, longitudine staminum.
+_Stigmata_ obtusa.
+
+PER. _Drupa_ oualis, obtusa, magna, glaberrima, aurea, odore sub
+nauseoso foetida; putamine exteriore tenuissimo, punctato, acri, dentes
+arrodente, amaricante, pulpa carnosa, succulenta, dulci, acidulata,
+aromatica, fragrante. _Nux_ in medio dura, lignosa, ouata, fibrillis
+duris pungentibus undiquaque echinata, quinquelocularis, dissepimentis
+membranaceis.
+
+SEM. Nuclei solitarii, ouati, compressi, quamplurimum abortini.
+
+Haec spondiae species per societatis et Amicorum insulas colitur,
+inprimis in Taheiti frequentissima. Eius fructis siue vere aurea poma
+in racemulis nutantibus proueniunt, et sapidissimis saluberrimisque
+jure adnumerantur, ejusdem fere ac Bromeliae Ananae fructus saporis,
+sitim non solum facile tollunt sedantque, sed etiam aegris, licet
+biliosis affectionibus et obstructionibus laborantibus, sine discrimine
+conceduntur; aluum leniter reserantes, antiseptici, et inter horaeos
+fructus dignissimi qui principem locum occupent. Nomen taheitensium
+_e-Vi_. Determinent alii, an haec nostra species cum spondia Myrobalano
+Linnaei, M. S. V. p. 428. n. 2. siue Celeberr. Jacquini spondia Mombin
+conjungenda sit, nec ne. Si rectius segregavi, {35} Linnaeanae species
+novis differentiis specificis donandae sunt.
+
+4. CITRUS AURANTIUM. Linn.
+
+C. petiolis alatis, foliis acuminatis. _M. S. V._ p. 697. n. 2.
+
+Aurantia mala in novis Hebridibus reperiri auctor erat Petrus Fernandez
+de Quiros, primus harum insularum inventor, qui eadem terrae Manicolae,
+sive Mallicollo tribuit. In hortis harum regionum littori vicinis tamen
+hanc arborem nusquam vidimus, neque forsan testimonio nauarchi hispani
+fidem adhibuissemus, nisi tandem in extrema huius archipelagi versus
+austrum porrecta Tanna insula, fructus aliquot immaturos incolae semel
+venum obtulissent, quos pro veris aurantiis agnouimus. Non igitur
+dubitandum est, quin haecce hesperidum poma ab indigenis culta, rei
+cibariae harum insularum adnumeranda veniant.
+
+5. CITRUS DECUMANA. Linn.
+
+C. petiolis alatis: foliis obtusis emarginatis. _M. S. V._ p. 697. n. 3.
+
+Frequentissima est in amicorum insulis arbor procera, umbrosa, pulchre
+comata, floribus fragrantissimis, fructibus maximis sapidissimis
+superbiens, qui belgice _Pompelmoesen_ audiunt et inter congeneres
+omnium saluberrimi habentur. Hi fructus toti constant paruis
+folliculis, facile et quidem sine diruptione pelliculae separabilibus.
+Apud incolas insularum Euwa siue Medioburgi, Namoka siue Rotterodami et
+Tongatabu siue Amstelodami, nomine _Moliya_ distinguuntur.
+
+{36}
+
+6. EUGENIA MALACCENSIS. Linn.
+
+E. foliis integerrimis, pedunculis ramosis lateralibus. _M. S. V._ p.
+461.
+
+Haec arbor plurimis insulis oceani australis intra tropicos communis
+est, et praesertim colitur in Taheiti, congeriebus insularum
+Societatis, Marchionis, Sandvigii, nouarumque Hebridum. Fructus
+albicans est, roseo tinctus, pyriformis, interdum pugni fere
+magnitudine, sed pierumque multo minor, ex acidulo saccharatus, aqueus
+et succosus; salubris itaque et etiam aegros morbo inflammatorio
+decumbentes refrigeratione confortans. Corticem tritum et in lacte
+acido epotum Rheedius inter antidysenterica laudat. (Hort. Malab. I. p.
+30.) Nucleus in centro drupae solitarius est; perperam Parkinsonius
+(Journal p. 40) pericarpium seminibus farctum dixit. Arbor magna et
+procera, foliis maximis umbrosa, taheitensibus _Heiya_ vocatur. Dubito
+an praeter hancce speciem etiam Eugenia Jambos inter plantas insularum
+australium ciuitate donanda sit.
+
+7. FICUS ASPERA. F.
+
+F. foliis oblique cordatis, sinuato-dentatis, vtrinque asperis:
+fructibus turbinatis, calycis margine obsoleto adnato. F.
+
+Arbor quatuor siue quinque orgyarum altitudine, foliosa, ramis
+articulatis.
+
+Folia alterna subpetiolata, ouato-cordata, acuminata, sinuato-dentata,
+disco interiore angustiore, vtrinque aspera, pilosa, patentia,
+spithamea. Petioli breuissimi, alterni, sparsi, teretes, superius sulco
+exarati.
+
+{37} _Receptacula_ axillaria, gemina, sessilia, turbinato-globosa,
+extus sericeo-tomentosa, alba, magnitudine Ficus Caricae Linnaei,
+carnosa, succosa, sapida. Calyx communis nullus; sed margo obsoletus
+integer vix bi seu tridentatus, receptaculum in ea regione cingit, vbi
+magis dilatari incipit.
+
+Colitur in hortis et arboretis Tannae insulae. Fructus dulces, grati,
+crudi comeduntur. Folia juniora cocta indigenis sapidum olus praebent.
+
+Confer: _Rheed. Hort. Mal._ p.III. t. 62.
+
+8. FICUS GRANATUM. F.
+
+F. foliis ouatis integerrimis: pedunculis terminalibus, geminis
+horizontaliter divergentibus, fructibus calyculatis, globosis. F.
+
+Habitat cum praecedente in Tanna, similiter culta, propter fructum
+edulem, dulcescentem, aquosum, subinsipidum.
+
+Arbo procera vmbrosa, caudice multangulo toroso. Rami omnes
+adscendentes, longi, teretiusculi, subarticulati, cinereofusci,
+inaequales, ramulis teretibus articulatis, apice tantum foliosis.
+
+Folia conferta alterna, petiolata, ouata, integerrima, glabra, venis
+raris flauis, supra intense viridia, inferne lucidiora, spithamea et
+vltra, patentia. Petioli teretiusculi, glabri, patentes, longitudine
+quadrantis foliorum. Gemmae terminales arctiores spiniformes, totae
+pilis badiis vestitae.
+
+Pedunculi axillares folii supremi et proximi, gemini, crassi,
+breuissimi, teretes, horizontaliter diuergentes.
+
+{38} Receptacula globosa, magnitudine Ficus Caricas superant,
+subpubescentia, rosea, maculis flauis conspersa, intus purpurea,
+pulposa, mollia.
+
+Calyx communis triphyllus, foliolis ouato subrotundis paruis.
+
+9. FICUS INDICA? Linn.
+
+F. foliis lanceolatis, integerrimis petiolatis, pedunculis aggregatis,
+ramis radicantibus. _M. S. V._ p. 922. n. 7.
+
+Arbor in Tanna, nouarum Hebridum insula, umbrosa, excelsa propter
+fructas parvulos et insipidos tolebatur. Hi ex eodem puncto sen
+cicatricula caudicis plures aggregati proueniebant, ita vt totus
+truncus iisdem consitus esset. Descriptionem huius speciei ex meis
+Schedis deperdidi; an cum Ficu indica Linnaei merito conjungenda sit,
+etiamnum dubito. Eiusdem forte speciei est Ficus in Tongatabu sponte
+nascens, cuius fructibus Cerasi minoris magnitudine incolae
+vescebantur, et iisdem nomen _Matte_ imponebant, quod in o-Taheiti
+diuersae prorsus speciei, nempe F. _tinctoriae_ proprium. Cook. it.
+nouiss. Vol. 1. pag. 332.
+
+10. PANDANUS ODORATISSIMA. Linn. _M. S. V._ p. 878.
+
+Athrodactylis spinosa _Forst. Charact. gen._ 75.
+
+Radix. Caudices plures descendentes, divergentes, altitudine
+semiorgyali supra terram elevati, simplices, teretes, glabri brachii
+crassitie, apice, vbi terram intrant, fibris aliquot praediti.
+
+{39} Truncus arboreus bi seu triorgyalis, crassitie femoris, teres
+laeuis, annulis eleuatis approximatis notatus, erectus, interdum
+ramosus, cortice tenui cinereo, ligno spongioso. Rami subdichotomi,
+erecto patentes, saepe diuaricati, teretes, e casu foliorum annulati,
+apice foliosi.
+
+Folia terminalia confertissima tristicha vel tetrasticha, sessilia,
+ensata, longissima, acuta, extus carinata, aculeis antrorsum versis
+confertis in margine et carina vndique spinosa, venis transuersis
+rectis carinae perpendicularibus notata, glauca, tripedalia, basi binos
+pollices lata.
+
+Pedunculus terminalis, nutans, teres, glaber, bipedalis, Thyrso
+decomposito, candido, pedunculis partialibus palmaribus, teretibus
+varie ramosis glabris, pedicellis pollicaribus, teretibus,
+erectopatentibus, staminibus consitis.
+
+  ♂. Flores masculi. Bracteae alternae, lanceolatae, tenerae,
+  erectae, margine serratospinosae, candidae, sesquipedales, florum
+  thyrsos colligentes, loco spathae.
+
+CAL.   nulla.
+COR.   nulla.
+
+STAM. _Filamenta_ plurima (duodecim ad triginta) pedicellis sparsim
+insidentia brevissima. Antherae oblongae, acutiusculae, erectae,
+filamentis multo longiores.
+
+  ♀ Flores feminei in diversa arbore. Folia terminalia quatuor
+  ensata, dorso et margine serrato spinosa, pedalia, conniventia,
+  spatharum vices agunt.
+
+{40}
+
+CAL. _Spadix_ terminalis subglobosus fructificationibus numerosis
+tectus, viridis, spathis non inclusus. Perianthium nullum.
+
+COR. nulla.
+
+PIST. _Germina_ numerosa, cuneiformia, apice convexa, interdum
+tuberculata, receptaculo conico sive globoso insidentia.
+
+_Styli?_ rudimenta aliquot brevissima, in apice cuiusvis germinis vel e
+centro prodeuntia vel etiam in quolibet tuberculo germinis, solitarie
+dispersa.
+
+PER. Fructis subglobosus, maximus compositus. _Drupae_ numerosae,
+cuneate, apice convexae, lateribus angulosae; farinaceae, monospermae.
+
+SEM. Solitarium, ovale, laeve, magnitudine nuclei olivae, in centro
+cuiusvis drupae.
+
+Varietates:
+α) fructibus tuberculatis discretis. _Hort. Mal_ p. jj. t. 6.
+β) fructibus convexis apice discretis, H. M. p. jj. t. 7.
+γ) fructibus convexis, trisulcis connatis. H. M. p. jj. t. 5.
+δ) fructibus convexis spinosis umbilicatis congestis. H. M. p. jj. t.
+8.
+
+Arbor littorea, sabulosa amans, sponte crescit in oris maritimis
+insularum fere omnium intra tropicos, etiam demersarum; fructu et
+foliis Bromeliae quodammodo similitudinem prae se fert; caudice
+singulari, apice tantum frondoso, palmis affinitate jungitur eodem ac
+forte maiori jure quam Stratiotes et Vallisneria. Flores masculi
+pollent odore fragrantissimo, {41} sed dantur etiam varietates
+inodorae. Arabes et Zeylonenses propter hunc odorem Pandanos masculas
+colunt; Indorum mulieres, praesertim insulas orientales in habitantium
+capillos polline antherarum odoratissimo conspergunt; folia floralia
+autem et thyrsi racemulos in cistis inter vestes reponunt. Ternatenses
+eosdem flores nondum apertos cum carne et piscibus oleris loco coquunt.
+Bandanenses folia vulneribus imponunt, in australis autem oceani
+insulis storeae inde fiunt. Fructus in India ab Elephantibus vorantur;
+in o-Taheiti et circumjacentibus insulis a pueris exsugillari solent;
+si Artocarpus defecerit, etiam adulti iisdem vescuntur. Sunt colore
+extrorsum toti aurantii, intus flavi, odorem gratissimum et aromaticum
+fragorum vel Bromeliae Ananae spargunt, substantiam pulposo-farinaceam,
+saporis primum dulcescentis deinde adstringentis austeri: vires
+stypticas iis inesse docuit Rheede in Hort Malab. Fructus taheitensibus
+_e-Vara_; flores masculi _Hinanno_.
+
+11. MORINDA CITRIFOLIA Linn.
+
+M arborea, pedunculis solitariis. _M. S. V._ p. 217.
+
+Inter fructus edules insularum australis oceani succedanei locum
+occupant huius arbusculae baccae, quae Taheitensibus _Nono_ vocantur,
+et pro cibo vsurpantur deficiente artocarpi annona. Ex Cookii novissimo
+itinere cognovimus hosce fructus, qui crudi viridi-flavescentes, aquosi
+et insulsi sunt, coctos, sive in fornace subterranea assatos, saporem
+gratum acquirere. Haec Morindae species in hisce regionibus spontanea
+est, cum passim et quidem in desertis etiam insulis reperiatur.
+Baccarum vires anodynas laudat Rumphius in Herb. amb. jjj p. 159.
+
+{42}
+
+12. SOLANUM AVICULARE. F.
+
+S. caule inermi fruticoso, foliis sinuato-pinnatifidis; corymbis
+terminalibus. F.
+
+Huius baccae fulvae, pruni majoris magnitudine, acidae, parum
+dulcescentes subnauseosae, ab incolis Novae Zeelandiae avide vorantur,
+aviculis etiam gratissimae neque nostratibus omnino rejiciendae.
+Habitat sponte in Novae Zeelandiae dumetis ruderatisque.
+
+Caulis fruticosus, erectis inermis ramosus, semiorgyalis. Rami
+herbacei, laeves, subteretes, crassitie fere digiti, breves.
+
+Folia alterna, petiolata, sinuato-pinnatifida, inferius acuminata,
+pedalia, laciniis lanceolatis oppositis, trium parium cum impari,
+laevibus integris, saturate viridibus, palmaribus. Petioli semiteretes,
+laeves, patentes, sparsi.
+
+Corymbi terminales duo sive tres, pauci-flori. Pedunculus vniversalis
+teretiusculus erectus, palmaris; partiales sex seu septem, sparsi
+uniflori, teretes, laeves, patentes, elevatione proportionali,
+pedunculo universali quasi per articulationem impositi. Flores
+violacei, pollicares, staminibus flavis.
+
+CAL. _Perianthium_ turbinatum quinquefidum, laciniis brevibus acutis.
+
+COR. monopetala plicato-rotata, tubo brevissimo, laciniis quinque
+margine plica auctis.
+
+STAM. _Filamenta_ quinque corolla breviora. _Antherae_ in tubum
+conniventes.
+
+PIST. _Germen_ oblongum. _Stylus_ longitudine staminum. _Stigma_ breve
+bilabiatum.
+
+{43}
+
+PER. _Bacca_ ovalis, aurea, bilocularis.
+
+SEM. plurima nidulantia.
+
+13. ACHRAS DISSECTA F.
+
+A. floribus confertis, corollis octodecimfidis: foliis obovatis
+emarginato-retusis. F.
+A. dissecta. _M. S. V._ p. 342, _Linn. Suppl._ pl. p. 210.
+Manyl-kara. _Rheed. Hort. Mal._ part jjj. p. 53. t. 25.
+
+Advena in hortis Malabaroram colitur nomine _Manylkara_, sive Karae
+manilensis, cum ex insulis philippinis allatam adseverent. Fructus
+huius arboris est pomum, forma et magnitudine olivae, oblongum,
+viridinitens, viscido et lacteo succo refertum, maturius purpureum,
+intus rufum, succulentum, carne acido-dulci, semen unum alterumve
+continens (reliquis loculamentis abortientibus), nucleo albo
+amariusculo. Hi fructus ibidem inter bellaria comeduntur. Folia cum
+curcumae radice et zinziberis foliis cocta et contusa ad cataplasma
+contra tumores adhibentur, Brachmanis _Manil-gale_ (sed in tabula aenea
+nomen adscriptum Vanvalli), Lusitanis _Fruita Manilha_, Belgis _Loe-
+bessen_ sive _chineesche pruynen_ vocantur; quod etiam apud Sinas
+crescant. Arborem proceram, caudice crasso, ramis longe lateque comatam
+dixit Rheede. Mihi semel visa est in Tongatabu insula, mense Septembri
+florens; fructus autem tunc temporis nullos perficiebat. E specimine
+sicco, quod pater optimus nobilissimo D. Baeck, Regis Sueciae Archiatro
+cum plurimis aliis dono miserat, Linnaeus, filius, descriptionem,
+quamvis imperfectam collegit, {44} simul et nomen rescivit, quod huic
+plantae imposueram; inventorem invide sedulo reticuit.
+
+Caulis arboreus, erectus, cortice cinereo-rufescente, tuberculato
+tectus. Rami lignosi, horizontali-adscendentes, teretes, tuberculati,
+cubitales (in nostro specimine). Ramuli erecto-adscendentes, secundi,
+teretes, tuberculati, apice foliosi, spithamei,
+
+Folia sparsa, conferta, petiolata, oblongo-obovata, apice
+subemarginata, integerrima, erecto-patentia, glabra, coriacea, supra
+dilucide viridia, subtus pallidiora, bipollicaria. Petioli teretes,
+tenues, erecto-patentes laeves, fere pollicares.
+
+Pedunculi uniflori conferti, vndique e ramulis inter folia prodeuntes,
+filiformes, patentes, saepe horizontaliter- dependentes, numerosi,
+longitudine petiolorum. Flores albidi diametro semipollicari.
+
+CAL. _Perianthium_ hexaphyllum, patens; foliolis ovatis obtusis, tribus
+exterioribus viridibus, interioribus tenerioribus albis.
+
+COR. monopetala, octodecimfida. Laciniae sex majores lineares erectae,
+lateribus involutae, calyce longiores, stamina ante eruptionem
+foventes; duodecim dimidio minores, per paria inter majores positae,
+lineares, acuminatae, extrorsum revolutae. _Nectaria_ e foliolis sex
+ovatis acuminatis inter lacinias majores corollae ad basin minorum
+positis, erectis.
+
+STAM. _Filamenta_ sex, subulata, erecta, ante apicem parum inflexa,
+longitudine calycis. _Antherae_ incumbentes, lineares, acutae, basi
+bipartitae.
+
+PIST. _Germen_ superum, exiguum, multiloculare. _Stylus_ corolla
+longior, filiformis, parum curvatus. _Stigma_ capitatum.
+
+{45}
+
+PER., SEM. non vidi, sed baccam sive pomum e germine fieri ut in
+congeneribus, ex descriptione Rheedii constat.
+
+Partes herbaceae huius arboris omnes lactescunt. Inter spontaneas harum
+insularum retuli, inscius, an fructus ab incolis pro cibo usurpentur.
+
+14. CRATAEVA RELIGIOSA. F.
+
+C. inermis, foliolis aequalibus F.
+
+Reperitur ad Coemeteria insularum o-Taheiti et Societatis, culta et
+deorum numini sacra. Fructus profert minus sapidos, edules tamen,
+quales Crataeva Tapia Linnaei, teste Rheedio; huic speciei etiam nimis
+affinis est; an cum eadem vltro conjungenda sit, dijudicent qui Tapiam
+observarunt. Nostra apud taheitenses _e-Pura-au_, sive _Purataruru_
+vocatur.
+
+Truncus arboreus, mediocris altitudinis, erectus, ramosus. Rami
+patentes, teretes, adscendentes, lignosi, cortice oliuaceo, punctis
+elevatis albidis asperso.
+
+Folia sparsa, petiolata, ternata: foliola ovato-lanceolata, acuta,
+acuminata, integerrima, glabra, tenera nervis venisque plurimis
+reticulata, spithamea; lateralia parum minora margine antico angustiore
+(sed non breviore) horizontaliter patentia. Petioli communes sparsi,
+patentes semiteretes, laeves, palmares; partiales brevissimi.
+
+Cyma terminalis subcorymbosa, semipalmaris; interdum flores solitarii
+ex axillis foliorum summorum. Pedunculi vniflori teretes, laeves, laxi,
+palmares, patentes, basi crassiusculi: Flores sesquiunciales, exalbido
+virentes, staminibus rubicundis.
+
+{46}
+
+CAL. _Perianthium_ margine inflexo receptaculum basi umbilicans,
+quadrifidum, laciniis lineari-oblongis, acutis, longitudinaliter
+rugosis.
+
+COR. _Petala_ quatuor (demto colore folia perfecte mentiuntur) erecta,
+ovato lanceolata, integerrima rachi dorsali venisque reticulata, laxa,
+tenera, candida, bipollicaria; unguibus calyce vix brevioribus,
+virentibus intus canaliculatis, extus convexis.
+
+STAM. _Filamenta_ sedecim, filiformia receptaculo inserta (nec
+gynandra) erecto patentia, petalis paullo longiora. _Antherae_
+oblongae, versatiles, inclinatae, e flavo rubicundae.
+
+PER. _Germen_ oblongum, pedicello longitudine staminum filiformi
+elevatum. _Stylus_ nullus. _Stigma_ sessile, plenum, obtusum.
+
+PER. Bacca? oblonga, bivalvis? unilocularis, pedicello ad palmarem
+longitudinem elongato insidens.
+
+SEM. oblongo-ovata, parieti valvularum affixa. ----
+
+15. CORIARIA SARMENTOSA. F.
+
+C. procumbens diffusa, foliis cordato-ovatis acuminatis integerrimis
+quinquenerviis, subpetiolatis: racemis axillaribus elongatis
+nutantibus. F.
+
+Habitat sponte in fruticetis et dumetis Novae Zeelandiae. Barbari huius
+regionis incolae, inprimis ii, qui portum obscurum (Dusky bay)
+accolunt, baccatos fructus huius fruticis colligunt, et iisdem
+vescuntur.
+
+{47} Caulis fruticosus, vix arborescens, diffusus ramosissimus,
+sarmentis elongatis decumbentibus, tetragonis, laevibus, virescentibus,
+foliatis.
+
+Folia opposita subcordato-ovata, subpetiolata, inferiora subsessilia,
+omnia integra acuminata acuta, horizontalia, laevia, quinque-nervia,
+palmaria. Petioli teretiusculi brevissimi.
+
+Pedunculi axillares foliorum superiorum, solitarii, reclinati,
+spithamei; racemus simplicissimus longus cylindraceus nutans,
+pedicellis unifloris sparsis, teretibus, filiformibus, laevibus,
+erectis, semipollicaribus, bracteatis.
+
+Bracteae brevissimae minimae ad basin pedicellorum extrorsum positae
+solitariae. Flores minuti virides, hermaphroditi.
+
+CAL. _Perianthium_ inferum, persistens breve, quinquepartitum, foliolis
+subrotundis concavis adpressis.
+
+COR. _Petala_ quinque viridia, ovata, patentia, calycem longitudine
+aequantia.
+
+STAM. _Filamenta_ decem capillaria corolla longiora. _Antherae_
+ovato-erectae, longitudine calycis.
+
+PIST. _Germina_ quinque depresso-coalita. _Styli_ quinque filiformes
+acuti, patentes reflexi decidui, longitudine staminum. _Stigmata_
+simplicia.
+
+PER. Bacca globoso-depressa, quinquepartita atro-purpurea, e petalis
+carnosis, conniventibus, semina tegentibus.
+
+SEM. quinque reniformia, striata, glabra.
+
+{48} Nobis haecce species semper floribus hermaphroditis visa est,
+nusquam vero masculi aut feminei seorsim reperiebantur.
+
+                               II. NUCES.
+
+16. COCOS NUCIFERA Linn.
+
+C. inermis, frondibus pinnatis: foliolis replicatis ensiformibus. _M.
+S. V._ p. 985. n 1.
+
+Insulae oceani australis quae intra tropicos sitae sunt, fere omnes
+hanc utilissimam palmam ferunt, humiles etiam illae, quae vix
+superficiem sali supereminent et lithophytorum aedificiis superfructae
+sunt, ut plurimum harum arborum altissimarum coma condecorantur.
+Spontaneis igitur harum regionum vegetabilibus easdem adnumerare non
+dubitamus, licet etiam cultae ibidem dentur varietates, quas ut exempla
+in novis hebridibus docent, hominum cura nobilitavit, et praesertim ad
+rem cibariam meliores reddidit. Hasce varietates, notis exterioribus
+tamen minus ab invicem dignoscendas, disertis verbis enarravit
+Clarissimus Rumphius, qui simul de usu harum arborum multifario fusius
+disseruit. Heic loci meminisle sat erit, nucibus Cocos triplex inesse
+alimentum, nempe junioribus lympham saccharatam, maturo fructu in
+materiam spongiosam cotyledonis novi surculi coagulabilem; in
+adultioribus autem nucleum candidissimum dulcissimum fragrantem,
+amygdalos longe praecellentem, primum mollem gelatinosum lacteum,
+deinde perfecta maturitate duriusculum, oleosum, ultimo deinceps loco
+ipsum huius nuclei {49} oleum, blandum, purum, dulce, variis ferculis
+admiscendum, nec non ad usus medicos cunctos idoneum, ubi oleum
+amygdalorum adhiberi solet. Incolae praeprimis insulae Taheiti et
+adjacentium insularum Societatis hocce oleum imbutum odoribus variis,
+quorum pretiosissimus, et fragrantissimus e ligno Santali extrahitur,
+pro unguento caesariei sive etiam totius corporis usurpant, eodemque
+omnia membra crebro perfricare solent. Ipsum nucis putamen, durissimum
+in adulta, in juniore tamen ante nuclei formationem molle, instar
+caulium brassicae edule est. Omnium porro palmarum cor sive caput ut
+vocant, ad trunci summitatem, pedes binos vel tres longum, rudimenta
+frondium et fructificationum anni insequentis laminis tenuissimis
+convolutis fovens, itaque pro gemma vere habendum, optimum alimentum
+praebet, nuci coryli avellanae et pedunculo brassicae cauliflorae
+palmam eripiens; sed hoc sine arboris destructione obtineri non potest.
+De vino palmarum quod colligitur e spadicis nedum erupti vulnere, cum
+id hominibus austrasiae haud innotuerit, ut et de multiplici materiei,
+frondium, foliolorum, fibrarum, nucumque ad rem familiarem et
+mechanicam usu quaecunque disseri possent, utpore citra nostrum
+propositum praetermittenda sunt. Taheitensibus _Ari_, nuces juniores
+_Nia_.
+
+17. CORYPHA VMBRACVLIFERA _Linn._
+
+C. frondibus pinnato-palmatis, plicatis filoque interjectis, stipitibus
+ciliato-spinosis. _M. S. V._ p. 984.
+
+Huius folium semel vidi in Waitahu, sive Christinae insula archipelagi
+marchionis mendozae; palmam ipsam deinde, sed minus frequentem in
+Tongatabu, {50} amicorum insula reperit Cookius (vide Itin. noviss.
+Vol. 1. p. 332.) incolis _Biu_ dictam, qui nuces eius globosas parvulas
+inter edulis habent.
+
+18. INOCARPVS EDVLIS. F. _M. S. V._ p. 408.
+
+Taheitenses huius arboris fructum _Rattá_ vocant, ipsam arborem _Hi_
+appellant, quod a voce _If_ apud Papuanos in Nova Guinea usitata non
+admodum differt; nuces _E-ifi_, quas Cookius in novissimo itinere Tom.
+1. p. 393. commemorat, ad Inocarpum quoque procul dubio referri debent.
+Earum nucleus reniformis, compressus, pollicaris circiter diametri,
+assatus et decorticatus ab insularum Societatis, Amicorum, marchionis,
+novarum Hebridum, novae Guineae et moluccarum incolis comeditur.
+Nostrates hanc nucem castanearum loco habebant; sapor tamen minus
+gratus est, licet dulcescens; substantia durior, minus farinosa,
+ventriculo debiliori non conducit. Vires plantae et praesertim corticis
+adstringentes, alvum obstipant, et dysenteriam sistunt; quare etiam ad
+hunc scopum in nosocomio amboinensi decoctum aquosum corticis crebro
+adhibetur, teste Rumphio; licet hoc medicamine aegrorum vita
+periclitari potius quam sanitas restaurari videatur. Papuani succo
+expresso glutinoso, resinoso telorum apices obliniunt, hoc autem gluten
+exsiccatione nigrum colorem induit. Forte et resinosum illud, quo
+sagittas Mallicollensium obductas vidimus et quod illorum astutia pro
+veneno nobis venditabat, ex Inocarpi succo pariter praeparatum erat.
+Nomen arboris apud Mallicollenses _Nias_ audit, apud insulae Tannae
+indigenas _Emmer_. Inocarpum arboribus cultis in hisce regionibus vix
+adnumerarem, etsi in societatis insulis forte colitur.
+
+{51} Arbor excelsa, crassitie corporis humani, cortice fusco rimoso.
+Rami liguosi tereres, patentes, varie divisi, fusci, rimosi.
+
+Folia alterna subdisticha, petiolata, ovato-oblonga, vix cordata,
+obtusa, retusaque, rarius acuta, integerrima laevia, patentia, venis
+plurimis reticulata, spithamea, (juniorum arboram pedalia). Petioli
+teretiusculi patentes, laeves, transversim striati, semipollicares.
+
+Pedunculi universales axillares, subsolitarii, teretes, patentes pube
+nigra tecti, palmares. Racemus filiformis simplicissimus. Pedicelli
+brevissimi, sparsi, conferti. Flores obscure albidi, vix semunciales.
+NB. Racemus in Linn. Suppl. pl. p. 239. perperam Spica vocatur.
+
+CAL. _Perianthium_ monophyllum bifidum, laciniis subaequalibus,
+rotundatis, pube nigra vestitis.
+
+COR. monopetala tubulosa. _Tubus_ cylindricus longitudine calycis.
+_Limbus_ quinque vel sexpartitus calyce longior, laciniis linearibus
+undulatis patentireflexis.
+
+STAM. _Filamenta_ decem vel duodecim brevissima, tubo duplici serie
+inserta, ordine superiore in ipsa fauce, cum inferiore alternante.
+_Antherae_ parvae, ovatae, erectae.
+
+PIST. _Germen_ oblongum villosum. _Stylus_ nullus. _Stigma?_ punctum
+exiguum excavatum.
+
+PER. _Drupa_ magna, reniformis vel ovata, compressa viridis,
+monosperma, pulpa carnosa tenui.
+
+{52}
+
+SEM. _Nux_ solitaria, ovata, constans e fibris lignosis, crassioribus
+intertextis: nucleo ovali, compresso, albo.
+
+OBS. Pili in germine, an stylorum vices agunt?
+
+19. TERMINALIA CATAPPA. Linn.
+
+T. Foliis obovatis, subtus tomentosis. _M. S. V._ p. 910.
+
+In hortis insulae Tannae semel hanc arborem vidimus, mense Augusto sive
+sub finem brumae foliis orbam, fructu maturo in ramulis haerente. Arbor
+erat vasta, et excelsa. Drupa tripollicaris, ovata, sulcata, nucleo
+oblongo, avellanae nucis sapore, quare etiam in Banda et Batavia inter
+obsonia cum aliis fructibus mensae apponitur, ab Europaeis enim pluris
+existimatur, quam ab indigenis, quippe qui vilipendunt quicquid ventrem
+non adeo implet. Apti sunt hi nuclei, qui amygdalorum loco adhibeantur,
+sed oleo tam copioso non pollent. Plantari solent huius generis arbores
+circa aedes in areis amplis, ubi sedilia eollocantur, propter densam
+lateque extensam quam praebent umbram. Materies exstruendis navigiis
+idonea, levis enim est et in aqua marina per multos annos perdurat.
+Cortex et folia nigrum pigmentum praebent, quo dentes Indorum
+insiciuntur, nec non atramentum Indicum inde componitur. Hanc arborem
+ter singulis annis maturos fructus perferre auctor est Rheede.
+
+20. TERMINALIA GLABRATA F.
+
+T. foliis obovatis, utriusque glabris. F.
+
+Differt a Terminalia Catappa, foliis in pagina inferiore pube
+destitutis, duplo minoribus, nuce triplo {53} minori glabra, ovali,
+minime sulcata, neque marginata, sed apice acuto, compresso et
+membranaceo quasi appendiculata: differentias essentiales curatior
+instituta comparatio forte suppeditaret; sed T. Catappam, ut supra
+monui, nonnisi foliorum et florescentiae ornatu spoliatam vidimus.
+
+Haec nostra species autem colitur ad tuguria et coemeteria insularum
+societatis; in amicorum insulis mihi sponte provenire videbatur.
+Taheitensium lingua vocatur _Auwiri_, sive etiam _e-Tara-iri_ et
+_e-Tara-heiriri_, diisque sacra habetur. Materies pro exstruendis
+cymbis, tympanis, scamnisque usurpatur. Nuclei edules sunt et instar
+amygdalarum gratum saporem habent. Arbor excelsa, ramosa, diffusa,
+ramis suboppositis, teretibus, patentibus, laeviusculis, cortice
+cinereo rimoso.
+
+Folia terminalia, conferta, petiolata, ovata, obovataque, obtusiuscula,
+integerrima, patentia, glabra, laevia, spithamea; petioli teretes,
+patentes, villo brevi rufescente vestiti, vix unciales.
+
+Pedunculi axillares foliorum summorum, simplices, teretes, filiformes,
+erecti, apice deflexi, glabri, spithamei. Racemus simplicissimus,
+floribus sparsis albidis: masculis in parte suprema pedicellatis;
+hermaphroditis in parte infima simillimis sed revera sessilibus, cum
+ipsum germen inferum vices pedicelli agat, reliquas partes
+fructificationis elevantis.
+
+   ♂. Flores Masculi.
+
+CAL. _Perianthium_ campanulatum, quinquefidum laciniis ovatis, acutis,
+aequalibus, erectis.
+
+COR. nulla.
+
+{54}
+
+_Nectarium_ urceolatum in fundo calycis, constans corpusculis quinque
+minutis brevibus, duriusculis, pilis crebris longioribus vestitis,
+calyce dimidio brevioribus.
+
+STAM. _Filamenta_ decem subulata, erecto patentia, fundo calycis
+inserta, horam quinque exteriora longitudine calycis, interiora minora.
+_Antherae_ ovatae, didymae, erectae.
+
+  ☿. Flores Hermaphroditi numerosi usque ad dimidium racemum.
+
+CAL. omnino ut in flore masculo.
+COR. omnino ut in flore masculo.
+Nect.omnino ut in flore masculo.
+STAM.omnino ut in flore masculo.
+
+PIST. _Germen_ inferum, sessile, ovato-oblongum, basi incrassatum.
+_Stylus_ superus, e fundo calycis, villo nectarii cinctus, filiformis,
+erectus, longitudine staminum. _Stigma_ simplex.
+
+PER. _Drupa_ ovalis, sessilis, acuminata, apice marcescente, compressa,
+viridis, monosperma.
+
+SEM. Nux ossea, ovalis, nucleo solitario, oblongo, albo.
+
+21. MABA MAIOR. F.
+
+M. --------
+
+Huius fructus cum illo Mabae ellipticae nostrae in omnibus convenit,
+praeterquam quod triplo major sit, bipollicaris scilicet, in
+loculamentis fovens nucleos triquetros, tenaces et insipidos, tamen
+inter edulia ab incolis usurpatos. Incolae insularum Tongatabu, {55}
+Namoka, E-uwa, Hapa-i, et ceterarum quae ad archipelagum amicorum
+pertinent, hanc arborem teste Cookio in noviss. itin. tom. I. p. 393.
+circa tuguria plantare solent. Nobis non nisi drupa ab incolis iisdem
+venum asportata innotuit, cui nomen _Maba_ imposuerant.
+
+22. STERCVLIA BALANGHAS. Linn.
+
+S. foliis ovatis integerrimis petiolatis, floribus paniculatis _M. S.
+V._ p. 866. n. 1.
+
+In Tanna insula, e novarum Hebridum congerie, hanc arborem hinc inde in
+nemoribus reperi, exeunte hyeme florum paniculas et foliorum novam
+progeniem e gemmis exserentem, fructibus praeteriti anni adhuc in
+ramulis persistentibus Cultis forte adnumerari debet cum eius nuclei,
+iuxta Rumphii testimonium non solum assati edules sint, et ab
+Amboinensibus in hunc usum adhibeantur; sed et capsulae combustae
+pigmentum _Cassomba_ dictum praebeant, cuius frequens est usus apud
+hosce populos.
+
+23. STERCVLIA FOETIDA. Linn.
+
+S. foliis digitatis. _M. S. V._ p. 866.
+
+Huius cum praecedente eadem est ratio, et usus idem. Semel visa est, et
+quidem culta, in Tanna insula.
+
+                            III. RADICES.
+
+24. CONVOLVVLVS CHRYSORRHIZVS. _Solandr._
+
+C. --------
+
+{56} Convolvuli species radice magna, tuberosa, farinacea, intense
+fulva, nauseoso-dulcis, in oceani pacifici, insulis intra tropicos
+sitis non solum, sed etiam extra tropicum in Paschatis insula (
+Ostereiland ) et in Novae Zeelandiae regionibus borealioribus passim
+inter plantas cultas reperitur. Hanc pro varietate Convolvuli Batatae
+habui, b. Solander autem qui etiam herbara et florescentiam vidit, ad
+novam speciem retulit, cui nomen Convolvuli chrysorrhizi imposuit,
+teste Parkinsonio (Journal, p. 37.). Quod si cum Rumphio credimus
+Convolvulum Batatam Linnaei ante adventum Hispanorum ex America
+meridionali, in Philippinis et Moluccanis insulis prorsus ignotum
+incognitumque fuisse; inde novo argumento Illustris Solandri sententiam
+confirmari intelligimus. C. Batatas enim apud incolas insularum
+Amboina, Banda, Ternate, Baly, cognomine adiecto _Castela_
+distinguitur, quo eundem ab hispanis (castilianis) acceptum indigitant.
+Taheitensibus autem et reliquis oceani australis gentibus illa species,
+quae harum insularum propria videtur, _Umara_ audit, vel cum
+adspiratione _Gumarra_ aut _Gumalla_.
+
+25. DIOSCOREA ALATA. Linn.
+
+D. foliis cordatis (oppositis) caule alato bulbifero. _M. S. V._ p.
+888. n.
+_Ubi_ vulgare, digitatum, anguinum, anniversarium, ovale. _Rumph.
+amboin._ V. t. 120. 121. 122. 123. 125.
+
+Synonyma omnia heic enumerata utique referri debent ad D. alatam, cui
+nomen _sativae_ meliori iure competit, quam illae speciei foliis
+alternis, quam b. Linneus, nescio qua inductus ratione sativam
+denominavit.
+
+{57} Haec enim D. alata Linnei tam in India orientali, quam
+occidentali, nec non in Africa aequinoctiali et etiam passim in oceani
+australis insulis intra Zonam torridam, immo usque ad Novam Zeelandiam,
+ab incolis colitur ob sapidissimas saluberrimasque radices, quae tostae
+aut simpliciter coctae panis loco adhiberi possunt.
+
+Ubi vulgare Rumphii (t. 120.) quod Linneus inter synonyma D.
+oppositifoliae retulit, certo certius ad D. alatam pertinet, et enim
+folia cordata et caulem alatum et bulbos in caule (p. 347.) gerit.
+
+Radix saepe tripedalis est, et triginta librarum ponderis, crassitie
+femoris, cortice nigro, carne alba seu purpurascente, viscida, post
+coctionem farinacea. Succus radicum recens acris est, et in cute
+pruritum excitat. Nucleus Cocos raspatus cum Musae pulpa et Dioscoreae
+radice commixtus, frixusque in formam pultis, Taheitensibus in deliciis
+habetur. Varietas radicibus subdigitatis, Rumph. t. 121. frequens
+occurrit in Amicorum insulis, ubi etiam anguinam istam Rumph. t. 122.
+vidimus, et aliam, cuius radices minusculae pondus unius librae vix
+superabant, cortice cinereo-albido (Cook. it. noviss. l.c.). In omnibus
+hisce insulis malaico vocabulo _Ufi_ sive _Ubi_ notissima est.
+
+26. ARUM ESCULENTUM. Linn.
+
+A acaule, foliis peltatis ovatis integerrimis: basi emarginatis. _M. S.
+V._ p. 827. n. 7.
+
+Indigenae insularum australium in huius radicis operosa cultura magnos
+labores subeunt; gaudet enim folo inundalo primis mensibus, deinde in
+sicco {58} collocanda est, ope fossae circa campos ductae. Radix magna,
+tuberosa, nutrimentum commune horum hominum, acerrima est, crudaque
+oris pruritum et excoriationem causatur; in cinere autem fervido tosta,
+acrem hanc qualitatem amittit, fitque blandior et sapida, gravat tamen
+stomachum debiliorem, alvumque constipat. Folia disci vel orbis loco,
+quo cibi imponendi sunt, in India usurpantur, suntque superne glauca et
+instar serici tomento imperceptibili mollissima. Javanice baec species
+vocatur _Tallas_, taheitensibus et novae Zeelandiae incolis _Tallo_
+sive _Tarro_. Reperitur passim in omnibus insulis oceani australis,
+intra tropicos, exceptis desertis et demersis; colitur etiam in nouae
+Zeelandiae extremitate boreali. Kelady sativum Rumph. herb. amb. tom.
+V. p. 313. t. 109. ad hanc speciem potius quam ad A. Colocasiam
+pertinere videtur.
+
+27. ARUM MACRORHIZON Linn.
+
+A. acaule, foliis peltatis cordatis repandis: basi bipartitis. _M. S.
+V._ p. 827 n. 8.
+Arum sativum _Rumph amb._ V. t. 106.
+
+Colitur passim cum praecedente. Radicem seu potius stipitem habet
+maximum, brachii crassitie et longitudine, quo elixo et a volatili
+acredine liberato indigenae vescuntur. Folia maxima amplissima,
+utrinque nitida, glabra, laete virentia. Fructificatio a charactere
+generico aliquanto recedit, flosculis in spadice omnibus et singulis
+hermaphroditis.
+
+COR. nulla.
+
+{59}
+
+STAM. _Filamenta_ nulla. _Antherae_ sex, spadici adnatae, didymae,
+singulos stylos cingunt.
+
+PIST. _Germen_ subrotundum. _Stylus_ solitarius, brevis, crassiusculus,
+apice depressus. _Stigma_, macula orbiculata in apice styli.
+
+PER. --------
+SEM. --------
+
+Taheitensibus vocatur _Apè_; ceylanensibus _Habara_; incolis insularum
+Amicorum et Sandvigiarum _Kappe_.
+
+
+28. TACCA PINNATIFIDA. F. _M. S. V._ p. 455. n. 1.
+
+Tacca sativa, et sylvatica. _Rumph. amb. tom._ V. tab. 112. 114.
+
+Radix tuberosa, tuberibus pluribus congestis, fibrillas hinc inde
+emittentibus.
+
+Folium radicale subsolitarium, petiolatum, ternatum biternatumve,
+foliolis laciniato-pinnatifidis, acutis, laevibus, patentibus ad latera
+petiolorum subdecurrentibus, dodrantalibus pedalibusve. Petiolus teres,
+fistulosus, sulcatus, (in varietate domestica laevis, maculis sordidis
+variegatus) basi infima scapum vaginans, patens, laevis.
+
+Scapus semiorgyalis, herbaceus, fistulosus, versus apicem sulcatus,
+erectus. Vmbella terminalis sessilis simplicissima. Inuolucrum circiter
+heptaphyllum, foliolis bipollicaribus, duobus exterioribus sessilibus,
+pinnatifidis, caeteris spatulatis laevibus, lamina subrotunda, apice
+acumine brevissimo. Pedunculi {60} quatuor ad octo vsque, fere
+longitudine involucri, simplicissimi, subangulati, vniflori, patentes.
+Fila octo seu duodecim longissima involucro pluries longiora patentia,
+exta umbellam dependentia, intorta, pedunculis interjecta, bractearum
+loco adsunt.
+
+CAL. Perianthium superum, hexaphillum, persistens, foliolis ovatis,
+acutis, erecto-conniventibus receptaculo insertis, tribus interioribus
+latioribus.
+
+COR. _Petala_ sex aequalia, calyce tecta, eoque dimidio breuiora,
+fornicata, medio seu collo angustiora.
+
+STAM. _Filamenta_ duodecim brevissima seu vix ulla, petalorum cucullis,
+per paria inserta. Antherae oblongae, retrorsum arcuatae, unisulcae in
+medio dorsi parieti fornicis petalorum per paria affixae, et ita arcte
+approximatae ut binae unicam referant.
+
+PIST. _Germina_ tria conniventia? vel saltim unum trilobum exiguum,
+_Styli_ tres brevissimi. _Stigmata_ obcordata biloba.
+
+PER. _Bacca_ sicca, nigra, ovata, rugosa, obsolete angulata, calyce
+coronata, trilocularis polysperma, dissepimentis exsiccatis: immatura
+hexangularis, carnosa, diametro bipollicari.
+
+SEM. plurima, ovata, compressa, striata, brunnea, pulpa exsiccata
+cohaerentia.
+
+Radix Taccae cruda inter amarissimas acerrimasque jure habetur, tametsi
+cultura hanc proprietatem aliquanto mitigavit. Rasura radicis crudae,
+aqua subigitur, quae continuo abiecta et lotione reiterata, farina
+tandem in fundo vasis dejicitur candidissima, amylo simillima, iterum
+bis terve abluenda, donec in {61} aqua nulla degustari possiit
+acrimonia. Farina ad solem exsiccatur. Prima lixivia sive infusa
+sollicite abjiciuntur, cum e radice noxias, immo lethiferas adeo
+qualitates in se susceperint. In Taheiti adjacentibusque Societatis
+insulis ex hac farina placentam gelatinosam praeparant, sapidam, et
+instar Salep, quod ex Orchide Morione (nec non O. militari et mascula)
+paratur, bene nutrientem. In Banda, moluccani archipelagi insula ubi
+panis e medulla Sagueri arboris factus non abundat, farinam Taccae in
+plagulis lapideis prius calefactis compingunt, pinsuntque placentam
+sive panem quadratum ipso Sagu meliorem. Vsus medicus huius radices
+apud eosdem homines viget, qui eandem emplastri forma vulneribus
+profundis, telo vel tribulo inflictis imponunt. Sylvestris varietas
+Taccae, phalli speciem parasiticam e radice prodeuntem sustinet, a
+Rumphio delineatam, nobis autem non visam. Varietas sativa
+taheitensibus _Pia_, sylvestris _e-Vé_ dicitur.
+
+29. DRACONTIUM POLYPHYLLUM. Linn.
+
+D. scapo brevissimo, petiolo radicato lacero, foliolis tripartitis,
+laciniis pinnatifidis. _M. S. V._ p. 829. n.
+
+Colitur in locis umbraticis nemorosis insulariun Societatis;
+taheitensibus _Teweh_ dictum; quod tamen nimis nomini Taccae silvestris
+consonum esse videtur.
+
+Radix acris, sicut omnes huius ordinis (piperitarum); ab incolis
+comeditur, deficiente artocarpi annona. An iisdem quoque vires huius
+radicis medicae, quibus Japonenses, teste Thunbergio (Fl. Jap. p. 234.)
+abutuntur, innotuerunt? Gravis quidem, sed vix injuriosa suspicio, si
+ad milites istarum insularum Errioy dictos, respicimus, qui etiam
+recens enixos partus {62} amicarum iugulant, vt barbarae legi
+satisfaciant, de non suscipiendis liberis.
+
+30. DGIDGI, radix. (Jeejee)
+
+31. MAWHAHA, radix.
+
+Hae radices reperiuntur in amicorum insulis, atque cultura conveniunt
+cum Musa et Aro. Mawhaha sapore radicibus solani tuberosi similis esse
+dicitur. Mentionem harum primus injecit Cook in noviss. itin. Vol. I.
+p. 332. 393.
+
+32. DRACAENA TERMINALIS. Linn.
+
+D. herbacea, caulescens, foliis lanceolatis. _M. S. V._ p. 334. n. 4.
+
+Radix cylindrica, praemorsa, brevis, fibrillas raras emitit. Caulis
+frutescenti-herbaceus, teres, erectus, e cicatricibus foliorum
+emortuorum quasi squamatus, fere orgyalis, saepe ramosus, ramis erecto
+patentibus, adscendentibusque, saepe etiam nullus vel brevissimus,
+apice foliosus.
+
+Folia petiolata, terminalia, conferta, ovato-lanceolata, acuta,
+acuminata, integerrima, laevia, multiplinervia erecta, glabra, bi seu
+tripedalia; petioli pedales sive bipedales pollicem crassi, erecti,
+canaliculati, equitanti-imbricati, caudicis apicem vestientes.
+
+Pedunculus semiorgyalis teres, laevis, erectisculus, crassitie digiti.
+Racemus decompositus, spicatus, foliatus. Pedunculus vniversalis
+erecto-patens teres, laevis, sulcatus; partiales alterni, teretes,
+laeves, sulcati, patentissimi, pedales et ultra, partialiores ejusdem
+situs et figurae supremi sensim minores, omnes spicati. Flores sparsi,
+sessiles, confertiusculi, albi aut in varietate β purpurei
+semipollicares. Stipulae? foliis {63} similimae, oblongo lanceolatae,
+sessiles, integerrimae extus ad basin pedunculorum solitariae,
+inferiores magis acuminatae. Bracteae tres subrotundae albido-hyalinae,
+concavae, quarum extima major, floris basin vestiunt calycis loco.
+
+CAL. nullus.
+
+COR. Monopetala, basi cylindrica, profunde sexpartita, laciniis
+oblongis, obtusis, revolutis.
+
+STAM. _Filamenta_ sex subulata, petali laciniis fere breviora.
+_Antherae_ sagittatae, basi bipartitae.
+
+PIST. _Germen_ superum, conico-ovatum, glabrum, apice poris tribus
+perforatum. _Stylus_ subtrigonus corolla paullo brevior. _Stigma_
+trigonum simplex.
+
+PER. _Bacca_ irrgulariter globosa, trilocularis polysperma, nigra.
+
+SEM. aliquot, arillo pulposo involuta, vt quasi vnum videantur, in
+quovis loculamento,
+
+Varietas β _purpurea_ foliorum venas, petiolos, pedunculos et flores
+purpureos habet. Terminalis domestica alba et purpurea, nec non
+angustifolia Rumph. Amb. IV. p. 79. 81. tab. 34. 35. omnes hunc
+spectant. Idem celeberrimus auctor radicem huius Dracaenae contra
+Diarrhaeas et Dysenteriam praestantissimam laudat, quum vires potius in
+edulcorando et obtundendo quam in constringendo exserat. Incolis
+insulae o-Taheiti cibum praebet. Folia apud incolas insulae Ternate
+_Ngassi_ i.e. mendacia vocantur, quia binos colores, viridem nempe et
+purpureum exhibent; eadem si alicui mittuntur, illum pro mendaci
+declarant. Apud indigenas autem insularum in oceano pacifico huius
+plantae folia passim amicitiae et pacis signa ac pignora sunt. Diis
+ibidem sacra habetur, et {64} inprimis ad coemeteria et aras colitur.
+Taheitice _Ti_, sive _Tibi_ i.e anima.
+
+                              IV. OLERA.
+
+33. DRACAENA INDIVISA. F.
+
+D. arborea, foliis ensiformibus auctis, racemo (laterali?) composito. F.
+
+Haecce arbor, cum proxime sequentibus, Areca oleracea et sapida, Apio
+graveolente, Tetragonia halimifolia, Lepidio oleraceo et piscidio,
+atque Soncho oleraceo inter praestantissimas plantas esculentas in
+terris austrasiae merito recenseri debet; licet eaedem vix ab incolis
+et indigenis vsurpentur; sed Europaeis, maxime post longinquum iter
+maritimum Scorbuto laborantibus, saluberrima olera praebeant.
+
+Haec Dracaenae species nascitur in sylvis ad portum Novae Zeelandiae,
+australioris, cui nomen obscuri (Duskybay) Cookius dedit, in scopulis
+mari saepe proximis. Ejus baccae ni fallor ab incolis comeduntur: folia
+autem tenella convoluta, seu potius hybernaculum arboris ex apice
+trunci prodiens, pedale, inter folia reconditum, albo flavescens,
+blandum, medullosum, cum oleo et aceto inter optima acetaria jure
+habetur. Baccae mense maio sive hyeme ineunte maturescunt. In
+temperatioribus Novae Zeelandiae regionibus circa aestuarium Reginae
+Charlottae, altera Dracaenae species reperitur, quam heic praetermitto,
+eum eius in re cibaria vsus nobis non innotuerit.
+
+{65} Caulis arboreus, teres, rimulosus, simplicissimus, indivisus,
+virens versus apicem foliis vestitus, bi seu tri-orgyalis.
+
+Folia terminalia sessilia, semiamplexicaulia, basi imbricata, late
+ensiformia, membranacea, acuta, integerrima, patentia, longidinaliter
+striata, laete virentia bipedalia, palmum lata.
+
+Racemus compositus, lateralis ex alis foliorum (sed forsan folia jam
+seriora, seu secundi anni, prodierant), ovatus, nutans, racemis
+partialibus in formam cylindricam thyrsoideam digestis. Pedunculus
+universalis bi- seu tripedalis, teres, laevis, herbaceus, diametro
+sesquipollicari: partiales spithamei approximati, erecto-patentes,
+teretes, laeves, basi instructi foliolo lanceolato, pedunculi
+longitudine; undique sparsim e pedunculo universali prodeuntes.
+Pedicelli uniflori, brevissimi, horizontales, Bracteae ad basin
+pedicelli duae, minimae, lanceolatae, acutae, concavae.
+
+CAL. nullus.
+
+COR. _Petala_ sex oblonga, subreflexa, aequalia, basi cohaerentia.
+
+STAM. _Filamenta_ sex, subulata, fere longitudine petalorum, eorumque
+basi inserta. _Antherae_ oblongae, incumbentes.
+
+PIST. _Germen_ superum. _Stylus_ filiformis breuis. _Stigma._ --------
+
+PER. _Bacca_ globosa, caerulea, supra punctis tribus excavatis notata,
+stylo persistente mucronata, trilocularis, polisperma.
+
+{66}
+
+SEM. in singulo loculamento circiter septem, arillo seu membranula
+involuta, ut unicum crederes, atra, glabra, semilunaria, triquetra.
+
+OBS. Character genericus Dracaenae in hasce duas species D. terminalem
+Linn et D. indivisam nostram non perfecte quadrat, quum harum baccae
+plane polyspermae sint, quas tamen trispermas charactter genericus
+iuxta novissimam Systematis Linneani Editionem XIVtam p. 311. 333.
+requirit. Forte haec nota D Draconi soli competit; vel etiam pro unico
+semine habebatur arillus seminibus farctus. Anne essentialis
+differentia inter Asparagi, Dracaenaeque genera in hocce arillo
+consistit?
+
+34. ARECA OLERACEA. Linn.
+
+A. foliolis integerrimis. _M. S. V._ p. 986. n. 2.
+
+Hanc arborem semel vidimus in hortis insulae Tannae, sed tum temporis
+neque florentem, neque fructus proferentem. Veri tamen simillimum est,
+eandem propter fructuum ad rem cibariam usum ab incolis cultam fuisse.
+Eius gemma sicut praecedentis Dracaenae et omnium palmarum, edulis est,
+dulcis et delicatula, tanquam brassicae caules teneriores, aut Cynarae
+receptaculum. Ob defectum florescentiae eandem ulterius examinare non
+potuimus; ad hanc speciem amandandam esse, ex Cel. Iacquini
+descriptione conclusimus.
+
+35. ARECA SAPIDA, Solander.
+
+A. --------
+
+Reperitur spontanea in nova Zeelandia usque ad aestuarium Charlottae
+reginae et frequens in Norfolciae insula deserta. Huius praecipue Cor
+sive Caput {67} in deliciis est apud nautas Europaeos, et cum oleo et
+aceto parari solet. Nomen a b. Solandro mutuati sumus, cum neque
+fructum neque florescentiam huius palmae examini nostro subiicere nobis
+datum esset. Huius forte generis est _Niu-gula_, (Cocos rubra), Palma,
+cuius _Cookius_ meminit in Tonga insula, _itineris novissimi_ tomo I.
+p. 332.
+
+36. APIUM GRAVEOLENS. Linn.
+
+A foliis caulinis cuneiformibus. _M. S. V._ p. 292.
+
+Abundat in novae Zeelandiae littoribus; legitur etiam in Paschatis
+insula, nec non intra tropicos in insulis demersis, sponte proveniens,
+incolis quantum scio, inusitatum, nautis vero scorbuticis gratissimum
+et maxime salutare.
+
+37. TETRAGONIA HALIMIFOLIA. F.
+
+T. herbacea, papulosa, foliis elliptico-rhombeis petiolatis, pedunculis
+axillaribus unifloris subsolitariis, fructu cornuto. F.
+
+Habitat in Nova Zeelandia ad oras sylvarum in plagis senticosis et
+arenosis, nec non intra tropicos in littore insulae Tongatabu. Incolis
+inusitata, sed inter olera praestantissima collocanda. Iussu enim
+immortalis Cookii dum in portu moraremur, quotidie pro ientaculo et
+prandio cocta nautis apponebatur. Tota planta conspersa est punctis
+minutissimis crystallinis, quales in Atriplice, Chenopodiis,
+Mesembryanthemisque nonnullis observantur, unde papulosa vel etiam
+rorida dici posset. Descriptionem in solo natali conscriptam non
+prorsus supervacaneam fore {68} arbitror, licet hanc nostram cum _T
+expansa_ M. S. V. p. 467. n. 6. pro eadem specie declarare vix dubitem.
+
+Caulis herbaceus, laevis, procumbens, ramosus, strii elevatis e
+marginibus petiolorum decurrentibus subangulatus, penna anserina parum
+crassior, debilis. Rami plures elongati, teretes, patentes.
+
+Folia alterna subpetiolata, ovato-rhombea, obtusiuscula, integerrima,
+horizontalia, internodiis breviora, sesqui-pollicaria. Petioli tenues
+supra planiusculi, pollicares.
+
+Pedunculi subsolitarii axillares uniflori brevissimi. Flores flavi.
+
+CAL. _Perianthium_ quadri-rarius quinque partitum, laciniis
+subaequalibus ovatis, subacutis, intus coloratis, una reliquis latiore
+magis rotundata.
+
+COR. nulla.
+
+STAM. _Filamenta_ sedecim vel duodecim subulato-capillaria, calyce
+breviora. _Antherae_ subrotundae didymae, erecto incumbentes.
+
+PIST. _Germen_ minimum. _Styli_ sex, rarius quinque, filiformes,
+decidui, subreflexi, longitudine staminum. _Stigmata_ simplicia.
+
+PER. Drupa rudis, turbinata, sive obverse conica, carnosa, versus
+apicem tetragona sive pentagona, angulis productioribus acutis cornuta.
+
+SEM. _Nux_ offea, loculamentis numero stylorum respondentibus
+monospermis. _Nuclei_ solitarii, ovati, albi.
+
+{69}
+
+38. LEPIDIUM OLERACEUM F.
+
+L. foliis elliptico-oblongis acutis serratis, floribus tetrandris. F.
+
+Habitat in Novae Zeelandiae littori arenoso inprimis ad aestuarium
+Charlottae, locis dumosis subumbraticis. Cum Apio et Tetragonia
+halimifolia quotidianum olus nautarum erat, dum in hoc portu commorati
+sumus. Inter alimenta antiscorbutica nunquam satis laudandum, saporis
+blandi, paullulum acris, ad spinachiae vel etiam lactucae saporem
+accedentis, paullo flatulentum, alvum modice aperiens.
+
+Caulis perennis, herbaceus, teres, laevis, erecto-adscendens, ramosus,
+ramis paniculatis, a pedali saepe in semorgyalem altitudinem excrescens.
+
+_Folia_ sparsa, alterna, elliptico-oblonga, utrinque attenuata,
+profunde serrata, patentia, glabra, palmaria; superiora minora, apice
+tantum serrata. Petioli (si hoc nomine malis vocare folii partem
+inferiorem angustiorem) foliis dimidio brevioris, plani extrorsum
+carinati, caulem excipientes.
+
+Pedunculi universales terminales, teretes, laeves, aphylli; Racemi
+simplices, sub inflorescentia coarctati, corymbosi, fructiferi
+palmares, cylindrici. Pedicelli plurimi, sparsi, filiformes, teretes,
+patentes, semipollicares, uniflori. Flores albi, bilineares.
+
+CAL. _Perianthium_ tetraphyllum deciduum, foliolis subrotundis
+concavis, patulis, extus subpubescentibus.
+
+COR. _Petala_ quatuor subrotunda integra, concava, calyce duplo maiora,
+ungue lineari lamina dimidio breviore.
+
+{70}
+
+STAM. _Filamenta_ quatuor, aequalia, subuata erecta, longitudine fere
+corollae. Antherae subglobosae flavae.
+
+PIST. _Germen_ ovatum. _Stylus_ cylindricus brevissimus, persistens.
+_Stigma_ obtusum.
+
+PER. _Silicula_ ovato-cordata, compressa, bilocularis, bivalvis,
+valvulis navicularibus, monospermis, dissepimento lanceolato.
+
+SEM. solitaria, ovata, acuta, flavorubentia.
+
+39. LEPIDIUM PISCIDIUM. F.
+
+L. foliis elliptico-oblongis, acutis integerrimis: floribus
+tetradynamis F.
+
+Habitat intra tropicos in insulis demersis, etiam in Huaheine et in
+Botanices insula ad novam Caledoniam adjacente. Incolis usui venit ad
+pisces inebriandos et capiendos; nobis tamen inter acetaria apponi
+solebat, acerrimumm. Simile praecedenti, sed multis notis essentialiter
+distinctum.
+
+Caulis herbaceus bipedalis, ramis patenti adscendentibus, teretibus,
+laevibus.
+
+Folia alterna, elliptico-oblonga, acuta, integerrima, patentia, laxa,
+bipollicaria, inferiora caulis basi attenuata, elongata fere petiolata.
+
+Racemi terminales, solitarii, simplices. Pedunculus universalis teres,
+laevis, erectiusculus, bipalmaris. Pedicelli sparsi, filiformes,
+patentes, corymbosi, laeves, uniflori, bilineares. Flores parvi.
+
+CAL. _Perianthium_ tetraphyllum, foliolis concavis, ovalibus,
+erectiusculis, intus albicantibus.
+
+{71}
+
+COR. _Petala_, quatuor aequalia, alba, spatulata, calyce longiora,
+angustiora, cum eius foliolis alternantia.
+
+_Nectarium_ e glandulis sex minutis compressis viridibus, staminibus
+interjectis.
+
+STAM. _Filamenta_ sex subulata longitudine calycis, horum duo, carinis
+germinis opoposita paullo minora. _Antherae_ minutae.
+
+PIST. _Germen_ oblongum, compressum, utrinque carinatum. _Stylus_
+cylindricus brevissimus. _Stigma_ simplex excavatum.
+
+PER. Silicula ovalis, compressa, apice emarginata, bilocularis,
+valvulis navicularibus compressis, carinatis.
+
+SEM. subsolitaria, ovata, apice attenuata, pedicello minimo valvularum
+apici adfixa.
+
+40. SONCHUS OLERACEUS. Linn.
+
+S. pedunculis tomentosis, calycibus glabris. _M. S. V._ p. 712. n. 5.
+
+Reperitur in Nova Zeelandia et in amicorum insulis, satis frequens.
+Ejus caules tenelli et folia juniora pro acetariis a nostratibus
+usurpari solebant.
+
+41. BOERHAAVIA ERECTA. Linn.
+
+B. Caule erecto glabro, floribus diandris.  _M. S. V._ p. 52.
+
+Caules plerumque procumbentes et in hac specie, usurpantur ab incolis
+insularum o-Taheiti et Societatis, si carior fuerit annona, et oleris
+loco comeduntur, licet vix aliquid saporis habeant. Planta sylvatica,
+sponte proveniens. Taheitensibus _Nuna-nuna_.
+
+{72}
+
+42. SOLANUM VIRIDE. _Solander_.
+
+S. --------
+
+Huius speciei mentionum injecit _Parkinson_ ( _Journ._ p. 38). Folia
+inter olera cocta sive assata comeduntur. Planta sponte proveniens,
+apud incolas vocatur _Puraheiti_.
+
+43. PORTULACA LUTEA. S.
+
+P. --------
+
+Herba simillima P. oleraceae, distinguenda tamen si Parkinsonio credas,
+quinomen a b. Solandro huic speciei impositum, tradidit in Journ. l-c.
+Mihi semel, at sine florescentia in Huaheine occurrit. Crescit in
+littore insularum Societatis et demersarum, quae lithophytorum fabricae
+incumbunt. Cocta ab incolis oleris loco comeditur, et apud Taheitenses
+nomine _Aturi_ distinguitur.
+
+                           V. SVCCEDANEA.
+
+44. AVICENNIA RESINIFERA. F.
+
+A foliis lato-lanceolatis, subtus tomentosis. F.
+
+Arbor. Specimina nostra ante florum eruptionem lecta, cum A. resinifera
+Solandri in herbario Banksiano contuli, et eiusdem speciei esse rescivi.
+
+Folia opposita, petiolata, lanceolata, coriacea, integra, acuta,
+superius nitida, subtus tomento brevissimo, flavicante incano,
+bipollicaria. Petioli brevissimi semiteretes, extrorsum rugosi,
+erectopatentes.
+
+{73} Pedunculi terminales subtrifidi, capitulo florum onusti. Gummi ex
+hac arbore exsudans forte idem est, quo barbari novae Zeelandiae
+homines vescuntur, ut patet e diario navarchi gallici Crozet, p. 67.
+
+"Je leur ai vu manger une espèce de gomme de couleur verte, dont ils
+paroissent faire grand cas. Je n'ai pu savoir, de quel arbre ils la
+tiennent. Quelquesuns de nous en ont mangé, en la faisant fondre dans
+la bouche; nous l'avons tous également trouvée d'une qualité
+très-échauffante."
+
+45. HIBISCVS TILIACEVS. Linn.
+
+H. foliis cordatis subrotundis indivisis acuminatis crenatis, caule
+arboreo, calyce exteriore decemdentato _M. S. V._ p. 629. n. 11.
+
+Calycis nota ad dignoscendam hanc speciem praestantissima est. Folia
+enim variant, aut simpliciter cordata fere orbiculata; aut in tres,
+quinosve angulos acutos excurrentia; pubescentia vel nuda; profunde
+crenata vel integerrima; majora, vel minuscula. Flores sulphurei,
+ampli, basi saturate purpurei, petalis subrotundis, unguibus oblongis.
+
+Reperitur passim intra tropicos in littore insularum Societatis,
+Marchionis, Amicorum, novarum Hebridum et novae Caledoniae. Cum
+artocarpi messis deficiat, Taheitenses huius Hibisci corticem exsugunt:
+novae Caledoniae autem homines saepius hoc alimento insulso ac minime
+nutriente vescebantur.
+
+{74}
+
+46. COIX LACRYMA. Linn. _M. S. V._ p. 842.
+
+Semina huius graminis dulcia sunt et edulia. Reperta a nobis est in
+Tongatabu et E-uwa, Amicorum insulis: nescio an cultis ibidem
+adnumeretur.
+
+47. PTERIS ESCULENTA. F.
+
+P. frondibus supradecompositis sulcatis, foliolis pinnatis, pinnis
+linearibus decurrentibus, summis brevioribus. F.
+
+Reperitur in sylvis insularum Societatis. Radices ab incolis inopibus
+et famelicis exsuguntur, insipidae, param nutrientes lignoso-fibrosae.
+
+Frondes supradecompositae, triplicato-pinnatae, maximae, radicales,
+glabrae, stipite superne sulco exarato, divisuris omnibus alternis,
+universalioribus interdum oppositis.
+
+Foliola pinnata, circiter bipollicaria, pinnis linearibus integerrimis
+obtusis, margine revolutis, coriaceis, approximatis, decurrentibus,
+inferioribus discretis, hinc inde dentatis, seu pinnatifidis, extimis
+sensim brevioribus.
+
+Fructificationis lineae marginales fere totum discum occupant,
+membranula tenui semina vix obtegente.
+
+Taheitensibus _e-Narré_.
+
+48. POLYPODIUM MEDULLARE. F.
+
+P. frondibus bipinnatis: foliolis pinnatis acuminatissimis: pinnis
+oblongis subfalcatis acutis, crenatis, stipite aspero, caudice arboreo.
+F.
+
+Haec filicis species in sylvis Novae Zeelandiae frequens est, et apud
+incolas _Mamagu_ dicitur; hi radicem {75} et caudicis inferioris
+medullam tostam comedunt; huius enim substantiae mollis et pulposae
+sapor quandam similitudinem cum rapae sapore habet, et quidem huic
+praestat, ita ut ad medullam Saguari arboris accedat. In medullari
+substantia huius polypodii succus glutinosus, rubescens abundat.
+
+Caudex orgyalis, spongiosus, substantia medullari farctus, extrorsum
+hispidus, nigricans, e casu stipitum, apice frondibus maximis
+horizontaliter fere patentibus coronatus. Frons decomposita, orgyalis
+et ultra, stipite tuberculis seu punctis callosis exiguis, rubicundis
+undique aspero. Foliola conferta, pinnata, inferiora bipollicaria,
+angusta, acuminatissima. Pinnulae omnes sessiles, oblongo-lunatae,
+acutae, infimae discretae, crenatae, superiores sensim breviores
+connexae, ut apex folii plane serratus sit, serraturis profundis acutis.
+
+Fructificationes globosae, maiusculae, in disco, simplici serie.
+
+40. POLYPODIUM DICHOTOMUM.
+
+P. frondibus dichotomis bipinnatis: pinnulis linearibus integris,
+parallelis. _Thunb. fl. jap._ p. 338. t. 37. _M. S. V._ p.938. n. 66.
+
+Sponte crescit in montibus aridis Novae Zeelandiae, nec non intra
+Tropicos, in collibus aridissimis insularum Societatis. Radice super
+igne torrefacta et lapide vel fuste conquassata vescuntur novae
+Zeelandiae homines, exsugendo partem farinosam, dulcescentem.
+Descriptio Cl. Thunbergii, qui eandem plantam in Iaponia legit, optime
+quadrat.
+
+{76}
+
+                           VI. POTULENTA.
+
+50. PIPER METHYSTICUM. F.
+
+P. foliis cordatis acuminatis multinerviis: spicis axillaribus
+solitariis brevissimis, pedunculatis, patentissimis. F.
+
+Species caute distinguenda a _Pipere latifolio_ quod in Supplem.
+plantar. p. 91. nescio quo casu Piper methysticum vocatur. Etenim non
+solum notis botanicis plurimis a vero Pipere methystico, latifolium
+illud discrepat, sed etiam toxica qualitate caret, neque in nunc usum
+ab incolis unquam adhibetor, sponteque nascit per omnes fere insulas
+oceani australis intra tropicos sitas.
+
+Piper methysticum verum inter plantas cultas earundem insularum passim
+reperitur, iis tamen exceptis, quae nigrae gentis sedes sunt, novis
+Hebridibus et Caledonia nova. Inter plantas autem cultas harum regionum
+non alia maiori cura et sollertia, neque tam adsiduis laboribus
+colitur, quam haec ipsa piperis perniciosissima species; nam et solum
+huic culturae idoneum ligonibus crebro subvertitur, et a herbis sponte
+nascentibus liberatur, simulque calce e coralliis et conchis marinis
+fatiscentibus, stercoris loco fecundatur. Radix contusa vel potius
+manducata, et cum saliva humectata, succum praebet nauseoso fervidum,
+cui affunditur liquor e nucibus Cocos, vel etiam aqua pura. Liquorem
+sic paratum acrem, nauseosum, virescentem harum insularum proceres et
+sacrificuli in deliciis habent; quo minore aquae portione commiscentur
+pocula, eo pluris existimantur, citius enim inebriant et in somnum
+resolvunt; nimis frequenter autem repetitum temetum totum corpus sicco
+{77} ardore quasi accendit. Tum oculi rubere, cutis exarescere et in
+squamulas exfoliari, quae tandem in ulcera leprosa degenerant, vel
+universam corporis maciem tabemque praesagiunt. Sapor huius liquoris
+omnium maxime ingratus, ipsis pertinacissimis potatoribus ora
+distorquet atque membra quatit horore. (Cook in itin. noviss. Vol. 1.
+p.318.). Vires videntur inesse etiam narcoticae. Nomen apud
+Taheitenses: _Ava_, apud incolas insularum Amicorum et Sandvigiarum cum
+aspiratione dura praefixa: _Kava_. Caulis plerumque orgyalem
+altitudinem attingit dichotomus, maculosus. Folia oblongo-cordata, nec
+ut in P. latifolio subrotundo cordata. Spicae rectae breves solitariae,
+nec aggregatae, longae, nutantes. Perfectam florescentiam non vidimus.
+
+51. SACCHARUM OFFICINARUM. Linn.
+
+S. floribus paniculatis, foliis planis, (lanugine flosculis longiore
+F.) _M.S.V._ p. 103. n. 2.
+
+Huius graminis magna copia plantatur in campis aridis insulae
+Paschatos, cuius incolae ob aquae penuriam, eiusdem culmos dulci succo
+plenos exsugunt. In O-Taheiti, Societatis, Marchiorum, Amicorum,
+Sandvigii insulis minus frequens, cultum tamen nec sponte proveniens,
+infantibus et pueris relinquitur. Taheitensium _To_.
+
+52. CONVOLVULUS TURPETHUM. Linn.
+
+C. foliis cordatis, angularis caule membranaceo quadrangulari,
+pedunculis multifloris. _M. S. V._ p. 201. n. 22.
+
+Sponte in insulis Societatis, Amicorum, Novarumque Hebridum nascit.
+Caules succo dulcescente abundant, taheitensium pueris grato. Apud
+Parkinsonum {78} (Journ. p. 37) vocatur Convolvulus _alatus_; Anne
+jure, a C. Turpetho separetur, videant illi quibus sequentem
+descriptionem cum vero C. Turpetho Linnaei comparare licebit.
+
+Radix brevis, digiti crassitie, emittens fibras spithamea longitudine,
+fibrillis paucis.
+
+Caules tetragoni, membranulis alati.
+
+Folia cordata, obtusiuscula, interdum angulata, palmaria Petioli
+semiteretes, folio dimidio breviores.
+
+Pedunculi teretiusculi, palmares, trifidi, pedicellis subunifloris.
+Flores albi, corollis calyce vix duplo longioribus, campanulatis,
+plicatisque, quinquefidis.
+
+Calycis foliola duo exteriora ovata villosa, reliquis duplo majora,
+(Hinc forte _Linnaeus_ in _Flora Zeylanica_, p. 31. singulo flori
+involucrum diphyllum tribuit,) tria interiora ovata glabra.
+
+Antherae spirales! Stigma globoso bilobum. Capsula membranacea,
+globoso-depressa, bilocularis, loculamentis 1. s. 2. spermis. Semina
+subrotunda, hinc angulata, atra, obscura.
+
+Nomen Taheitense _Taudihau_.
+
+53. MELALEUCA SCOPARIA. F.
+
+M. foliis alternis ovatis acutis subtrinerviis floribus terminalibus
+solitariis sessilibus. F.
+
+Melaleuca scoparia _M. S. V._ p. 699. n. 4. Leptospermum scoparium.
+_Forst. Charact. gen._ 36.
+
+Haec arbuscula Novae Zeelandiae vix locum heic meruisset, nisi eius
+flores et ramuli floriferi recentes, {79} foliis tenellis onusti ab
+Europaeis Cookium comitantibus in itineribus suis circa globum
+terraqueum et ad australes insulas, pro infuso, in Theae locum,
+adhibitaefuissent. Potus hicce suaviter aromaticus, fragrans, brevi
+tamen nimium amarorem contrahebat, scorbuticis ad instaurandam
+valetudinem non nihil forte proderat.
+
+Caulis arboreus, ramosissimus, erectiusculus, rimosus, cinereus, ramis
+diffusis, obliquis, subfastigiatis, teretibus, aphyllis, summis
+virgatis foliolis, apice herbaceis, villoso-sericeis.
+
+Folia alterna sparsa, subsessilia, ovato-lanceolata, acuta integerrima,
+trinervia, patentia, plana, laevia, punctata, supra intense viridia,
+subtus pallida, bilinearia. Petioli vix ulli, planiulculi.
+
+Flores solitarii terminales, sessiles in apice ramulorum, albi,
+magnitudine florum cerasi. Bracteae subrotundae, imbricatae, concavae,
+deciduae calycem usque ad medium cingentes, obtegentes.
+
+CAL. _Perianthium_, hemisphaericum, germini adnatum, idque umbilicans,
+margine integerrimo elevato. Limbus e foliolis quinque parvis, ovatis,
+concavis, cum petalis alternantibus, albis, extus rubicundis, deciduis.
+
+COR. _Petala_ quinque orbiculata, patentissima, planiuscula, ungue
+minimo calycis margini interiori inserta, ejus foliolis triplo longiora.
+
+STAM. _Filamenta_ vigintiquatuor, erecta, subulata, petalis dimidio
+breviora, calycis margini simplici ordine inserta. _Antherae_ didymae,
+subrotundae.
+
+PIST. _Germen_ hemisphaericum, calyce umbilicatum, inferiusque
+vestitum, supra convexiusculum. _Stylus_ filiformis, longitudine et
+directione staminum deciduus. _Stigma_ capitatum.
+
+{80}
+
+PER. _Capsula_ haemisphaerica, calyce umbilicata, supra planoconvexa,
+apice puncto excavata, quinque striata, quinquelocularis, quinquevalis,
+apice dehiscens, polysperma.
+
+SEM. plurima, minima, linearia, cylindrica, tenuissima.
+
+OBS. Haec species a Charactere generico Melaleucae aliquanto recedit,
+sed tamen eidem generi adnectitur per speciem intermediam, nempe M.
+virgatam.
+
+54. DACRYDIUM CUPRESSINUM. Solander.
+
+Pulcherrimum hocce Taxoque affine genus, cuius florescentiam non
+vidimus, ab Illustri Solandro nomen Dacrydii accepit. Reperitur in Nova
+Zeelandia, vbi Cookius, e junioribus ramusculis, foliis tenellis
+onustis, et resinosa materia amaricante scatentibus, potum, cerevisiae
+quodammodo similem, parari jubebat, cuius praestantiam in malo
+scorbutico disertis verbis extollit in hodoeporico & succedaneum
+potumcereuisiae e taleis Pini canadensis confecti, inque America
+septentrionali & inter nautas notissimi, vulgo _Spruce-beer_ esse
+voluit. Non tamen negandum est, hunc e Dacrydio cupressino paratum
+potum, jejunis nauseam et vertiginem nduxisse, parvo temporis spatio
+interjecto transeuntem.
+
+ 
