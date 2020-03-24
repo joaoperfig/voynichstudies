@@ -658,13 +658,13 @@ def graphs4():
     smoothing = False
     tokenize = True    
     filename = "../corpus/english_alice.txt"
-    tests = 1000  
+    tests = 2000  
     classes = 6
     x = []
     ms = []
     y1 = []
     y2 = []
-    for i in range(20):
+    for i in range(10):
         granfocs, compfocs, ghfocus, chfocus, avss, m = main(filename, tests, classes, order, antilarge, smoothing, tokenize)
         ms += [m]
         y1 += [(granfocs+ghfocus)/2]
@@ -689,10 +689,86 @@ def graphs4():
     plt.xlabel('Average Similarity To Others')
     plt.ylabel('Focus (compact)')
     
-
     plt.show()            
     
+def language_similarity():
+    names = ["old english", "english alice", "english herbals", "english trees", "portuguese plants", "portuguese cotton", "portuguese french crustaceans"]
+    names += ["french flowers", "occitan", "latin plants", "latin medical plants", "spanish cuentos", "italian concilio", "german plants", "german rice"]
+    names +=  ["norwegian", "greek hamlet", "hungarian", "polish", "serbian", "russian", "turkish", "arabic", "hebrew"]
+    #names = ["english alice"]
+    maps = []
+    sims = {}
+    
+    for name in names:
+        filename = "../corpus/"
+        for part in name.split(" "):
+            filename += part + "_"
+        filename = filename[:-1] + ".txt"
+        print(filename)
+        f = open(filename, "r", encoding='utf-8')
+        text = f.read()
+        f.close()      # check integrity        
+        ls = vparser.text_to_word_lists(text)
+        t = 0
+        for l in ls:
+            t += len(l)
+        print ("Average sentence length: "+str(t/len(ls)))
+    
+    antilarge = False
+    order = True
+    smoothing = False
+    tokenize = False    
+    tests = 2000  
+    classes = 6  
+    
+    for name in names:
+        filename = "../corpus/"
+        for part in name.split(" "):
+            filename += part + "_"
+        filename = filename[:-1] + ".txt"
+        maps += [main(filename, tests, classes, order, antilarge, smoothing, tokenize)]
+        sims[name] = {}
+    
+    name = "Voynich"   
+    names += [name]
+    sims[name] = {}
+    bmaps = generate_bigram_maps(vparser.text_to_word_lists(vparser.get_all_text().replace("\n", ".")))
+    m, dictionary = cluster(bmaps, classes, tests, order, antilarge, smoothing)
+    maps += [m]
+    
+    for lang in ["A", "B"]:
+        name = "Voynich " + lang 
+        names += [name]
+        sims[name] = {}
+        bmaps = generate_bigram_maps(vparser.text_to_word_lists(vparser.get_language_text(lang).replace("\n", ".")))
+        m, dictionary = cluster(bmaps, classes, tests, order, antilarge, smoothing)
+        maps += [m]        
+        
 
+    for i1 in range(len(names)):
+        for i2 in range(i1, len(names)):
+            name1 = names[i1]
+            name2 = names[i2]
+            sim = max_inter_similarity(maps[i1], maps[i2])
+            print("Similarity "+name1+" and "+name2+" is "+str(sim))
+            sims[name1][name2] = sim
+            sims[name2][name1] = sim
+            
+    res = [["SIMILARITY"]+names]
+    for name1 in names:
+        line = [name1]
+        for name2 in names:
+            line += [sims[name1][name2]]
+        res = res + [line]
+            
+    csvfilename = "../outputs/LANGUAGE_SIMILARITY.csv"
+    f = open(csvfilename, 'w', newline='')
+    with f:
+        writer = csv.writer(f)
+        for row in res:
+            writer.writerow(row)    
+    f.close()    
+    
     
 if __name__ == "__main__":
     filename = input("Please input source text filename: ")

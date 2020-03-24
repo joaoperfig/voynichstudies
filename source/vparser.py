@@ -1,7 +1,7 @@
 takashi = "../transcriptions/takahashi.txt"
 
-ignore = "\n1234567890()[],-_#$%&/={}'|/\\" + '"' + chr(8220) + chr(8221) + chr(8212)
-breaks = "\t.!?:;"
+ignore = "\n1234567890()[],-_#$%&/={}'|/\\" + '"' + chr(8220) + chr(8221) + chr(8212) + chr(191) + chr(161) 
+breaks = "\t.!?:;" + chr(1567)
 
 class Page:
     #identifier (id string)
