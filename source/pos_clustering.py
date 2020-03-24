@@ -6,6 +6,7 @@ import nltk
 import csv
 import numpy as np
 import matplotlib.pyplot as plt
+import itertools
 
 pt_bible = "../corpus/portuguese_bible.txt"
 en_bible = "../corpus/english_bible.txt"
@@ -134,7 +135,7 @@ def find_fast_order_similar(maps, tests, antilarge=False):
                 if (sim > best):
                     best = sim
                     bw2 = word2      
-                    if (not smoothing) and (sim > 0.9999): #already found perfect pair
+                    if (sim > 0.9999): #already found perfect pair
                         return word1, bw2, best                
     else:
         for i in range(tests):
@@ -147,7 +148,7 @@ def find_fast_order_similar(maps, tests, antilarge=False):
             if (sim > best):
                 best = sim
                 bw2 = word2        
-                if (not smoothing) and (sim > 0.9999): #already found perfect pair
+                if (sim > 0.9999): #already found perfect pair
                     return word1, bw2, best            
     return  word1, bw2, best
             
@@ -358,18 +359,22 @@ def make_tokenized_file(tokenmap, dictionary, originalmap, csvfilename):
             total += originalmap[word][2]        
         for clas in list(classes):
             classes[clas] = (classes[clas]/total)*100
-        granularfocus[wordclass] = focus_metric([classes[clas] for clas in list(classes)])*100
+        pregran = []
         for token in tokens:
             if token in list(classes):
                 table[token] += [classes[token]]
+                pregran += [classes[token]]
             else:
                 table[token] += [0]
+                pregran += [0]
+        granularfocus[wordclass] = focus_metric(pregran)*100
     tokens = sorted(tokens)
-    result = [["Class"]+wordclasses]
+    result = [["Class"]+wordclasses+[""]+["Focus"]]
+    ghfocus = []
     for token in tokens:
         if max(table[token]) > 0:
-            result = result + [[token]+table[token]]
-            
+            result = result + [[token]+table[token]+[""]+[focus_metric(table[token])*100]]
+            ghfocus += [focus_metric(table[token])*100]
     result += [[]] #empty line
     result += [["Focus"]+[granularfocus[clas] for clas in wordclasses]]    
     result += [[]] #empty line
@@ -404,10 +409,11 @@ def make_tokenized_file(tokenmap, dictionary, originalmap, csvfilename):
         for i in range(len(table[token])):
             compacts[joinwith][i] += table[token][i]
     miniclasses = sorted(list(compacts))
+    chfocus = []
     for miniclass in miniclasses:
         if max(compacts[miniclass]) > 0:
-            result = result + [[miniclass]+compacts[miniclass]]
-    
+            result = result + [[miniclass]+compacts[miniclass]+[""]+[focus_metric(compacts[miniclass])*100]]
+            chfocus += [focus_metric(compacts[miniclass])*100]
     reorder = {}  
     for wordclass in wordclasses:
         reorder[wordclass] = []
@@ -433,9 +439,11 @@ def make_tokenized_file(tokenmap, dictionary, originalmap, csvfilename):
     granfocs = [granularfocus[clas] for clas in wordclasses]
     compfocs = [compactfocus[clas] for clas in wordclasses]
     
-    return sum(granfocs)/len(granfocs) , sum(compfocs)/len(compactfocus)
+    return sum(granfocs)/len(granfocs) , sum(compfocs)/len(compfocs), sum(ghfocus)/len(ghfocus), sum(chfocus)/len(chfocus)
     
 def focus_metric(values):
+    if(len(values)==1):
+        return 1
     a = 0
     total = 0
     b = 1/len(values)
@@ -446,6 +454,57 @@ def focus_metric(values):
         return math.sqrt(((a/(total**2)) - b)/(1 - b))
     except:
         return 0
+    
+def average_self_similarity(maps):
+    words = list(maps)
+    total = 0
+    count = 0
+    for word1 in words:
+        for word2 in words:
+            if word1 != word2:
+                sim = cosine_word_similarity(maps[word1], maps[word2])
+                total += sim
+                count += 1
+    return total/count
+
+def rename_maps(maps, originalwords, newwords):
+    if len(originalwords) != len(newwords):
+        print("ERROR: len(originalwords) != len(newwords)")
+        return False
+    for i in range(len(originalwords)):
+        originalw = originalwords[i]
+        newword = newwords[i]
+        maps[newword] = maps[originalw]
+        del maps[originalw]
+        replace_all_instances_in_maps(maps, originalw, newword)
+    return maps
+        
+
+def max_inter_similarity(maps1, maps2):
+    words = list(maps1)
+    newwords = ["$$new"+str(i)+"$$" for i in range(len(words))]
+    permutations = list(itertools.permutations(newwords))
+    newmaps1 = rename_maps(copy.deepcopy(maps1), words, newwords)
+    maxi = 0
+    words = list(maps2)
+    for perm in permutations:
+        newmaps2 = rename_maps(copy.deepcopy(maps2), words, perm)
+        sim = inter_similarity(newmaps1, newmaps2)
+        if (sim > maxi):
+            maxi = sim
+    return maxi    
+    
+def inter_similarity(maps1, maps2): #for two maps that have the same classnames
+    if len(list(maps1)) != len(list(maps2)):
+        print ("ERROR: inter_similarity between different size maps")
+        return 0
+    words = list(maps1)
+    total = 0
+    div = 0
+    for word in words:
+        total += cosine_word_similarity(maps1[word], maps2[word]) * (maps1[word][2] + maps2[word][2])
+        div += (maps1[word][2] + maps2[word][2])
+    return total / div
 
 def main(filename, tests, classes, order, antilarge, smoothing, tokenize):
     textstring = get_text(filename)
@@ -467,7 +526,7 @@ def main(filename, tests, classes, order, antilarge, smoothing, tokenize):
     if tokenize:
         print("Tokenizing...")
         tokenmap = make_token_map(textstring)
-        granfocs, compfocs = make_tokenized_file(tokenmap, dictionary, originalmaps, csvfilename)
+        granfocs, compfocs, ghfocus, chfocus = make_tokenized_file(tokenmap, dictionary, originalmaps, csvfilename)
     else:
         tokenmap = None
     results = nice_results(dictionary, originalmaps, maps, tokenmap)
@@ -476,21 +535,13 @@ def main(filename, tests, classes, order, antilarge, smoothing, tokenize):
     f.write(results + "\n\n\n" + str(dictionary) + "\n\n\n" + str(maps))
     f.close()
     print("exported to,",outfilename)
+    avss = average_self_similarity(maps)
+    print("average self_similarity:", avss)
     if tokenize:
-        return granfocs, compfocs    
-
-if __name__ == "__main__":
-    filename = input("Please input source text filename: ")
-    tests = eval(input("Please input how many samples per join: "))
-    classes = eval(input("Please input the number of final classes: "))
-    order = eval(input("Use ordered collapsing? True, False: "))
-    antilarge = eval(input("Use antilarge? True, False: "))
-    if order:
-        smoothing = False
-    else:
-        smoothing = eval(input("Use smooting? True, False: "))
-    tokenize = eval(input("Verify with tokenizer? True, False: "))
-    print(main(filename, tests, classes, order, antilarge, smoothing, tokenize))
+        print ("average granular focus:", (granfocs+ghfocus)/2)
+        print ("average compact focus:", (compfocs+chfocus)/2)
+        return granfocs, compfocs, ghfocus, chfocus, avss, maps
+    return maps
     
 def graphs():    
     filename = "../corpus/english_alice.txt"
@@ -503,7 +554,7 @@ def graphs():
     y11 = []
     y12 = []
     for tests in x1:
-        r1, r2 = main(filename, tests, classes, order, antilarge, smoothing, tokenize)
+        r1, r2, s1, s2 = main(filename, tests, classes, order, antilarge, smoothing, tokenize)
         y11 += [r1]
         y12 += [r2]
         
@@ -512,7 +563,7 @@ def graphs():
     y21 = []
     y22 = []
     for classes in x2:
-        r1, r2 = main(filename, tests, classes, order, antilarge, smoothing, tokenize)
+        r1, r2, s1, s2 = main(filename, tests, classes, order, antilarge, smoothing, tokenize)
         y21 += [r1]
         y22 += [r2]    
         
@@ -529,7 +580,132 @@ def graphs():
     plt.ylabel('Focus')
     
     plt.show()
+    
+def graphs2():
+    x = list(range(1,41))
+    antilarge = False
+    order = True
+    smoothing = False
+    tokenize = True    
+    filename = "../corpus/english_alice.txt"
+    tests = 2500    
+    y11 = []
+    y12 = []
+    y13 = []
+    y21 = []
+    y22 = []
+    y23 = []
+    for classes in x:
+        granfocs, compfocs, ghfocus, chfocus = main(filename, tests, classes, order, antilarge, smoothing, tokenize)
+        y11 += [granfocs]
+        y12 += [ghfocus]   
+        y13 += [(granfocs+ghfocus)/2]
+        y21 += [compfocs]
+        y22 += [chfocus]
+        y23 += [(compfocs+chfocus)/2]
+        
+    plt.subplot(2, 1, 1)
+    plt.plot(x, y11, label="vertical")
+    plt.plot(x, y12, label="horizontal")
+    plt.plot(x, y13, label="average")
+    plt.xlabel('Classes (granular)')
+    plt.ylabel('Focus')
+    plt.legend(loc='best')
+    
+    plt.subplot(2, 1, 2)
+    plt.plot(x, y21, label="vertical")
+    plt.plot(x, y22, label="horizontal")
+    plt.plot(x, y23, label="average")
+    plt.xlabel('Classes (compact)')
+    plt.ylabel('Focus')
+    
+    plt.legend(loc='best')
+    plt.show()    
+    
+def graphs3():
+    antilarge = False
+    order = True
+    smoothing = False
+    tokenize = True    
+    filename = "../corpus/english_alice.txt"
+    tests = 1000  
+    classes = 10
+    x = []
+    y1 = []
+    y2 = []
+    for i in range(50):
+        granfocs, compfocs, ghfocus, chfocus, avss = main(filename, tests, classes, order, antilarge, smoothing, tokenize)
+        x += [avss]
+        y1 += [(granfocs+ghfocus)/2]
+        y2 += [(compfocs+chfocus)/2]
+        
+    plt.subplot(2, 1, 1)
+    plt.scatter(x, y1)
+    plt.xlabel('Average Self Similarity')
+    plt.ylabel('Focus (granular)')
+    
+    plt.subplot(2, 1, 2)
+    plt.scatter(x, y2)
+    plt.xlabel('Average Self Similarity')
+    plt.ylabel('Focus (compact)')
+    
+
+    plt.show()        
+
+def graphs4():
+    antilarge = False
+    order = True
+    smoothing = False
+    tokenize = True    
+    filename = "../corpus/english_alice.txt"
+    tests = 1000  
+    classes = 6
+    x = []
+    ms = []
+    y1 = []
+    y2 = []
+    for i in range(20):
+        granfocs, compfocs, ghfocus, chfocus, avss, m = main(filename, tests, classes, order, antilarge, smoothing, tokenize)
+        ms += [m]
+        y1 += [(granfocs+ghfocus)/2]
+        y2 += [(compfocs+chfocus)/2]
+        
+    for m1 in ms:
+        t = 0
+        c = 0
+        for m2 in ms:
+            if m1 != m2: 
+                t += max_inter_similarity(m1, m2)
+                c += 1
+        x += [t/c]
+        
+    plt.subplot(2, 1, 1)
+    plt.scatter(x, y1)
+    plt.xlabel('Average Similarity To Others')
+    plt.ylabel('Focus (granular)')
+    
+    plt.subplot(2, 1, 2)
+    plt.scatter(x, y2)
+    plt.xlabel('Average Similarity To Others')
+    plt.ylabel('Focus (compact)')
+    
+
+    plt.show()            
+    
 
     
+if __name__ == "__main__":
+    filename = input("Please input source text filename: ")
+    tests = eval(input("Please input how many samples per join: "))
+    classes = eval(input("Please input the number of final classes: "))
+    order = eval(input("Use ordered collapsing? True, False: "))
+    antilarge = eval(input("Use antilarge? True, False: "))
+    if order:
+        smoothing = False
+    else:
+        smoothing = eval(input("Use smooting? True, False: "))
+    tokenize = eval(input("Verify with tokenizer? True, False: "))
+    print(main(filename, tests, classes, order, antilarge, smoothing, tokenize))
+        
 #maps, dictionary = cluster(generate_bigram_maps(vparser.text_to_word_lists(get_text(en_bible))), 20, 1000)
 #print(dictionary)
